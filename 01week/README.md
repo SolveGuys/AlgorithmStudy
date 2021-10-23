@@ -22,6 +22,7 @@ ___
 [전체 문제 보기](https://www.acmicpc.net/problem/11066)
 ### 풀이
 - [ChoiSB의 풀이](https://dev-sbee.tistory.com/176)
+- [JohnNaksaing의 풀이](/JohnNaksaing/boj_11066.md)
 - 풀이 작성 후 링크를 연결해주세요
 
 ___
