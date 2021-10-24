@@ -5,6 +5,7 @@
 
 ### 풀이
 - [ChoiSB의 풀이](https://dev-sbee.tistory.com/178)
+- [JohnNaksaing의 풀이](./JohnNaksaing/boj_1525.md)
 - 풀이 작성 후 링크를 연결해주세요
 
 ___
