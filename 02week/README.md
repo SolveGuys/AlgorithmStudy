@@ -19,6 +19,7 @@ ___
 ### 문제
 [전체 문제 보기](https://www.acmicpc.net/problem/2229)
 ### 풀이
+- [ChoiSB의 풀이](https://dev-sbee.tistory.com/183)
 - 풀이 작성 후 링크를 연결해주세요
 
 ___
