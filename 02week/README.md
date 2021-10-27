@@ -1,3 +1,4 @@
+
 # 2주차 문제 목록 📝
 ## BOJ 16324 인구 이동
 ### 문제
@@ -20,6 +21,7 @@ ___
 [전체 문제 보기](https://www.acmicpc.net/problem/2229)
 ### 풀이
 - [ChoiSB의 풀이](https://dev-sbee.tistory.com/183)
+- [JohnNaksaing의 풀이](./JohnNaksaing/BOJ2229.md)
 - 풀이 작성 후 링크를 연결해주세요
 
 ___
