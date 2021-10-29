@@ -10,17 +10,18 @@
 
 ### Weekly Challenges 
 
-[01주차](#week-01)
-[02주차](#week-02)
+[01주차](./01week)
+
+[02주차](./02week)
 
 
-## [Week 01](./01week)
+## Week 01
 
 BOJ 1525 퍼즐
 BOJ 15683 감시
 BOJ 11066 파일합치기
 
-## [Week 02](./02week)
+## Week 02
 
 BOJ 16324 인구 이동
 BOJ 15684 사다리 타기
