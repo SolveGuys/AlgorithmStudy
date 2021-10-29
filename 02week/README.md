@@ -14,6 +14,7 @@ ___
 [전체 문제 보기](https://www.acmicpc.net/problem/15684)
 
 ### 풀이
+- [ChoiSB의 풀이](https://dev-sbee.tistory.com/185)
 - 풀이 작성 후 링크를 연결해주세요
 
 ___
