@@ -1,3 +1,8 @@
+#include <vector>
+#include <iostream>
+#include <queue>
+#include <cmath>
+
 template<typename T>
 using matrix = std::vector<std::vector<T>>;
 
@@ -24,11 +29,12 @@ void search(bool& out_men_moved, std::queue<where>& bfs_unions, matrix<contry>& 
 		{
 			where next = where(current.x + dirX[idx], current.y + dirY[idx]);
 
-			if (next.x >= 0 && next.y < World.size() && next.y >= 0 && next.y < World.size()
+			if (0 <= next.x && next.x < World.size() && 0 <= next.y && next.y < World.size()
 				&& !World[current.x][current.y].visited)
 			{
 				int diff = std::abs(World[current.x][current.y].population - World[next.x][next.y].population);
-				if (diff >= L && diff <= R)
+					
+				if (L <= diff && diff <= R)
 				{
 					World[current.x][current.y].visited = true;
 					out_men_moved = true;
