@@ -1,3 +1,32 @@
+#include <iostream>
+#include <vector>
+#include <cmath>
+
+int main() {
+
+	int N;
+	std::cin >> N ;
+	
+	std::vector<int> numbers(N+1);
+	std::vector<int> dp(N + 1);
+	
+	for (int i = 1; i <= N; i++) {
+		int max = 0, min = 10001;
+		std::cin >> numbers[i];
+
+		for (int j = i; j > 0; j--) {
+			max = std::max(max, numbers[j]);
+			min = std::min(min, numbers[j]);
+			dp[i] = std::max(dp[i], max - min + dp[j - 1]);
+		}
+	}
+
+
+	std::cout << dp[N];
+	return 0;
+}
+
+/*
 #include <vector>
 #include <iostream>
 
@@ -46,3 +75,4 @@ int main() {
 
 	return 0;
 }
+*/
