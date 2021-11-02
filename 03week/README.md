@@ -15,8 +15,8 @@ ___
 ## BOJ 2616 소형기관차
 ### 문제
 [전체 문제 보기](https://www.acmicpc.net/problem/2616)
-
 ### 풀이
+- [JohnNaksing의 풀이](./JohnNaksaing/BOJ2616.md)
 
 
 ___
