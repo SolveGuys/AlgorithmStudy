@@ -11,7 +11,7 @@
 ### Weekly Challenges 
 
 [01주차](./01week)  
-[02주차](./02week)
+[02주차](./02week)  
 [03주차](./03week)
 
 
