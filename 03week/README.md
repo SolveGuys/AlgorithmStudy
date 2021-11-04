@@ -4,6 +4,7 @@
 [전체 문제 보기](https://www.acmicpc.net/problem/14719)
 ### 풀이
 - [JohnNaksing의 풀이](./JohnNaksaing/BOJ14719.md)
+- [ChoiSB의 풀이](https://dev-sbee.tistory.com/188)
 
 ___
 ## BOJ 15686 치킨 배달
@@ -19,6 +20,7 @@ ___
 [전체 문제 보기](https://www.acmicpc.net/problem/2616)
 ### 풀이
 - [JohnNaksing의 풀이](./JohnNaksaing/BOJ2616.md)
+- [ChoiSB의 풀이](https://dev-sbee.tistory.com/187)
 
 
 ___
