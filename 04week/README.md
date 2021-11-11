@@ -1,4 +1,4 @@
-# 3주차 문제 목록 📝
+# 4주차 문제 목록 📝
 ## 프로그래머스 42888 오픈채팅방
 ### 문제
 [전체 문제 보기](https://programmers.co.kr/learn/courses/30/lessons/42888)
