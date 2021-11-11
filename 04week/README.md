@@ -3,7 +3,7 @@
 ### 문제
 [전체 문제 보기](https://programmers.co.kr/learn/courses/30/lessons/42888)
 ### 풀이
-- [JohnNaksing의 풀이]()
+- [JohnNaksing의 풀이](./JohnNaksaing/Programmers42888.md)
 - [ChoiSB의 풀이](https://dev-sbee.tistory.com/189)
 - [nmp9981의 풀이](https://blog.naver.com/tybnasgo/222561010623)
 
