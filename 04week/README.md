@@ -20,7 +20,7 @@ ___
 ### 문제
 [전체 문제 보기](https://acmicpc.net/problem/8980)
 ### 풀이
-- JohnNaksing의 풀이
+- [JohnNaksing의 풀이](./JohnNaksaing/BOJ8980.md)
 - [ChoiSB의 풀이](https://dev-sbee.tistory.com/191)
 - [nmp9981의 풀이](https://blog.naver.com/tybnasgo/222561196450)
 
