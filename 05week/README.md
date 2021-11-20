@@ -4,7 +4,7 @@
 [전체 문제 보기](https://programmers.co.kr/learn/courses/30/lessons/42890)
 ### 풀이
 - [ChoiSB의 풀이](https://dev-sbee.tistory.com/193?category=1228989)
-
+- [nmp9981의 풀이](https://m.blog.naver.com/tybnasgo/222574117019)
 ___
 ## BOJ 11559 Puyo Puyo
 ### 문제
