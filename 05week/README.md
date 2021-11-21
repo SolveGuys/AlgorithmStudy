@@ -12,6 +12,7 @@ ___
 ### 풀이
 - [JohnNaksaing의 풀이](./JohnNaksaing/BOJ11559.md)
 - [nmp9981의 풀이](https://m.blog.naver.com/PostView.naver?blogId=tybnasgo&logNo=222572067116&navType=by)
+- [ChoiSB의 풀이](https://dev-sbee.tistory.com/194)
 ___
 ## BOJ 7579 앱
 ### 문제
