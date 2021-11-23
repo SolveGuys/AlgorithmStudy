@@ -16,5 +16,5 @@ ___
 ### 문제
 [전체 문제 보기](https://www.acmicpc.net/problem/16235)
 ### 풀이
-
+- [nmp9981의 풀이](https://m.blog.naver.com/tybnasgo/222576736487?afterWebWrite=true)
 ___
