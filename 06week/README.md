@@ -11,6 +11,7 @@ ___
 [전체 문제 보기](https://www.acmicpc.net/problem/11049)
 ### 풀이
 - [nmp9981의 풀이](https://m.blog.naver.com/PostView.naver?blogId=tybnasgo&logNo=222575654694&navType=by)
+- [ChoiSB의 풀이](https://dev-sbee.tistory.com/196)
 ___
 ## BOJ 16235 나무 재테크
 ### 문제
