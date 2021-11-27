@@ -4,7 +4,7 @@
 [전체 문제 보기](https://programmers.co.kr/learn/courses/30/lessons/42892)
 ### 풀이
 - [ChoiSB의 풀이](https://dev-sbee.tistory.com/195)
-
+- [nmp9981의 풀이](https://blog.naver.com/tybnasgo/222580133087)
 ___
 ## BOJ 11049 행렬 곱셈 순서
 ### 문제
