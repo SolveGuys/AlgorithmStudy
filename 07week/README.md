@@ -9,7 +9,7 @@ ___
 ### 문제
 [전체 문제 보기](https://www.acmicpc.net/problem/17140)
 ### 풀이
-- [nmp9981의 풀이](https://m.blog.naver.com/PostView.naver?blogId=tybnasgo&logNo=222575654694&navType=by)
+- [nmp9981의 풀이](https://blog.naver.com/tybnasgo/222580797803)
 
 ___
 ## BOJ 10942 팰린드롬?
