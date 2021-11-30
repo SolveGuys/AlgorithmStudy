@@ -3,7 +3,7 @@
 ### 문제
 [전체 문제 보기](https://programmers.co.kr/learn/courses/30/lessons/42893)
 ### 풀이
-
+-[ChoiSB의 풀이](https://dev-sbee.tistory.com/208)
 ___
 ## BOJ 17140 이차원 배열과 연산
 ### 문제
