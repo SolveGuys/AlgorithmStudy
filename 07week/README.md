@@ -12,6 +12,7 @@ ___
 ### 풀이
 - [nmp9981의 풀이](https://blog.naver.com/tybnasgo/222580797803)
 - [ChoiSB의 풀이](https://dev-sbee.tistory.com/210)
+- [JohnNaksaing의 풀이](./JohnNaksaing/boj17140.md)
 
 ___
 ## BOJ 10942 팰린드롬?
@@ -20,3 +21,11 @@ ___
 ### 풀이
 - [nmp9981의 풀이](https://blog.naver.com/tybnasgo/222581093113)
 - [ChoiSB의 풀이](https://dev-sbee.tistory.com/211)
+- [JohnNaksaing의 풀이](./JohnNaksaing/boj10942.md)
+
+___
+## 보너스 문제 : 인피니티 워 (WIP)
+### 문제
+[전체 문제 보기](./JohnNaksaing/bonus.md)
+### 풀이
+- [JohnNaksaing의 코드](./JohnNaksaing/bonus.cpp)
