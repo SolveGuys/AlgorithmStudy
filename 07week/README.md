@@ -19,4 +19,4 @@ ___
 [전체 문제 보기](https://www.acmicpc.net/problem/10942)
 ### 풀이
 - [nmp9981의 풀이](https://blog.naver.com/tybnasgo/222581093113)
-- 
+- [ChoiSB의 풀이](https://dev-sbee.tistory.com/211)
