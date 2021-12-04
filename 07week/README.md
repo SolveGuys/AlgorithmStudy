@@ -5,6 +5,7 @@
 ### 풀이
 - [ChoiSB의 풀이](https://dev-sbee.tistory.com/208)
 - [nmp9981의 풀이](https://blog.naver.com/tybnasgo/222586160149)
+
 ___
 ## BOJ 17140 이차원 배열과 연산
 ### 문제
@@ -26,6 +27,6 @@ ___
 ___
 ## 보너스 문제 : 인피니티 워 (WIP)
 ### 문제
-[전체 문제 보기](./JohnNaksaing/bonus.md)
+[전체 문제 보기](./JohnNaksaing/bonus01.md)
 ### 풀이
-- [JohnNaksaing의 코드](./JohnNaksaing/bonus.cpp)
+- [JohnNaksaing의 코드](./JohnNaksaing/bonus01.cpp)
