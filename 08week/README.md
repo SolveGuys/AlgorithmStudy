@@ -10,7 +10,7 @@ ___
 ### 문제
 [전체 문제 보기](https://www.acmicpc.net/problem/1089)
 ### 풀이
-
+- [nmp9981의 풀이](https://blog.naver.com/tybnasgo/222591524505)
 
 ___
 ## BOJ 2342 Dance Dance Revolution
