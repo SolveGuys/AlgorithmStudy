@@ -13,6 +13,7 @@ ___
 ### 풀이
 - [nmp9981의 풀이](https://blog.naver.com/tybnasgo/222591524505)
 - [ChoiSB의 풀이](https://dev-sbee.tistory.com/213)
+- [JohnNaksaing의 풀이](./JohnNaksaing/boj1089.md)
 
 ___
 ## BOJ 2342 Dance Dance Revolution
