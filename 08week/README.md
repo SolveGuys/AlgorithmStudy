@@ -5,7 +5,7 @@
 ### 풀이
 - [ChoiSB의 풀이](https://dev-sbee.tistory.com/212)
 - [nmp9981의 풀이](https://blog.naver.com/tybnasgo/222592938685)
-
+- [JohnNaksaing의 풀이](./JohnNaksaing/Prog_60059.cpp)
 ___
 ## BOJ 1089 스타트링크 타워
 ### 문제
