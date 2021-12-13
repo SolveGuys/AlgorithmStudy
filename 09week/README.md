@@ -10,7 +10,6 @@ ___
 ### 문제
 [전체 문제 보기](https://www.acmicpc.net/problem/2457)
 ### 풀이
-- [nmp9981의 풀이](https://blog.naver.com/tybnasgo/222594740768)
 
 
 ___
@@ -18,5 +17,5 @@ ___
 ### 문제
 [전체 문제 보기](https://www.acmicpc.net/problem/1915)
 ### 풀이
-
+- [nmp9981의 풀이](https://blog.naver.com/tybnasgo/222594740768)
 
