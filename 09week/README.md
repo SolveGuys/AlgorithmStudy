@@ -3,7 +3,7 @@
 ### 문제
 [전체 문제 보기](https://programmers.co.kr/learn/courses/30/lessons/60061)
 ### 풀이
-
+- [ChoiSB의 풀이](https://dev-sbee.tistory.com/215)
 
 ___
 ## BOJ 2457 공주님의 정원
