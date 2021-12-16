@@ -11,6 +11,7 @@ ___
 [전체 문제 보기](https://www.acmicpc.net/problem/2457)
 ### 풀이
 - [ChoiSB의 풀이](https://dev-sbee.tistory.com/216)
+- [nmp9981의 풀이](https://blog.naver.com/tybnasgo/222596814226)
 
 ___
 ## BOJ 1915 가장 큰 정사각형
