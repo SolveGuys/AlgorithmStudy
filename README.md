@@ -66,7 +66,8 @@ BOJ 10942 팰린드롬?
 BOJ 1089 스타트링크 타워  
 BOJ 2342 Dance Dance Revolution
 
-## Week 0
+## Week 09
 프로그래머스 60061 기둥과 보 설치  
 BOJ 2457 공주님의 정원  
-BOJ 1915 가장 큰 정사각형  
+BOJ 1915 가장 큰 정사각형
+
