@@ -5,6 +5,7 @@
 ### 풀이
 - [ChoiSB의 풀이](https://dev-sbee.tistory.com/215)
 - [JohnNaksaing의 풀이](./JohnNaksaing/prog60061.cpp)
+- [nmp9981의 풀이](https://blog.naver.com/tybnasgo/222601208294)
 
 ___
 ## BOJ 2457 공주님의 정원
