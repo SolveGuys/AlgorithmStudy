@@ -24,7 +24,7 @@ int main()
 	elevator_info::bVisited = std::vector<bool>(F+1,false);
 	search_ds_type<node> elevator;
 
-	elevator_info::bVisited[S] = true, elevator.push({ S,0 });
+	node::bVisited[S] = true, elevator.push({ S,0 });
 	
 	int answer_howmany_move = -1;
 	while (!elevator.empty()) 
@@ -41,10 +41,10 @@ int main()
 			break;
 		}
 
-		if (floor + U <= F && !elevator_info::bVisited[floor + U])
-			elevator_info::bVisited[floor + U] = true, elevator.push({ floor + U, moves + 1 });
-		if (floor - D > 0 && !elevator_info::bVisited[floor - D])
-			elevator_info::bVisited[floor - D] = true, elevator.push({ floor - D, moves + 1 });
+		if (floor + U <= F && !node::bVisited[floor + U])
+			node::bVisited[floor + U] = true, elevator.push({ floor + U, moves + 1 });
+		if (floor - D > 0 && !node::bVisited[floor - D])
+			node::bVisited[floor - D] = true, elevator.push({ floor - D, moves + 1 });
 	}
 
 	if (answer_howmany_move == -1) std::cout << "use the stairs";
