@@ -4,7 +4,7 @@
 ### 문제
 [전체 문제 보기](https://www.acmicpc.net/problem/5014)
 ### 풀이
-- 풀이 작성 후, 링크를 공유해 주세요.
+- [nmp9981의 풀이](https://blog.naver.com/tybnasgo/222606071766)
 
 ## BOJ 2252 줄 세우기
 ### 문제
