@@ -11,7 +11,7 @@
 ### 문제
 [전체 문제 보기](https://www.acmicpc.net/problem/2252)
 ### 풀이
-- 풀이 작성 후, 링크를 공유해 주세요.
+- [nmp9981의 풀이](https://blog.naver.com/tybnasgo/222527734345)
 
 ## BOJ 17070 파이프 옮기기 1
 ### 문제
