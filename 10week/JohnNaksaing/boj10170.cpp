@@ -1,3 +1,5 @@
+#include <iostream>
+#include <vector>
 template<typename _Ty>
 using map_2d = std::vector<std::vector<_Ty>>;
 
