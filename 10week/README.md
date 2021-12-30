@@ -18,3 +18,4 @@
 [전체 문제 보기](https://www.acmicpc.net/problem/17070)
 ### 풀이
 - [nmp9981의 풀이](https://blog.naver.com/tybnasgo/222605313761)
+- [JohnNaksaing의 풀이](./JohnNaksaing/boj17070.md)
