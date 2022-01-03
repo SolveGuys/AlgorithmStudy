@@ -13,6 +13,12 @@
 [전체 문제 보기](https://www.acmicpc.net/problem/2252)
 ### 풀이
 - [nmp9981의 풀이](https://blog.naver.com/tybnasgo/222527734345)
+
+
+## BOJ 7570 줄 세우기
+### 문제
+[전체 문제 보기](https://www.acmicpc.net/problem/7570)
+### 풀이
 - [Dizlet의 풀이](https://dizlet.tistory.com/270)
 
 ## BOJ 17070 파이프 옮기기 1
