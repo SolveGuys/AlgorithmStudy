@@ -11,6 +11,7 @@
 [전체 문제 보기](https://www.acmicpc.net/problem/2116)
 ### 풀이
 - [nmp9981의 풀이](https://blog.naver.com/tybnasgo/222610990355)
+- [JohnNaksaing의 풀이](./JohnNaksaing/boj2116.md)
 
 ## BOJ 17141 연구소 2
 ### 문제
