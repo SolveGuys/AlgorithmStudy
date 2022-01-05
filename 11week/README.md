@@ -4,7 +4,7 @@
 ### 문제
 [전체 문제 보기](https://programmers.co.kr/learn/courses/30/lessons/81303)
 ### 풀이
-- 풀이 작성 후 링크를 연결해주세요
+- [nmp9981의 풀이](https://blog.naver.com/tybnasgo/222613893687)
 
 ## BOJ 2116 주사위 쌓기
 ### 문제
