@@ -3,7 +3,7 @@
 #include <queue>
 #include <algorithm>
 
-class _map
+class lab_map
 {
 	int N, M;
 	std::vector<std::pair<int, int>> walls;
@@ -19,7 +19,7 @@ class _map
 	static const int dx[4];
 	static const int dy[4];
 public:
-	_map(int N, int M) : N(N), M(M),
+	lab_map(int N, int M) : N(N), M(M),
 		visited(std::vector<std::vector<int>>(N, std::vector<int>(N))), space_two(0), space_total(0)
 	{
 		for (int i = 0; i < N; i++)
@@ -43,10 +43,10 @@ public:
 
 	int bfs();
 };
-const int _map::dx[4] = { 1,-1, 0, 0 };
-const int _map::dy[4] = { 0, 0, -1, 1 };
+const int lab_map::dx[4] = { 1,-1, 0, 0 };
+const int lab_map::dy[4] = { 0, 0, -1, 1 };
 
-int _map::solve()
+int lab_map::solve()
 {
 	int min_time = 1 << 30;
 
@@ -121,7 +121,7 @@ int main()
 	int N, M;
 	std::cin >> N >> M;
 
-	_map* map = new _map(N, M);
+	lab_map* map = new lab_map(N, M);
 
 	int answer = map->solve();
 
