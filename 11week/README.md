@@ -6,6 +6,7 @@
 ### 풀이
 - [nmp9981의 풀이](https://blog.naver.com/tybnasgo/222613893687)
 - [JohnNaksaing의 풀이](./JohnNaksaing/prog81303.md)
+- [Dizlet의 풀이](https://dizlet.tistory.com/289)
 
 ## BOJ 2116 주사위 쌓기
 ### 문제
@@ -13,6 +14,7 @@
 ### 풀이
 - [nmp9981의 풀이](https://blog.naver.com/tybnasgo/222610990355)
 - [JohnNaksaing의 풀이](./JohnNaksaing/boj2116.md)
+- [Dizlet의 풀이](https://dizlet.tistory.com/290)
 
 ## BOJ 17141 연구소 2
 ### 문제
@@ -20,3 +22,4 @@
 ### 풀이
 - [nmp9981의 풀이](https://blog.naver.com/tybnasgo/222612051542)
 - [JohnNaksaing의 풀이](./JohnNaksaing/boj17141.md)
+- [Dizlet의 풀이](https://dizlet.tistory.com/291)
