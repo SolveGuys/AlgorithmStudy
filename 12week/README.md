@@ -17,3 +17,4 @@
 [전체 문제 보기](https://www.acmicpc.net/problem/11444)
 ### 풀이
 - [JohnNaksaing의 풀이](./JohnNaksaing/boj11444.md)
+- [nmp9981의 풀이](https://blog.naver.com/tybnasgo/222618078660)
