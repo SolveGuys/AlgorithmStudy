@@ -6,7 +6,7 @@
 ### 풀이
 - [nmp9981의 풀이](https://blog.naver.com/tybnasgo/222617270561)
 
-## BOJ 1774 우주선과의 교감
+## BOJ 1774 우주신과의 교감
 ### 문제
 [전체 문제 보기](https://www.acmicpc.net/problem/1774)
 ### 풀이
