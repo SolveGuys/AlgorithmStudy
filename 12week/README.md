@@ -10,7 +10,7 @@
 ### 문제
 [전체 문제 보기](https://www.acmicpc.net/problem/1774)
 ### 풀이
-- 풀이 작성 후 링크를 연결해주세요
+- [nmp9981의 풀이](https://blog.naver.com/tybnasgo/222538139488)
 
 ## BOJ 11444 피보나치 수 6
 ### 문제
