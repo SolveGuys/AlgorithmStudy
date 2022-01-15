@@ -11,6 +11,7 @@
 [전체 문제 보기](https://www.acmicpc.net/problem/1774)
 ### 풀이
 - [nmp9981의 풀이](https://blog.naver.com/tybnasgo/222538139488)
+- [JohnNaksaing의 풀이](./JohnNaksaing/boj1774.md)
 
 ## BOJ 11444 피보나치 수 6
 ### 문제
