@@ -22,4 +22,3 @@
 - [JohnNaksaing의 풀이](./JohnNaksaing/boj11444.md)
 - [nmp9981의 풀이](https://blog.naver.com/tybnasgo/222618078660)
 - [Dizlet의 풀이](https://dizlet.tistory.com/298)
-- 
