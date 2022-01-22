@@ -3,6 +3,9 @@
 #include <vector>
 
 constexpr long long int LLONG_MAX = 9223372036854775807;
+long long int dp_min[101];
+const int digits[8] = { 0,0,1,7,4,2,0,8 };
+
 std::string get_max(int stick_num)
 {
 	std::string answer = "";
@@ -14,8 +17,6 @@ std::string get_max(int stick_num)
 	else
 		return "1" + answer;
 }
-long long int dp_min[101];
-const int digits[8] = { 0,0,1,7,4,2,0,8 };
 
 std::string get_num(int testcase, bool bMax)
 {
