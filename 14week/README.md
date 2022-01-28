@@ -10,7 +10,7 @@
 ### 문제
 [전체 문제 보기](https://www.acmicpc.net/problem/17471)
 ### 풀이
-- 풀이 작성 후 링크를 연결해주세요!  
+- [nmp9981의 풀이](https://blog.naver.com/tybnasgo/222633995236)
 
 ## BOJ 10422 괄호
 ### 문제
