@@ -6,6 +6,7 @@
 ### 풀이
 - [nmp9981의 풀이](https://blog.naver.com/tybnasgo/222631206801)  
 - [Dizlet의 풀이](https://dizlet.tistory.com/308)
+- [JohnNaksaing의 풀이](./JohnNaksaing/boj2216.md)
 
 ## BOJ 17471 게리맨더링
 ### 문제
@@ -13,6 +14,7 @@
 ### 풀이
 - [nmp9981의 풀이](https://blog.naver.com/tybnasgo/222633995236)
 - [Dizlet의 풀이](https://dizlet.tistory.com/303)
+- [JohnNaksaing의 풀이](./JohnNaksaing/boj17471.md)
 
 ## BOJ 10422 괄호
 ### 문제
@@ -20,3 +22,4 @@
 ### 풀이
 - [nmp9981의 풀이](https://blog.naver.com/tybnasgo/222629372447)
 - [Dizlet의 풀이](https://dizlet.tistory.com/309)
+- [JohnNaksaing의 풀이](./JohnNaksaing/boj10422.md)

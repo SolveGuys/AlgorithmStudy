@@ -1,8 +1,7 @@
 #include <vector>
+#include <iostream>
 
 constexpr int by_mod = 1'000'000'007;
-
-long long int dp_parnths[5001];
 
 long long int get_parnts_count(int idx)
 {
@@ -10,6 +9,7 @@ long long int get_parnts_count(int idx)
 
 	if (idx % 2 != 0) return (dp_parnths[idx] = 0ll);
 	
+	//initializing
 	{
 		dp_parnths[0] = 1;
 		dp_parnths[2] = 1;
