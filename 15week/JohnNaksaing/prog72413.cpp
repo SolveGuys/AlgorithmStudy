@@ -62,7 +62,7 @@ int distance_table::get_dist(int s, int a, int b)
 	int answer = INT_MAX;
 	for (int i = 0; i < n; i++) 
 	{
-		//if(distances[s][i] != INT_MAX && distances[i][a-1] != INT_MAX && distances[i][b-1] != INT_MAX)
+		//if(distances[s-1][i] != INT_MAX && distances[i][a-1] != INT_MAX && distances[i][b-1] != INT_MAX)
 			answer = std::min(answer,distances[s-1][i] + distances[i][a-1] + distances[i][b-1]);
 	}
 	return answer;
