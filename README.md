@@ -30,4 +30,4 @@
 
 
 ### Archives
-[문제 기록보관소로 가기](./Problomes Archives/README.md)
+[문제 기록보관소로 가기](./Problomes Archives)
