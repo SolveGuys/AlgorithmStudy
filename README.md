@@ -8,7 +8,8 @@
 [Discord Link](https://discord.gg/TQGDWj7R)
 
 
-# 이번 주 풀이 : 16주차
+## 이번 주 : 16주차
+[이번주 문제 모음](./Problems Archives/16week)
 
 ## 프로그래머스 60060 합승 택시 요금  
 ### 문제
@@ -30,4 +31,4 @@
 
 
 ### Archives
-[문제 기록보관소로 가기](./Problomes Archives)
+[문제 기록보관소로 가기](./Problems Archives)
