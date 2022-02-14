@@ -9,7 +9,7 @@
 
 
 ## 이번 주 : 16주차
-[이번주 문제 모음](./Problems Archives/16week)
+[이번주 문제 모음](./Problems_Archives/16week)
 
 ## 프로그래머스 60060 합승 택시 요금  
 ### 문제
@@ -31,4 +31,4 @@
 
 
 ### Archives
-[문제 기록보관소로 가기](./Problems Archives)
+[문제 기록보관소로 가기](./Problems_Archives)
