@@ -1,12 +1,12 @@
-# SolveGuys
+# Problem Archives
 
 ![image](https://img2.quasarzone.co.kr/img/data/editor/1807/e202a03a2f6ccb3fae6809ec06fb3de4_1532440117_806.jpg)
  
 지금까지 우리가 풀었던 문제와 풀이들을 모아놓은 곳입니다.
 
 ### Weekly Challenges 
-[16주차](./16week)
-[15주차](./15week)
+[16주차](./16week)  
+[15주차](./15week)  
 [14주차](./14week)  
 [13주차](./13week)  
 [12주차](./12week)  
