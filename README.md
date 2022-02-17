@@ -15,7 +15,7 @@
 ### 문제
 [전체 문제 보기](https://programmers.co.kr/learn/courses/30/lessons/60060)
 ### 풀이
-- 풀이 작성 후, 링크를 연결해 주세요.
+- [nmp9981의 풀이](https://blog.naver.com/tybnasgo/222649521254)
 
 ## BOJ 3020 개똥벌레
 ### 문제
