@@ -46,3 +46,66 @@ std::vector<int> solution(std::vector<std::string> words, std::vector<std::strin
     return answer;
 }
 #endif
+
+std::vector<int> solution(std::vector<std::string> words, std::vector<std::string> queries) {
+    int wssize = words.size();
+    int qssize = queries.size();
+    
+    std::vector<int> answer(qssize, 0);
+
+    std::vector<std::string> words_reverse = words;
+    for (auto& r_word : words_reverse) { std::reverse(r_word.begin(), r_word.end()); }
+
+    std::sort(words.begin(), words.end(), compare_word() );
+    std::sort(words_reverse.begin(), words_reverse.end(), compare_word() );
+    
+    //for (auto& r_word : words_reverse) { std::cout << r_word << ' '; }
+    //for (auto& word : words) { std::cout << word << ' '; }
+
+    int answer_idx = 0;
+    for (auto& query : queries) 
+    {
+        int length = query.length();
+
+        //???aaa
+        if (query[0] == '?') 
+        {
+            std::reverse(query.begin(),query.end());
+            
+            std::string start(query);
+            for (int i = 0; i < start.length(); i++)
+                if (start[i] == '?')
+                    start[i] = 'a';
+
+            const auto start_where = std::lower_bound(words_reverse.begin(),words_reverse.end(),start,compare_word());
+            
+            std::string end(query);
+            for (int i = 0; i < end.length(); i++)
+                if (end[i] == '?')
+                    end[i] = 'z';
+            const auto end_where = std::lower_bound(words_reverse.begin(),words_reverse.end(),end,compare_word());
+            
+            answer[answer_idx++] = (end_where - start_where);
+        }
+        //aaa???
+        else 
+        {
+            std::string start(query);
+            for (int i = 0; i < start.length(); i++)
+                if (start[i] == '?')
+                    start[i] = 'a';
+
+            const auto start_where = std::lower_bound(words.begin(), words.end(), start, compare_word());
+
+            std::string end(query);
+            for (int i = 0; i < end.length(); i++)
+                if (end[i] == '?')
+                    end[i] = 'z';
+            const auto end_where = std::lower_bound(words.begin(), words.end(), end, compare_word());
+
+            answer[answer_idx++] = (end_where - start_where);
+        }
+    }
+
+    return answer;
+}
