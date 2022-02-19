@@ -28,6 +28,6 @@
 [전체 문제 보기](https://www.acmicpc.net/problem/13911)
 ### 풀이
 - [nmp9981의 풀이](https://blog.naver.com/tybnasgo/222648532597)
-- 
+
 ### Archives
 [문제 기록보관소로 가기](./Problems_Archives)
