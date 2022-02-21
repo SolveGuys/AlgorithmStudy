@@ -10,10 +10,10 @@
 ### 문제
 [전체 문제 보기](https://www.acmicpc.net/problem/2696)
 ### 풀이
-- 풀이 작성 후 링크를 연결해주세요.
+- [nmp9981의 풀이](https://blog.naver.com/tybnasgo/222652726841)
 
 ## BOJ 4991 로봇 청소기  
 ### 문제
 [전체 문제 보기](https://www.acmicpc.net/problem/4991)
 ### 풀이
-- 풀이 작성 후 링크를 연결해주세요.
+- [nmp9981의 풀이](https://blog.naver.com/tybnasgo/222654096135)
