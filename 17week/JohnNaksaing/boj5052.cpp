@@ -2,6 +2,8 @@
 #include <vector>
 #include <algorithm>
 #include <iostream>
+
+#if 0
 using namespace std;
 
 bool solution(vector<string>& phone_book)  {
@@ -37,5 +39,91 @@ int main()
             cout << "NO\n";
     }
     
+    return 0;
+}
+#endif
+
+class trie 
+{
+    trie* next[10];
+    bool bLeaf;
+public:
+    trie() : bLeaf(false), next()
+    {
+        //for (int i = 0; i < 10; i++) next[i] = nullptr;        
+    }
+    ~trie() 
+    {
+        //https://stackoverflow.com/questions/2814188/c-array-of-pointers-delete-or-delete
+        //delete[] next;
+        for (int i = 0; i < 10; i++)
+        {
+            if (next[i]) delete next[i];
+        }
+    }
+
+    void insert(const char* key);
+    bool find(const char* key);
+};
+
+void trie::insert(const char* key) 
+{
+
+    if (*key == '\0')
+    {
+        bLeaf = true;
+        return;
+    }
+
+   int cursor = *key - '0';
+
+    if (next[cursor] == nullptr) 
+    {
+        next[cursor] = new trie();
+    }
+    next[cursor]->insert(key + 1);
+}
+bool trie::find(const char* key) 
+{
+    if (*key == '\0') { return false; }
+    if (bLeaf) { return true; }
+
+
+    int cursor = *key - '0';
+
+    if (next[cursor] == nullptr) return false;
+
+    return next[cursor]->find(key+1);
+}
+
+int main() 
+{
+    int t;
+    std::cin >> t;
+    while (t--) {
+
+        int n;
+        std::cin >> n;
+        std::vector<std::string> input(n);
+        trie* root = new trie();
+
+        for (int i = 0; i < n; i++) {
+            std::cin >> input[i];
+
+            root->insert(input[i].c_str());
+        }
+
+        int i;
+        for (i = 0; i < n; i++) {
+            if (root->find(input[i].c_str())) {
+                std::cout << "NO\n";
+                break;
+            }
+        }
+        if (i == n)
+            std::cout << "YES\n";
+
+        delete root;
+    }
     return 0;
 }
