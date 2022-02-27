@@ -7,6 +7,7 @@
 ### 풀이
 - [nmp9981의 풀이](https://blog.naver.com/tybnasgo/222586290637)
 - [JohnNaksaing의 풀이](./JohnNaksaing/boj5052.md)
+- [Dizlet의 풀이](https://dizlet.tistory.com/357)
 
 ## BOJ 2696 중앙값 구하기 
 ### 문제
@@ -14,9 +15,11 @@
 ### 풀이
 - [nmp9981의 풀이](https://blog.naver.com/tybnasgo/222652726841)
 - [JohnNaksaing의 풀이](./JohnNaksaing/boj2696.md)
+- [Dizlet의 풀이](https://dizlet.tistory.com/358)
 
 ## BOJ 4991 로봇 청소기  
 ### 문제
 [전체 문제 보기](https://www.acmicpc.net/problem/4991)
 ### 풀이
 - [nmp9981의 풀이](https://blog.naver.com/tybnasgo/222654096135)
+- [Dizlet의 풀이](https://dizlet.tistory.com/346)
