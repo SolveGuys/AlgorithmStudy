@@ -43,6 +43,7 @@ void medi(){
 }
 
 int main(){
+	ios_base::sync_with_stdio(0), cin.tie(0);//빠른 입력
 	cin>>t;
 	while(t--){
 		medi();//중앙값 구하기
