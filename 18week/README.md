@@ -13,6 +13,7 @@
 ### 풀이
 - [nmp9981의 풀이](https://blog.naver.com/tybnasgo/222550237348)  
 - [Dizlet의 풀이](https://dizlet.tistory.com/365)
+- [JohnNaksaing의 풀이](./JohnNaksaing/boj15684.md)  
 
 ## BOJ 1256 사전  
 ### 문제
