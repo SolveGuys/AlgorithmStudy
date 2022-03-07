@@ -10,7 +10,7 @@
 ### 문제
 [전체 문제 보기](https://www.acmicpc.net/problem/7453)
 ### 풀이
-- 풀이 작성 후, 링크를 연결해 주세요.  
+- [nmp9981의 풀이](https://m.blog.naver.com/PostView.naver?blogId=tybnasgo&logNo=222666299724&navType=by)
 
 ## BOJ 17135 캐슬 디펜스
 ### 문제
