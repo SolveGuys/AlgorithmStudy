@@ -11,6 +11,7 @@
 [전체 문제 보기](https://programmers.co.kr/learn/courses/30/lessons/1837)
 ### 풀이
 - [JohnNaksaing의 풀이](./JohnNaksaing/prog1837.md)
+- [nmp9981의 풀이](https://blog.naver.com/tybnasgo/222677032055)
 
 ## BOJ 14500 테트로미노
 ### 문제
