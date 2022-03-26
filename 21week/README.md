@@ -6,6 +6,7 @@
 ### 풀이
 - [nmp9981의 풀이](https://blog.naver.com/tybnasgo/222678042847)
 - [Dizlet의 풀이](https://dizlet.tistory.com/354)
+- [JohnNaksaing의 풀이](./JohnNaksaing/boj13904.md)
 
 ## BOJ 1038 감소하는 수
 ### 문제
@@ -13,9 +14,11 @@
 ### 풀이
 - [nmp9981의 풀이](https://blog.naver.com/tybnasgo/222678249440)
 - [Dizlet의 풀이](https://dizlet.tistory.com/386)
+- [JohnNaksaing의 풀이](./JohnNaksaing/boj1038.md)
 
 ## BOJ 19236 청소년 상어
 ### 문제
 [전체 문제 보기](https://www.acmicpc.net/problem/19236)
 ### 풀이
 - [Dizlet의 풀이](https://dizlet.tistory.com/384)
+- [JohnNaksaing의 풀이](./JohnNaksaing/boj19236.cpp)
