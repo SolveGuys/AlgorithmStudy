@@ -11,6 +11,7 @@
 [전체 문제 보기](https://www.acmicpc.net/problem/1806)
 ### 풀이
 - [nmp9981의 풀이](https://blog.naver.com/tybnasgo/222684314909)
+- [JohnNaksaing의 풀이](./JohnNaksaing/boj1806.md)
 
 ## BOJ 10775 공항
 ### 문제
