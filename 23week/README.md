@@ -5,6 +5,7 @@
 [전체 문제 보기](https://www.acmicpc.net/problem/13418)
 ### 풀이
 - [nmp9981의 풀이](https://blog.naver.com/tybnasgo/222694399983)
+- [JohnNaksaing의 풀이](./JohnNaksaing/boj13418.md)
 
 ## BOJ 10830 행렬 제곱
 ### 문제
