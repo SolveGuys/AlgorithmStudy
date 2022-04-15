@@ -12,3 +12,4 @@
 [전체 문제 보기](https://www.acmicpc.net/problem/10830)
 ### 풀이
 - [nmp9981의 풀이](https://blog.naver.com/tybnasgo/222697663144)
+- [JohnNaksaing의 풀이](./JohnNaksaing/boj10830.md)
