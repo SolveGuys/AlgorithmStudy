@@ -4,7 +4,7 @@
 ### 문제
 [전체 문제 보기](https://www.acmicpc.net/problem/1062)
 ### 풀이
-- 풀이 작성 후, 링크를 작성해 주세요.
+- [nmp9981의 풀이](https://blog.naver.com/tybnasgo/222705368677)
 
 ## BOJ 12002 Field Reduction (Silver)
 ### 문제
