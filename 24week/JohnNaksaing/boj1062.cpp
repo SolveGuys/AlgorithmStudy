@@ -32,7 +32,7 @@ void depth_search(int depth_left, int start_idx, word_mask current_mask, int& ma
 int main()
 {
 	std::ios_base::sync_with_stdio(false);
-	std::cin.tie(NULL);
+	std::cin.tie(nullptr);
 
 	int n, k;
 	std::cin >> n >> k;
@@ -40,7 +40,7 @@ int main()
 	if (k < 5) return std::cout << '0', 0;
 	if (k >= 26) return std::cout << n, 0;
 	
-	word_mask wm_in_use = 0;
+	word_mask wm_in_use = 0x0;
 	wm_in_use |= 1 << ('a' - 'a');
 	wm_in_use |= 1 << ('n' - 'a');
 	wm_in_use |= 1 << ('t' - 'a');
@@ -55,6 +55,8 @@ int main()
 	{
 		std::string word;
         std::cin >> word;
+        size_t word_t = word.length();
+        word = word.substr(4, word_t -4);
 		for (char c : word) 
 		{
 			needs[i] |= 1 << (c - 'a');
