@@ -4,7 +4,7 @@
 [전체 문제 보기](https://www.acmicpc.net/problem/14226)
 
 ### 풀이
-- 풀이 작성 후 링크를 연결해주세요
+- [nmp9981의 풀이](https://blog.naver.com/tybnasgo/222711034394)
 
 ___
 ## 프로그래머스 64065 튜플
