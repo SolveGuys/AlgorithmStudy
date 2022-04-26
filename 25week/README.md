@@ -28,7 +28,7 @@ ___
 [전체 문제 보기](https://www.acmicpc.net/problem/2343)
 
 ### 풀이
-- 풀이 작성 후 링크를 연결해주세요
+- [JohnNaksaing의 풀이](./JohnNaksaing/boj2343.md)
 
 ___
 ## BOJ 11052 카드 구매하기
