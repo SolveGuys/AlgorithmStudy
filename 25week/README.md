@@ -12,7 +12,7 @@ ___
 [전체 문제 보기](https://programmers.co.kr/learn/courses/30/lessons/64065)
 
 ### 풀이
-- 풀이 작성 후 링크를 연결해주세요
+- [JohnNaksaing의 풀이](./JohnNaksaing/prog64065.md)
 
 ___
 ## 프로그래머스 42891 무지의 먹방 라이브
@@ -20,7 +20,7 @@ ___
 [전체 문제 보기](https://programmers.co.kr/learn/courses/30/lessons/42891)
 
 ### 풀이
-- 풀이 작성 후 링크를 연결해주세요
+- 풀이 작성 후 링크를 연결해주세요.
 
 ___
 ## BOJ 2343 기타 레슨
