@@ -29,6 +29,7 @@ ___
 
 ### 풀이
 - [JohnNaksaing의 풀이](./JohnNaksaing/boj2343.md)
+- [nmp9981의 풀이](https://blog.naver.com/tybnasgo/222714454342)
 
 ___
 ## BOJ 11052 카드 구매하기
