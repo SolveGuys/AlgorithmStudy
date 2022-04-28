@@ -38,3 +38,4 @@ ___
 ### 풀이
 - [nmp9981의 풀이](https://blog.naver.com/tybnasgo/222713193295)
 - [JohnNaksaing의 풀이](./JohnNaksaing/boj11052.md)
+- [dongsuu의 풀이](https://hyunn99.tistory.com/82)
