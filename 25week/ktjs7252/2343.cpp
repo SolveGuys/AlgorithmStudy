@@ -1,74 +1,66 @@
-#include <stdio.h>
+#include <bits/stdc++.h>
 
-#pragma warning(disable:4996)
+using namespace std;
 
-int n, m;
-int lo, mid, hi;
-int arr[100001];
-int sum;
-int answer=1e18;
-
-int min(int a, int b)
-{
-	if (a >= b)
-	{
-		return a;
-	}
-	return b;
-}
+int n,c;
+int arr[1000001];
+int mid,hi,lo,answer;
 
 int check(int mid)
 {
-	int num = 0;
-	int tmp = 0;
-
-	for (int i = 0; i < n; i++)
+	int tmp=0;
+	int num=0;
+	
+	for(int i=0;i<n;i++)
 	{
-		if (arr[i] > mid) return 0;
+		if(arr[i]>mid) return false;
 	}
-
-	for (int i = 0; i < n; i++)
+	
+	for(int i=0;i<n;i++)
 	{
-		if (tmp + arr[i] > mid)
+		if(tmp+arr[i]>mid)
 		{
 			num++;
-			tmp= 0;
+			tmp=0;
 		}
-		tmp += arr[i];
+		tmp+=arr[i];
 	}
 	num++;
-
-	return num <= m;
+	
+	
+	return num<=c;
 }
 
 int main()
 {
-	scanf("%d %d", &n, &m);
-
-	for (int i = 0; i < n; i++)
+	ios_base::sync_with_stdio(false);
+	cin.tie(NULL); cout.tie(NULL);
+	
+	cin>>n>>c;
+	
+	for(int i=0;i<n;i++)
 	{
-		scanf("%d", &arr[i]);
-		sum += arr[i];
+		cin>>arr[i];
+		hi+=arr[i];
 	}
-	lo = 1;
-	hi = sum;
-	while (lo <= hi)
+	lo=1;
+	
+	while(lo<=hi)
 	{
-		mid = (lo + hi) / 2;
+		mid=(lo+hi)/2;
 		if(check(mid))
 		{
-			//answer = min(answer, mid);
-			answer = mid;
-			hi = mid - 1;
+			answer=mid;
+			hi=mid-1;
 		}
 		else
 		{
-			lo = mid + 1;
+			lo=mid+1;
 		}
 	}
-
-	printf("%d", answer);
-
-
+	
+	printf("%d",answer);
+	
+	
 	return 0;
 }
