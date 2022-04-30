@@ -20,7 +20,7 @@ ___
 [전체 문제 보기](https://programmers.co.kr/learn/courses/30/lessons/42891)
 
 ### 풀이
-- 풀이 작성 후 링크를 연결해주세요.
+- [Soyewon의 풀이](https://soyw96.tistory.com/4)
 
 ___
 ## BOJ 2343 기타 레슨
