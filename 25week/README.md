@@ -30,6 +30,7 @@ ___
 ### 풀이
 - [JohnNaksaing의 풀이](./JohnNaksaing/boj2343.md)
 - [nmp9981의 풀이](https://blog.naver.com/tybnasgo/222714454342)
+- [ktjs7252의 풀이](https://github.com/SolveGuys/AlgorithmStudy/blob/master/25week/ktjs7252/boj2343.md)
 
 ___
 ## BOJ 11052 카드 구매하기
