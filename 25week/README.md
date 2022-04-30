@@ -14,6 +14,7 @@ ___
 
 ### 풀이
 - [JohnNaksaing의 풀이](./JohnNaksaing/prog64065.md)
+- [ktjs7252의 풀이](https://github.com/SolveGuys/AlgorithmStudy/blob/master/25week/ktjs7252/%ED%8A%9C%ED%94%8C.md)
 
 ___
 ## 프로그래머스 42891 무지의 먹방 라이브
