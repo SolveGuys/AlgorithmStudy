@@ -6,7 +6,7 @@
 ### 풀이
 - [nmp9981의 풀이](https://blog.naver.com/tybnasgo/222711034394)
 - [ktjs7252의 풀이](https://github.com/SolveGuys/AlgorithmStudy/blob/master/25week/ktjs7252/boj14226.md)
-- [JohnNaksaing의 풀이ㅋㅋㅋ](./JohnNaksaing/boj14226.md)
+- [JohnNaksaing의 풀이](./JohnNaksaing/boj14226.md)
 
 ___
 ## 프로그래머스 64065 튜플
