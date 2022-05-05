@@ -20,7 +20,7 @@ ___
 
 ### 풀이
 - [nmp9981의 풀이](https://blog.naver.com/tybnasgo/222718525052)
-- 
+- [JohnNaksaing의 풀이](./JohnNaksaing/boj10844.md)
 ___
 
 ## BOJ 17406 배열 돌리기 4
