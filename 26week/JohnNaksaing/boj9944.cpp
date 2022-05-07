@@ -1,7 +1,6 @@
 #include <iostream>
 #include <cstring>
 
-char map[32][32];
 bool bVisited[32][32];
 constexpr int MAX = 900;//1'000'001;
 constexpr int dx[] = {-1,1,0,0};
@@ -60,18 +59,16 @@ int main() {
 		total_r = 0;
 		for (int i = 1; i <= n; i++) {
 			for (int j = 1; j <= m; j++) {
-				scanf(" %c", &map[i][j]);
-				if (map[i][j] == '.')
-				{
-                    total_r++;
-                    bVisited[i][j] = false;
-                }
+                char ij;
+				scanf(" %c", &ij);
+				if (ij == '.')
+				{total_r++;bVisited[i][j] = false;}
 			}
 		}
 
 		for (int i = 1; i <= n; i++) {
 			for (int j = 1; j <= m; j++) {
-				if (map[i][j] == '.') {
+				if (bVisited[i][j] == false) {
 					bVisited[i][j] = true;
 					dfs(i, j, 0, 1);
 					bVisited[i][j] = false;
@@ -80,4 +77,55 @@ int main() {
 		}
 		printf("Case %d: %d\n", idx++, min_d != MAX ? min_d : -1);
 	}
+}
+
+// :(
+int main_with_input_error() 
+{
+	std::ios_base::sync_with_stdio(false);
+	std::cin.tie(nullptr);
+	std::cout.tie(nullptr);
+
+	for (int testcase = 1; !std::cin.eof(); testcase++) 
+	{
+		std::cin >> n >> m;
+		//std::cin.get();
+
+		total_r = 0;
+
+		memset(bVisited,true,sizeof(bVisited));
+		
+		for (int i = 1; i <= n; i++) 
+		for (int j = 1; j <= m; j++)
+		{
+			char ij;
+			std::cin >> ij;
+			
+			map[i][j] = ij;
+
+			if(ij == '.')
+			{
+				bVisited[i][j] = false;
+				total_r++;
+			}
+		}
+		min_d = MAX;
+
+		for (int i = 1; i <= n; i++)
+		for (int j = 1; j <= m; j++)
+		{
+			if (map[i][j] == '.')
+			{
+				bVisited[i][j] = true;
+
+				dfs(i,j,0,1);
+
+				bVisited[i][j] = false;
+			}
+		}
+
+		std::cout << "Case " << testcase << " : " << (min_d  != MAX? min_d : -1) << '\n';
+	}
+
+	return 0;
 }
