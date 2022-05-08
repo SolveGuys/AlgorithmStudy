@@ -44,3 +44,4 @@ ___
 - [JohnNaksaing의 풀이](./JohnNaksaing/boj1697.md)
 - [nmp9981의 풀이](https://blog.naver.com/tybnasgo/222723867003)
 - [Soyewon의 풀이](https://soyw96.tistory.com/5)
+- [ktjs7252의 풀이](https://github.com/ktjs7252/Baekjoon_code/blob/main/1697)
