@@ -21,6 +21,7 @@ int main()
         int pos = que.front().first; // 수빈의 위치
         int time = que.front().second; // 수빈의 이동시간
         que.pop();
+        
 
         // 동생 위치에 도달 시 시간 전달 후 반복문 탈출
         if(pos == k)
