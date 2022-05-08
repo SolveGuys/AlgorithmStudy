@@ -5,7 +5,11 @@
 
 ### 풀이
 - [nmp9981의 풀이](https://blog.naver.com/tybnasgo/222718465534)
+<<<<<<< HEAD
+
+=======
 - [ktjs7252의 풀이](https://github.com/ktjs7252/Baekjoon_code/blob/main/%EA%B7%B8%EB%A6%AC%EB%94%94%2C%20%ED%88%AC%ED%8F%AC%EC%9D%B8%ED%84%B0%2C%20%EB%9D%BC%EC%9D%B8%EC%8A%A4%EC%9C%84%ED%95%91/1718)
+>>>>>>> 41414e94b7daec36fe6abe8578cd82c9b6c01342
 ___
 ## 백준 9944 NxM 보드 완주하기
 ### 문제
@@ -13,6 +17,7 @@ ___
 
 ### 풀이
 - [nmp9981의 풀이](https://blog.naver.com/tybnasgo/222723129108)
+- [JohnNaksaing의 풀이](./JohnNaksaing/boj9944.md)
 ___
 ## 백준 10844 쉬운 계단 수
 ### 문제
