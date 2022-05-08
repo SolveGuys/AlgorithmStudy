@@ -62,7 +62,10 @@ int main() {
                 char ij;
 				scanf(" %c", &ij);
 				if (ij == '.')
-				{total_r++;bVisited[i][j] = false;}
+				{
+					total_r++;
+					bVisited[i][j] = false;
+				}
 			}
 		}
 
