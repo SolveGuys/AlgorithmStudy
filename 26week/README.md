@@ -33,7 +33,7 @@ ___
 
 ### 풀이
 - [ktjs7252의 풀이](https://github.com/ktjs7252/Baekjoon_code/blob/main/boj17406.01.cpp)
-
+-[ktjs7252의 풀이](https://github.com/ktjs7252/Baekjoon_code/blob/main/boj17406.02.cpp)
 ___
 
 ## BOJ 1697 숨바꼭질
