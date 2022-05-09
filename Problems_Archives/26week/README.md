@@ -25,6 +25,7 @@ ___
 - [nmp9981의 풀이](https://blog.naver.com/tybnasgo/222718525052)
 - [JohnNaksaing의 풀이](./JohnNaksaing/boj10844.md)
 - [ktjs7252의 풀이](https://github.com/ktjs7252/Baekjoon_code/blob/main/10844)
+- [dongsuu의 풀이](https://hyunn99.tistory.com/83)
 ___
 
 ## BOJ 17406 배열 돌리기 4
