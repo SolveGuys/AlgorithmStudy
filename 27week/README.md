@@ -29,3 +29,4 @@ ___
 ### 풀이
 - [JohnNaksaing의 풀이](./JohnNaksaing/boj1420.md)
 - [nmp9981의 풀이](https://blog.naver.com/tybnasgo/222558738910)
+- [Soyewon의 풀이](https://soyw96.tistory.com/6)
