@@ -19,6 +19,7 @@ ___
 
 ### 풀이
 - [nmp9981의 풀이](https://blog.naver.com/tybnasgo/222727252009)
+- [dongsuu의 풀이](https://hyunn99.tistory.com/87)
 
 ___
 ## 백준 1520 내리막 길
