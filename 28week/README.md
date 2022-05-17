@@ -31,9 +31,9 @@ ___
 - 풀이 작성 후, 링크를 연결해 주세요.
 
 ___
-## BOJ 1946 
+## BOJ 1946 신입 사원
 ### 문제
 [전체 문제 보기](https://www.acmicpc.net/problem/1946)
 
 ### 풀이
-- 풀이 작성 후, 링크를 연결해 주세요.
+- [JohnNaksaing의 풀이](./JohnNaksaing/boj1946.md)
