@@ -4,7 +4,7 @@
 [전체 문제 보기](https://www.acmicpc.net/problem/3649)
 
 ### 풀이
-- 
+- [JohnNaksaing의 풀이](./JohnNaksaing/boj3649.md)
 ___
 ## BOJ 3085 사탕 게임
 ### 문제
