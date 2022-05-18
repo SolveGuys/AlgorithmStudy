@@ -19,7 +19,8 @@ ___
 [전체 문제 보기](https://www.acmicpc.net/problem/3190)
 
 ### 풀이
-- 풀이 작성 후, 링크를 연결해 주세요.
+- [ktjs7252의 풀이] (https://github.com/ktjs7252/Baekjoon_code/blob/main/3190-1.c%2B%2B)
+- [ktjs7252의 풀이] (https://github.com/ktjs7252/Baekjoon_code/blob/main/3190-2.c%2B%2B)
 
 ___
 ## BOJ 11066 파일 합치기
