@@ -5,6 +5,7 @@
 
 ### 풀이
 - [JohnNaksaing의 풀이](./JohnNaksaing/boj3649.md)
+- [nmp9981의 풀이](https://blog.naver.com/tybnasgo/222738916047)
 ___
 ## BOJ 3085 사탕 게임
 ### 문제
