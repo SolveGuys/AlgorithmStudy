@@ -2,73 +2,73 @@
 #include <algorithm>
 using namespace std;
 
-int n,ans,cnt;
-char color[4] = {'C','P','Y','Z'};
+int n,ans;
 const int maxi = 51;
-string candy[maxi];//사탕 배열
-
-//축이동
-int dx[4] = { -1,1,0,0 };
-int dy[4] = { 0,0,-1,1 };
+string board[maxi];//보드
 
 //입력
 void input() {
 	cin >> n;
-	for (int i = 0; i < n; i++) cin >> candy[i];
+	for (int i = 0; i < n; i++) cin >> board[i];
 }
 
-//사탕개수세기
-int cnt_candy() {
-	int candycnt = 1;
-	//가로
+//사탕 먹는 개수
+int EatCandy() {
+	int candy = 1;
+	//행
 	for (int i = 0; i < n; i++) {
-		cnt = 1;
+		int cnt = 1;
 		for (int j = 1; j < n; j++) {
-			if (candy[i][j - 1] == candy[i][j]) cnt++;
-			else {
-				candycnt = max(candycnt, cnt);
+			//같은 문자면 사탕을 먹는다.
+			if (board[i][j] == board[i][j - 1]) cnt++;
+			else {//다른문자면 최대 사탕개수 갱신후 초기화
+				candy = max(candy, cnt);
 				cnt = 1;
 			}
-			candycnt = max(candycnt, cnt);//끝부분
 		}
+		candy = max(candy, cnt);//끝에 연속되어있는 사탕까지 처리
 	}
-	//세로
+	//열
 	for (int j = 0; j < n; j++) {
-		cnt = 1;
+		int cnt = 1;
 		for (int i = 1; i < n; i++) {
-			if (candy[i-1][j] == candy[i][j]) cnt++;
-			else {
-				candycnt = max(candycnt, cnt);
+			//같은 문자면 사탕을 먹는다.
+			if (board[i][j] == board[i-1][j]) cnt++;
+			else {//다른문자면 최대 사탕개수 갱신후 초기화
+				candy = max(candy, cnt);
 				cnt = 1;
 			}
-			candycnt = max(candycnt, cnt);//끝부분
+		}
+		candy = max(candy, cnt);//끝에 연속되어있는 사탕까지 처리
+	}
+	return candy;
+}
+//바꿀 위치 탐색
+void ChangeSearch() {
+	//행
+	for (int i = 0; i < n; i++) {
+		for (int j = 1; j < n; j++) {
+			swap(board[i][j - 1], board[i][j]);//위치 바꾸기
+			ans = max(ans, EatCandy());//먹는 사탕 개수 구하기
+			swap(board[i][j - 1], board[i][j]);//원래대로
 		}
 	}
-	return candycnt;
+	//열
+	for (int j = 0; j < n; j++) {
+		for (int i = 1; i < n; i++) {
+			swap(board[i-1][j], board[i][j]);//위치 바꾸기
+			ans = max(ans, EatCandy());//먹는 사탕 개수 구하기
+			swap(board[i-1][j], board[i][j]);//원래대로
+		}
+	}
+	cout << ans;//출력
 }
-
 int main() {
 	//빠른 입력
 	ios_base::sync_with_stdio(false);
 	cin.tie(0);
 
 	input();//입력
-	//가로바꾸기
-	for (int i = 0; i < n; i++) {
-		for (int j = 1; j < n; j++) {
-			swap(candy[i][j], candy[i][j - 1]);//자리바꾸기
-			ans = max(ans, cnt_candy());
-			swap(candy[i][j], candy[i][j - 1]);//원래대로
-		}
-	}
-	//세로바꾸기
-	for (int j = 0; j < n; j++) {
-		for (int i = 1; i < n; i++) {
-			swap(candy[i][j], candy[i-1][j]);//자리바꾸기
-			ans = max(ans, cnt_candy());
-			swap(candy[i][j], candy[i-1][j]);//원래대로
-		}
-	}
-	cout << ans;//출력
+	ChangeSearch();//바꿀 위치 탐색
 	return 0;
 }
