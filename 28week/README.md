@@ -30,7 +30,7 @@ ___
 
 ### 풀이
 - [nmp9981의 풀이](https://blog.naver.com/tybnasgo/222543136052)
-- [JohnNaksaing의 풀이](../Problems_Archives/01week/JohnNaksaing/BOJ11066.md)
+- [JohnNaksaing의 풀이](../Problems_Archives/01week/JohnNaksaing/boj_11066.md)
 
 ___
 ## BOJ 1946 신입 사원
