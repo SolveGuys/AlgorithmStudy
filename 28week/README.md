@@ -13,6 +13,7 @@ ___
 
 ### 풀이
 -  [nmp9981의 풀이](https://blog.naver.com/tybnasgo/222737039219)
+-  [dongsuu의 풀이](https://hyunn99.tistory.com/88)
 
 ___
 ## BOJ 3190 뱀
