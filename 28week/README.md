@@ -31,6 +31,7 @@ ___
 ### 풀이
 - [nmp9981의 풀이](https://blog.naver.com/tybnasgo/222543136052)
 - [JohnNaksaing의 풀이](../Problems_Archives/01week/JohnNaksaing/boj_11066.md)
+- [Soyewon의 풀이](https://soyw96.tistory.com/7)
 
 ___
 ## BOJ 1946 신입 사원
