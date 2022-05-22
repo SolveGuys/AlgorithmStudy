@@ -43,3 +43,4 @@ ___
 ### 풀이
 - [JohnNaksaing의 풀이](./JohnNaksaing/boj1946.md)
 - [nmp9981의 풀이](https://blog.naver.com/tybnasgo/222739859101)
+- [ktjs7252의 풀이](https://github.com/SolveGuys/AlgorithmStudy/blob/master/28week/ktjs7252/boj1946.cpp)
