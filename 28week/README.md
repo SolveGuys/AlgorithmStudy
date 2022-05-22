@@ -22,8 +22,8 @@ ___
 [전체 문제 보기](https://www.acmicpc.net/problem/3190)
 
 ### 풀이
-- [ktjs7252의 풀이](https://github.com/ktjs7252/Baekjoon_code/blob/main/3190-1.c%2B%2B)
-- [ktjs7252의 풀이](https://github.com/ktjs7252/Baekjoon_code/blob/main/3190-2.c%2B%2B)
+- [ktjs7252의 풀이](https://github.com/SolveGuys/AlgorithmStudy/blob/master/28week/ktjs7252/boj3190.md)
+
 
 ___
 ## BOJ 11066 파일 합치기
