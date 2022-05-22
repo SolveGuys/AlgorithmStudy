@@ -6,6 +6,7 @@
 ### 풀이
 - [JohnNaksaing의 풀이](./JohnNaksaing/boj3649.md)
 - [nmp9981의 풀이](https://blog.naver.com/tybnasgo/222738916047)
+- [ktjs7252의 풀이](https://github.com/ktjs7252/Baekjoon_code/blob/main/%EA%B7%B8%EB%A6%AC%EB%94%94%2C%20%ED%88%AC%ED%8F%AC%EC%9D%B8%ED%84%B0%2C%20%EB%9D%BC%EC%9D%B8%EC%8A%A4%EC%9C%84%ED%95%91/3649.cpp)
 ___
 ## BOJ 3085 사탕 게임
 ### 문제
