@@ -19,7 +19,7 @@ ___
 [전체 문제 보기](https://www.acmicpc.net/problem/1107)
 
 ### 풀이
-- 풀이 작성 후, 링크를 연결해 주세요.
+- [nmp9981의 풀이](https://blog.naver.com/tybnasgo/222695393730)
 
 ___
 ## BOJ 1600 말이 되고픈 원숭이
