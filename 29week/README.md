@@ -11,7 +11,7 @@ ___
 [전체 문제 보기](https://www.acmicpc.net/problem/1931)
 
 ### 풀이
-- 풀이 작성 후, 링크를 연결해 주세요.
+- [ktjs7252의 풀이](https://github.com/ktjs7252/Baekjoon_code/blob/main/boj1931.cpp)
 
 ___
 ## BOJ 1107 리모컨
