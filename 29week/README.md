@@ -13,6 +13,7 @@ ___
 ### 풀이
 - [ktjs7252의 풀이](https://github.com/ktjs7252/Baekjoon_code/blob/main/boj1931.cpp)
 - [JohnNaksaing의 풀이](./JohnNaksaing/boj1931.md)
+- [Soyewon의 풀이](https://soyw96.tistory.com/8)
 
 ___
 ## BOJ 1107 리모컨
