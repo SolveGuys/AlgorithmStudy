@@ -24,7 +24,6 @@ public:
 			}
 		}
 	}
-	inline bool get_bit(int idx, int clock);
 	int get_score() 
 	{
 		int get = 0;
