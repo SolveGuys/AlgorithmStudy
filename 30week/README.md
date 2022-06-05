@@ -12,5 +12,5 @@ ___
 [전체 문제 보기](https://www.acmicpc.net/problem/14891)
 
 ### 풀이
-- [JohnNaksaing의 풀이](./JohnNaksaing/boj1489.md)
 - [nmp9981의 풀이](https://blog.naver.com/tybnasgo/222756533019)
+- [JohnNaksaing의 풀이](./JohnNaksaing/boj1489.md)
