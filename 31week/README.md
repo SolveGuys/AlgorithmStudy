@@ -11,4 +11,4 @@ ___
 [전체 문제 보기](https://www.acmicpc.net/problem/4485)
 
 ### 풀이
-- 풀이를 작성한 후, 링크를 연결해 주세요.
+- [nmp9981의 풀이](https://blog.naver.com/tybnasgo/222518733472)
