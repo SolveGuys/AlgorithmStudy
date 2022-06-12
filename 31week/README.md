@@ -12,3 +12,4 @@ ___
 
 ### 풀이
 - [nmp9981의 풀이](https://blog.naver.com/tybnasgo/222518733472)
+- [JohnNaksaing의 풀이](./JohnNaksaing/boj4485.md)
