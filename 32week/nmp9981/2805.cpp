@@ -1,13 +1,18 @@
 #include <iostream>
-#include <algorithm>
-
-#define maxi 1000001
 using namespace std;
+
+#define maxi 1000001//배열 최대 길이
 typedef long long ll;
 
 ll n;//나무의 수
 ll m;//나무의 길이
+const ll zero = 0;
 ll tree_height[maxi];//나무의 높이
+
+//크기 비교 함수
+inline ll num_max(ll x, ll y) {
+	return x > y ? x : y;
+}
 
 //입력
 void input() {
@@ -17,7 +22,7 @@ void input() {
 //남은 나무의 길이
 ll rest_tree(ll x) {
 	ll rest = 0;
-	for (int i = 0; i < n; i++) rest += max(0ll, tree_height[i] - x);
+	for (int i = 0; i < n; i++) rest += num_max(zero, tree_height[i] - x);
 	return rest;
 }
 
