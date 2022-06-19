@@ -5,6 +5,7 @@
 
 ### 풀이
 - [nmp9981의 풀이](https://blog.naver.com/tybnasgo/222774166691)
+- [JohnNaksaing의 풀이](./JohnNaksaing/prog42898.md)
 ___
 ## BOJ 2665 미로만들기
 ### 문제
@@ -12,7 +13,7 @@ ___
 
 ### 풀이
 - [nmp9981의 풀이](https://blog.naver.com/tybnasgo/222771588147)
-- 
+- [JohnNaksaing의 풀이](./JohnNaksaing/boj2665.md)
 ___
 ## BOJ 2805 나무 자르기
 ### 문제
@@ -21,3 +22,4 @@ ___
 ### 풀이
 - [nmp9981의 풀이](https://blog.naver.com/tybnasgo/222776020969)
 - [Soyewon의 풀이](https://soyw96.tistory.com/9)
+- [JohnNaksaing의 풀이](./JohnNaksaing/boj2805.md)
