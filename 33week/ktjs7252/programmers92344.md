@@ -17,7 +17,10 @@
 구간쿼리를 구할때 정적배열이면 누적합 / 동적배열이면 트리(세그먼트트리,펜윅트리)<br><br>
 세그먼트 트리 : 이진트리기반 자료구조 (펙윅트리) , 모든 쿼리의 최적해한 값(ex:최솟값)<br>
 펜윅트리(세그먼트 트리 기반) : 최하위 노드를 빼가며 갱신하고 업데이트하는 트리 , 모든 세그먼트를 만들 필요가 없음  
+# 관련문제
+[백준2042](https://www.acmicpc.net/problem/2042)
+[백준3653](https://www.acmicpc.net/problem/3653)
                 
 
 ## 코드
-[코드 보러가기]()
+[코드 보러가기](https://github.com/ktjs7252/Baekjoon_code/blob/main/programmers92344.cpp)
