@@ -32,4 +32,5 @@ ___
 ### 풀이
 - [nmp9981의 풀이](https://blog.naver.com/tybnasgo/222788298138)
 - [JohnNaksaing의 풀이](./JohnNaksaing/prog92344.md)
+- [ktjs7252의 풀이](https://github.com/SolveGuys/AlgorithmStudy/blob/master/33week/ktjs7252/programmers92344.md)
 
