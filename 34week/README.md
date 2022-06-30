@@ -13,6 +13,7 @@ ___
 
 ### 풀이
 - [nmp9981의 풀이](https://blog.naver.com/tybnasgo/222790948187)
+- [JohnNaksaing의 풀이](./JohnNaksaing/boj6593.md)
 ___
 
 ## 프로그래머스 60062 외벽 점검
