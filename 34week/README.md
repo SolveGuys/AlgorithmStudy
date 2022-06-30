@@ -6,6 +6,7 @@ ___
 
 ### 풀이
 - [JohnNaksaing의 풀이](./JohnNaksaing/boj2608.md)
+- [nmp9981의 풀이](https://blog.naver.com/tybnasgo/222795689196)
 ___
 ## BOJ 6593 상범 빌딩
 ### 문제
