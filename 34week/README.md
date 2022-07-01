@@ -30,7 +30,7 @@ ___
 [전체 문제 보기](https://www.acmicpc.net/problem/9663)
 
 ### 풀이
-- 풀이 작성 후, 링크를 연결해 주세요.
+- [JohnNaksaing의 풀이](./JohnNaksaing/boj9663.md)
 ___
 
 ## 백준 14889 스타트와 링크
