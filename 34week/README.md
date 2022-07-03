@@ -31,6 +31,7 @@ ___
 
 ### 풀이
 - [JohnNaksaing의 풀이](./JohnNaksaing/boj9663.md)
+- [Soyewon의 풀이](https://soyw96.tistory.com/11)
 ___
 
 ## 백준 14889 스타트와 링크
