@@ -22,7 +22,7 @@ ___
 [전체 문제 보기](https://programmers.co.kr/learn/courses/30/lessons/60062)
 
 ### 풀이
-- 풀이 작성 후, 링크를 연결해 주세요.
+- [JohnNaksaing의 풀이](./JohnNaksaing/prog60062.md)
 ___
 
 ## 백준 9663 N-Queen
