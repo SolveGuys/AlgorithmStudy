@@ -22,14 +22,14 @@ ___
 - [dongsuu의 풀이](https://hyunn99.tistory.com/97)
 ___
 
-## 백준 7569 토마토
+## BOJ 7569 토마토
 ### 문제
 [전체 문제 보기](https://www.acmicpc.net/problem/7569)
 
 ### 풀이
 - [nmp9981의 풀이](https://blog.naver.com/tybnasgo/222800211112)
 ___
-## 백준 1238 파티
+## BOJ 1238 파티
 ### 문제
 [전체 문제 보기](https://www.acmicpc.net/problem/1238)
 
