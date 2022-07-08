@@ -21,7 +21,7 @@ ___
 
 ### 풀이
 - [dongsuu의 풀이](https://hyunn99.tistory.com/97)
-- [ktjs7252의 풀이]()
+- [ktjs7252의 풀이](./ktjs7252/boj2529.cpp)
 ___
 
 ## BOJ 7569 토마토
@@ -30,11 +30,12 @@ ___
 
 ### 풀이
 - [nmp9981의 풀이](https://blog.naver.com/tybnasgo/222800211112)
+- [ktjs7252의 풀이](./ktjs7252/boj7569.cpp)
 ___
 ## BOJ 1238 파티
 ### 문제
 [전체 문제 보기](https://www.acmicpc.net/problem/1238)
 
 ### 풀이
-- 풀이 작성 후, 링크를 연결해 주세요.
+- [ktjs7252의 풀이](./ktjs7252/boj1238.md)
 ___
