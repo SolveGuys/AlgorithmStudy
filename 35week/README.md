@@ -6,7 +6,7 @@ ___
 
 ### 풀이
 - [nmp9981의 풀이](https://blog.naver.com/tybnasgo/222798554870)
-- [ktjs7252의 풀이](./ktjs7252/boj18430.cpp)
+- [ktjs7252의 풀이](./ktjs7252/boj 18430.cpp)
 ___
 ## BOJ 15823 카드 팩 구매하기
 ### 문제
