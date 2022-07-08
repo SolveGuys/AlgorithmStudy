@@ -6,8 +6,7 @@ ___
 
 ### 풀이
 - [nmp9981의 풀이](https://blog.naver.com/tybnasgo/222798554870)
-- [ktjs7252의 풀이](https://github.com/ktjs7252/Baekjoon_code/blob/main/%EC%99%84%EC%A0%84%ED%83%90%EC%83%89(bfs%2Cdfs)%20%2C%20%EB%B0%B1%ED%8A%B8%EB%9E%98%ED%82%B9/boj%2018430.cpp
-
+- [ktjs7252의 풀이](https://github.com/ktjs7252/Baekjoon_code/blob/main/%EC%99%84%EC%A0%84%ED%83%90%EC%83%89(bfs%2Cdfs)%20%2C%20%EB%B0%B1%ED%8A%B8%EB%9E%98%ED%82%B9/boj%2018430.cpp)
 ___
 ## BOJ 15823 카드 팩 구매하기
 ### 문제
