@@ -20,27 +20,27 @@ void solve(int x,int y,int sum)
 	
 	if(x==n)
 	{
-		answer=max(answer,sum);
+	    answer=max(answer,sum);
 		return;
 	}
 	
 	
 	if(!visited[x][y])
+	{
+		for(int i=0;i<4;i++)
 		{
-			for(int i=0;i<4;i++)
-			{
-				int nx=x+dx[i];
-				int ny=y+dy[i];
+			int nx=x+dx[i];
+			int ny=y+dy[i];
 				
-				if(nx<0 || ny<0 || nx>=n || ny>=m || visited[x][ny] || visited[nx][y]) continue;
+			if(nx<0 || ny<0 || nx>=n || ny>=m || visited[x][ny] || visited[nx][y]) continue;
 				
-				visited[x][y]=true;  visited[nx][y]=true;  visited[x][ny]=true;
+			visited[x][y]=true;  visited[nx][y]=true;  visited[x][ny]=true;
 				
-				solve(x,y+1,sum+(arr[x][y]*2)+arr[nx][y]+arr[x][ny]);
+			solve(x,y+1,sum+(arr[x][y]*2)+arr[nx][y]+arr[x][ny]);
 				
-				visited[x][y]=false;  visited[nx][y]=false;  visited[x][ny]=false;
-			}
+			visited[x][y]=false;  visited[nx][y]=false;  visited[x][ny]=false;
 		}
+	}
 	
 	solve(x,y+1,sum);
 }
