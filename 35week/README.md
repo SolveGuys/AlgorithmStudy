@@ -14,6 +14,7 @@ ___
 
 ### 풀이
 - [nmp9981의 풀이](https://blog.naver.com/tybnasgo/222803753547)
+- [JohnNaksaing의 풀이](./JohnNaksaing/boj15823.md)
 ___
 ## 백준 2529 부등호
 ### 문제
@@ -22,6 +23,7 @@ ___
 ### 풀이
 - [dongsuu의 풀이](https://hyunn99.tistory.com/97)
 - [ktjs7252의 풀이](./ktjs7252/boj2529.cpp)
+- [JohnNaksaing의 풀이](./JohnNaksaing/boj2529.md)
 ___
 
 ## BOJ 7569 토마토

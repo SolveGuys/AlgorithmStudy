@@ -28,7 +28,7 @@ bool promising(int* board, bool* bLess, int n)
 
 int main()
 {
-	int* board;
+	int* board_small;
 	int* board_big;
 	bool* bLess;
 
@@ -38,7 +38,7 @@ int main()
 	//00112
 	// < >
 	//8 9 1
-	board = new int[n+1];
+	board_small = new int[n+1];
 	board_big = new int[n+1];
 	bLess = new bool[n];
 	int answer = 0;
@@ -48,20 +48,20 @@ int main()
 	{
 		std::cin >> c;
 		bLess[i] = c == '<';
-		board[i] = i;
+		board_small[i] = i;
 		board_big[i] = (9 - i);
 	}
-	board[n] = n, board_big[n] = (9 - n);
+	board_small[n] = n, board_big[n] = (9 - n);
     
 	std::string min;
 	do 
 	{
-		if (promising(board, bLess, n))
+		if (promising(board_small, bLess, n))
 		{
-			min = to_num(board, n);
+			min = to_num(board_small, n);
 			break;
 		}
-	} while (std::next_permutation(board, board + n+1));
+	} while (std::next_permutation(board_small, board_small + n+1));
 
 
 	std::string max;
@@ -76,6 +76,6 @@ int main()
 
 	std::cout << max << '\n' << min;
 
-	delete[] board, board_big, bLess;
+	delete[] board_small, board_big, bLess;
 	return 0;
 }

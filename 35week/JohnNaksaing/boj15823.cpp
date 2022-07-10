@@ -13,7 +13,7 @@ bool check(int mid, int n, int m)
 	memset(bUsed, 0, sizeof(bUsed));
 	for (int i = 1; i <= n; ++i) 
 	{
-		if (bUsed[cards[i]] > 0 && bUsed[cards[i]] >= end)
+		if (Used[cards[i]] >= end)
 			end = bUsed[cards[i]] + 1;
 
 		bUsed[cards[i]] = i;
