@@ -7,6 +7,7 @@ ___
 ### 풀이
 - [nmp9981의 풀이](https://blog.naver.com/tybnasgo/222812791436)  
 - [JohnNaksaing의 풀이](./JohnNaksaing/boj2606.md)
+- [ktjs7252의 풀이](./ktjs7252/boj2606.cpp)
 ___
 ## BOJ 15822 Ah-Choo!  
 ### 문제
@@ -31,6 +32,7 @@ ___
 - [nmp9981의 풀이](https://blog.naver.com/tybnasgo/222808834186)
 - [JohnNaksaing의 풀이](./JohnNaksaing/boj2178.md)
 - [dongsuu의 풀이](https://hyunn99.tistory.com/98)
+- [ktjs7252의 풀이](./ktjs7252/boj2178.md)
 ___
 
 ## BOJ 14501 퇴사 
