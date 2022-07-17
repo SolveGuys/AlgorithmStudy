@@ -32,7 +32,7 @@ ___
 - [nmp9981의 풀이](https://blog.naver.com/tybnasgo/222808834186)
 - [JohnNaksaing의 풀이](./JohnNaksaing/boj2178.md)
 - [dongsuu의 풀이](https://hyunn99.tistory.com/98)
-- [ktjs7252의 풀이](./ktjs7252/boj2178.md)
+- [ktjs7252의 풀이](./ktjs7252/boj2178.cpp)
 ___
 
 ## BOJ 14501 퇴사 
@@ -42,3 +42,4 @@ ___
 ### 풀이
 - [JohnNaksaing의 풀이](./JohnNaksaing/boj14501.md)
 - [Soyewon의 풀이](https://soyw96.tistory.com/12)
+- [ktjs7252의 풀이](./ktjs7252/boj14501.cpp)
