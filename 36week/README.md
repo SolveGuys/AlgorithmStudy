@@ -5,7 +5,8 @@ ___
 [전체 문제 보기](https://www.acmicpc.net/problem/2606)
 
 ### 풀이
-- [nmp9981의 풀이](https://blog.naver.com/tybnasgo/222812791436)
+- [nmp9981의 풀이](https://blog.naver.com/tybnasgo/222812791436)  
+- [JohnNaksaing의 풀이](./JohnNaksaing/boj2606.md)
 ___
 ## BOJ 15822 Ah-Choo!  
 ### 문제
@@ -28,6 +29,7 @@ ___
 
 ### 풀이
 - [nmp9981의 풀이](https://blog.naver.com/tybnasgo/222808834186)
+- [JohnNaksaing의 풀이](./JohnNaksaing/boj2178.md)
 ___
 
 ## BOJ 14501 퇴사 
@@ -35,4 +37,4 @@ ___
 [전체 문제 보기](https://www.acmicpc.net/problem/14501)
 
 ### 풀이
-- 풀이 작성 후, 링크를 연결해 주세요.  
+- [JohnNaksaing의 풀이](./JohnNaksaing/boj14501.md)  
