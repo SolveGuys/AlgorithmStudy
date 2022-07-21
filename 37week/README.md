@@ -21,6 +21,7 @@ ___
 
 ### 풀이
 - [nmp9981의 풀이](https://blog.naver.com/tybnasgo/222819513930)
+- [dongsuu의 풀이](https://hyunn99.tistory.com/99)
 ___
 ##  프로그래머스 17678 셔틀버스
 ### 문제
