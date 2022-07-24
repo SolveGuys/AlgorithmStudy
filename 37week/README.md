@@ -15,7 +15,7 @@ ___
 ### 풀이
 - [nmp9981의 풀이](https://blog.naver.com/tybnasgo/222822509597)
 - [JohnNaksaing의 풀이](./JohnNaksaing/prog49189.md)
-- [ktjs7252의 풀이](./ktjs7252/poj59189.cpp) 
+- [ktjs7252의 풀이](./ktjs7252/poj49189.cpp) 
 ___
 
 ## BOJ 1699 제곱수의 합   
