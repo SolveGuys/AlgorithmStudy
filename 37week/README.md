@@ -15,6 +15,7 @@ ___
 ### 풀이
 - [nmp9981의 풀이](https://blog.naver.com/tybnasgo/222822509597)
 - [JohnNaksaing의 풀이](./JohnNaksaing/prog49189.md)
+- [ktjs7252의 풀이](./ktjs7252/poj59189.cpp) 
 ___
 
 ## BOJ 1699 제곱수의 합   
@@ -25,6 +26,7 @@ ___
 - [nmp9981의 풀이](https://blog.naver.com/tybnasgo/222819513930)
 - [dongsuu의 풀이](https://hyunn99.tistory.com/99)
 - [JohnNaksaing의 풀이](./JohnNaksaing/boj1699.md)
+- [ktjs7252의 풀이](./ktjs7252/boj1699.cpp) 
 ___
 ##  프로그래머스 17678 셔틀버스
 ### 문제
@@ -40,4 +42,5 @@ ___
 
 ### 풀이
 - [nmp9981의 풀이](https://blog.naver.com/tybnasgo/222603903474)
+- [ktjs7252의 풀이](./ktjs7252/boj11404.cpp)
 ___
