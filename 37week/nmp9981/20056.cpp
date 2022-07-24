@@ -5,7 +5,7 @@ using namespace std;
 
 //파이어볼의 정보를 담는 구조체
 struct FireBallInfo {
-	int r, c, m, d, s;
+	int r, c, m, s,d;
 };
 
 //마법사 클래스
@@ -39,9 +39,9 @@ void Wizard::MapInit() {
 void Wizard::input() {
 	cin >> n >> m >> k;
 	for (int i = 0; i < m; i++) {
-		int ri, ci, mi, di, si;
-		cin >> ri >> ci >> mi >> di >> si;
-		fireBall.push_back({ ri-1,ci-1,mi,di,si });//(0,0)부터 시작
+		int ri, ci, mi, si, di;
+		cin >> ri >> ci >> mi >> si >> di;
+		fireBall.push_back({ ri-1,ci-1,mi,si,di });//(0,0)부터 시작
 	}
 }
 
@@ -50,11 +50,14 @@ void Wizard::move() {
 	while (k--) {//명령 k번 실행
 		MapInit();//맵 초기화
 		for (int i = 0; i < fireBall.size(); i++) {
+			//현재 위치
+			int pr = fireBall[i].r;
+			int pc = fireBall[i].c;
 			//다음 위치
-			int nr = (n+fireBall[i].r +( fireBall[i].s)%n * dr[fireBall[i].d])%n;
-			int nc = (n+fireBall[i].c + (fireBall[i].s)%n * dc[fireBall[i].d])%n;
+			int nr = (n+pr +( fireBall[i].s)%n * dr[fireBall[i].d])%n;
+			int nc = (n+pc + (fireBall[i].s)%n * dc[fireBall[i].d])%n;
 			//속력, 방향, 질량은 그대로
-			world[nr][nc].push_back({ nr,nc,fireBall[i].m,fireBall[i].d ,fireBall[i].s });
+			world[nr][nc].push_back({ nr,nc,fireBall[i].m,fireBall[i].s ,fireBall[i].d });
 		}
 		fireAdd();//파이어볼 합치기
 	}
@@ -91,12 +94,12 @@ void Wizard::fireAdd() {
 			if (newMass == 0) continue;//질량이 0이면 소멸
 			if (odd == 0 || even==0) {//모두 짝수이거나 홀수, 0,2,4,6
 				for (int k= 0; k < 4; k++) {
-					nextFire.push_back({ i,j,newMass,2 * k,newSpeed });
+					nextFire.push_back({ i,j,newMass,newSpeed,2*k });
 				}
 			}
 			else {//1,3,5,7
 				for (int k = 0; k < 4; k++) {
-					nextFire.push_back({ i,j,newMass,2 * k+1,newSpeed });
+					nextFire.push_back({ i,j,newMass,newSpeed,2*k+1 });
 				}
 			}
 		}
