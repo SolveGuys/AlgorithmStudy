@@ -43,4 +43,5 @@ ___
 ### 풀이
 - [nmp9981의 풀이](https://blog.naver.com/tybnasgo/222603903474)
 - [ktjs7252의 풀이](./ktjs7252/boj11404.cpp)
+- [Soyewon의 풀이](https://soyw96.tistory.com/13)
 ___
