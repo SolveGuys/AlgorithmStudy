@@ -12,33 +12,33 @@ string solution(int n, int t, int m, vector<string> timetable) {
     }
     
     int result=0;
-    int idx=0;
-    int bus=540;
+    int idx=0; // timetabld의 인덱스 (한명)
+    int bus=540; //첫시간
     
-    for(int i=1;i<=n;i++)
+    for(int i=1;i<=n;i++) //버스는 n번옴
     {
-        int next=0;
-        while(next<m && idx<arr.size())
+        int people=0; // 현재 몇명이 버스에 탓는지
+        while(people<m && idx<arr.size()) // 현재탄인원이 최대인원보다 작고 인덱스가 전체보다 작아야함
         {
-            if(arr[idx]<=bus){
-                next++;
-                idx++;
+            if(arr[idx]<=bus){ // 탈수 있는지
+                people++; //탑습인원 +1
+                idx++; // 다음 인덱스
             }
             else break;
         }
-        
+        //검사 완료후 버스가 여유로운지 탐색
         if(i==n)
         {
-            if(next<m)
+            if(people<m) //더 탈수 있음
             {
                 result=bus;
             }
-            else
+            else //여유없음
             {
-                result=arr[idx-1]-1;
+                result=arr[idx-1]-1; //마지막버스보다 1분 더빨리
             }
         }
-        bus+=t;
+        bus+=t; //버스시간 업뎃
     }
     
     int hours=result/60;
