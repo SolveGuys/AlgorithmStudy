@@ -3,12 +3,12 @@
 #include <iostream>
 #include <queue>
 
-const int BIG = -1;
+const int SMOL = -1;
 
 void print_weight(const std::vector<int>& weight){
     for(int a : weight){
-        if(a == BIG)
-            std::cout << "BIG" << ' ';    
+        if(a == SMOL)
+            std::cout << "SMOL" << ' ';    
         else
             std::cout << a << ' ';
     }
@@ -27,7 +27,7 @@ int solution(int n, std::vector<std::vector<int>> edge)
         roads[road[1]].push_back(road[0]);
     }
     
-    std::vector<int> weight(n+1,BIG);
+    std::vector<int> weight(n+1,SMOL);
     
     std::queue<int> queue; 
     weight[1] = 0;
@@ -41,7 +41,7 @@ int solution(int n, std::vector<std::vector<int>> edge)
 
         for(int next : roads[here])
         {
-            if(weight[next] == BIG)
+            if(weight[next] == SMOL)
             {
                 weight[next] = weight[here]+1;
                 queue.push(next);

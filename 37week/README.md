@@ -6,7 +6,7 @@ ___
 
 ### 풀이
 - [nmp9981의 풀이](https://blog.naver.com/tybnasgo/222630304476)
-
+- [JohnNaksaing의 풀이](./JohnNaksaing/boj20056.md)
 ___
 ## 프로그래머스 49189 가장 먼 노드  
 ### 문제
@@ -14,6 +14,7 @@ ___
 
 ### 풀이
 - [nmp9981의 풀이](https://blog.naver.com/tybnasgo/222822509597)
+- [JohnNaksaing의 풀이](./JohnNaksaing/prog49189.md)
 ___
 
 ## BOJ 1699 제곱수의 합   
@@ -23,6 +24,7 @@ ___
 ### 풀이
 - [nmp9981의 풀이](https://blog.naver.com/tybnasgo/222819513930)
 - [dongsuu의 풀이](https://hyunn99.tistory.com/99)
+- [JohnNaksaing의 풀이](./JohnNaksaing/boj1699.md)
 ___
 ##  프로그래머스 17678 셔틀버스
 ### 문제

@@ -1,24 +1,29 @@
 #include <bits/stdc++.h>
-//	2748KB	20ms
-			  // 0  1  2  3  4  5  6  7
-const int dr[]{ -1,-1, 0, 1, 1, 1, 0,-1 };
-const int dc[]{  0, 1, 1, 1, 0,-1,-1,-1 };
+
 int n, m, k;
 struct fireball
 {
 	int r, c, m, s, d;
-
+    const static int dr[];
+    const static int dc[];
+    
 	void move() 
 	{
-		r = (r + dr[d] * s - 1) % (n) + 1;
-		c = (c + dc[d] * s - 1) % (n) + 1;
+		r = (r + dr[d] * s) % n;
+		c = (c + dc[d] * s) % n;
+        
+        if(r <= 0) r += n;
+        if(c <= 0) c += n;
 	}
 
 	fireball(int r, int c, int m, int s, int d) :r(r), c(c), m(m), s(s), d(d) {}
 };
+			  // 0  1  2  3  4  5  6  7
+const int fireball::dr[]{ -1,-1, 0, 1, 1, 1, 0,-1 };
+const int fireball::dc[]{  0, 1, 1, 1, 0,-1,-1,-1 };
+
 std::vector<fireball> map[51][51];
 std::queue<fireball> fireballs;
-
 
 void print_map()
 {
