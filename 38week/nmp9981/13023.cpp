@@ -23,6 +23,7 @@ void input() {
 
 //깊이 4인 친구관계가 존재 하는가?
 void FriendSearch(int node, int depth) {
+	visit[node] = true;//방문 체크
 	//깊이가 4
 	if (depth == 4) {
 		successFriend = true;
@@ -34,11 +35,10 @@ void FriendSearch(int node, int depth) {
 		int next = graph[node][i];
 		//미방문이면
 		if (visit[next] == false) {
-			visit[next] = true;
 			FriendSearch(next, depth + 1);//다음 지점
-			visit[next] = false;
 		}
 	}
+	visit[node] = false;//체크 해제
 }
 int main(){
 	//빠른 입력
