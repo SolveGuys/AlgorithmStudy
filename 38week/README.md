@@ -5,7 +5,7 @@ ___
 [전체 문제 보기](https://www.acmicpc.net/problem/17136)
 
 ### 풀이
-- 풀이 작성 후, 링크를 연결해 주세요.
+- [ktjs7252의 풀이](./ktjs7252/boj17136.cpp)
 ___
 ## BOJ 13023 ABCDE  
 ### 문제
@@ -13,6 +13,7 @@ ___
 
 ### 풀이
 - [nmp9981의 풀이](https://blog.naver.com/tybnasgo/222598663129)
+- [ktjs7252의 풀이](./ktjs7252/boj13023.cpp)
 
 ___
 ## BOJ 17386 선분 교차 1  
