@@ -2,8 +2,8 @@
 using namespace std;
 
 int n, len, num;
-pair<int, int> a[100001];
-int lis[100001];
+pair<int, int> a[101];
+int lis[101];
 
 int main() {
     ios_base::sync_with_stdio(false);
