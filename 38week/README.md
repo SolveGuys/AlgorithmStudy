@@ -37,4 +37,5 @@ ___
 
 ### 풀이
 - [ktjs7252의 풀이](./ktjs7252/boj2565.md)
+- [nmp9981의 풀이](https://blog.naver.com/tybnasgo/222834446339)
 ___
