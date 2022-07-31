@@ -6,6 +6,7 @@ ___
 
 ### 풀이
 - [ktjs7252의 풀이](./ktjs7252/boj17136.cpp)
+- [JohnNakSaing의 풀이](./JohnNaksaing/boj17136.md)
 ___
 ## BOJ 13023 ABCDE  
 ### 문제

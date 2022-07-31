@@ -1,5 +1,5 @@
 #include <iostream>
-int map[10][10];
+bool map[10][10];
 int paper[6] {0,5,5,5,5,5};
 
 int answer = 1e9;
