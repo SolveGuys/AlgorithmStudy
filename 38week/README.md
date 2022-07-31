@@ -30,7 +30,7 @@ ___
 [전체 문제 보기](https://www.acmicpc.net/problem/11729)
 
 ### 풀이
-- [Soyewon의 풀이] (https://soyw96.tistory.com/14)
+- [Soyewon의 풀이](https://soyw96.tistory.com/14)
 ___
 ## BOJ 2565 전깃줄  
 ### 문제
