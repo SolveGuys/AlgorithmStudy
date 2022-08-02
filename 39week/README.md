@@ -5,14 +5,14 @@ ___
 [전체 문제 보기](https://www.acmicpc.net/problem/12738)
 
 ### 풀이
-- 풀이 작성 후, 링크를 연결해 주세요.
+- [ktjs7252의풀이](./ktjs7252/boj12738.cpp)
 ___
 ## 프로그래머스 60059 자물쇠와 열쇠  
 ### 문제
 [전체 문제 보기](https://school.programmers.co.kr/learn/courses/30/lessons/60059)
 
 ### 풀이
-- 풀이 작성 후, 링크를 연결해 주세요.
+- [ktjs7252의풀이](./ktjs7252/poj60059.md)
 ___
 ## BOJ 1916 최소비용 구하기  
 ### 문제
