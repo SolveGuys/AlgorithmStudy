@@ -19,4 +19,4 @@ ___
 [전체 문제 보기](https://www.acmicpc.net/problem/1916)
 
 ### 풀이
-- 풀이 작성 후, 링크를 연결해 주세요.
+- [ktjs7252의풀이](./ktjs7252/boj1916.cpp)
