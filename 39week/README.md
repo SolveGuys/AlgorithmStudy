@@ -21,3 +21,4 @@ ___
 
 ### 풀이
 - [ktjs7252의풀이](./ktjs7252/boj1916.cpp)
+- [nmp9981의 풀이](https://blog.naver.com/tybnasgo/222515903772)
