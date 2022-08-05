@@ -30,3 +30,18 @@ ___
 ### 풀이
 - [Soyewon의 풀이](https://soyw96.tistory.com)
 ___
+## BOJ 1916 최소비용 구하기  
+### 문제
+[전체 문제 보기](https://www.acmicpc.net/problem/1916)
+
+### 풀이
+- [ktjs7252의풀이](./ktjs7252/boj1916.cpp)
+- [nmp9981의 풀이](https://blog.naver.com/tybnasgo/222515903772)
+___
+## BOJ 11724 연결 요소의 개수  
+### 문제
+[전체 문제 보기](https://www.acmicpc.net/problem/11724)
+
+### 풀이
+- 풀이 작성 후, 링크를 연결해 주세요.
+
