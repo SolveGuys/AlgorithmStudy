@@ -22,3 +22,11 @@ ___
 ### 풀이
 - [ktjs7252의풀이](./ktjs7252/boj1916.cpp)
 - [nmp9981의 풀이](https://blog.naver.com/tybnasgo/222515903772)
+___
+## BOJ 14719 빗물  
+### 문제
+[전체 문제 보기](https://www.acmicpc.net/problem/14719)
+
+### 풀이
+- [Soyewon의 풀이](https://soyw96.tistory.com)
+___
