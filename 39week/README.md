@@ -29,6 +29,7 @@ ___
 
 ### 풀이
 - [Soyewon의 풀이](https://soyw96.tistory.com)
+- [nmp9981의 풀이](https://blog.naver.com/tybnasgo/222555603512)
 ___
 ## BOJ 11724 연결 요소의 개수  
 ### 문제
