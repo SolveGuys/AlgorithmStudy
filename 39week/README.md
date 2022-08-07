@@ -31,7 +31,7 @@ ___
 [전체 문제 보기](https://www.acmicpc.net/problem/14719)
 
 ### 풀이
-- [Soyewon의 풀이](https://soyw96.tistory.com)
+- [Soyewon의 풀이](https://soyw96.tistory.com/15)
 - [nmp9981의 풀이](https://blog.naver.com/tybnasgo/222555603512)
 - [JohnNaksaing의 풀이](../Problems_Archives/03week/JohnNaksaing/BOJ14719.md)
 ___
