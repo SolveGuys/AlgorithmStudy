@@ -6,6 +6,7 @@ ___
 
 ### 풀이
 - [ktjs7252의풀이](./ktjs7252/poj1832.cpp)
+- [nmp9981의 풀이](https://blog.naver.com/tybnasgo/222842847212)
 ___
 ## BOJ 2098 외판원 순회  
 ### 문제
