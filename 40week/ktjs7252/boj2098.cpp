@@ -6,8 +6,7 @@ using namespace std;
 int n, dp[MAX_N][1 << MAX_N], dist[MAX_N][MAX_N];
 
 int tsp(int here, int visited){
-    if(visited == (1 << n) - 1) //끝까지 방문했다면
-	{  
+    if(visited == (1 << n) - 1){ //끝까지 방문했다면 
         return dist[here][0] ? dist[here][0] : INF;
     }
     int &ret = dp[here][visited]; // 주소값을 쓰는 이유 : 변하는 값을 담기 위해  
@@ -15,8 +14,7 @@ int tsp(int here, int visited){
     if(ret != -1) return ret; //값이 있다면 바로 return 
     ret = INF; //처음엔 무한대로 주고 min값으로 갱신 / 마지막에 INF가 살아있다면 볼 필요도 없음 
     
-    for(int i = 0; i < n; i++)
-	{
+    for(int i = 0; i < n; i++){
         if(visited & (1 << i)) continue; //방문했다면 
         if(dist[here][i] == 0) continue; //방문하려는 것이 자기 자신이면 
         
@@ -29,7 +27,6 @@ int main() {
     cin.tie(NULL);
     cout.tie(NULL);
     cin >> n;
-  
     for(int i = 0; i < n; i++){
         for(int j = 0; j < n; j++){
             cin >> dist[i][j];
@@ -37,8 +34,7 @@ int main() {
     }
     
     memset(dp, -1, sizeof(dp));
-    
-    cout << tsp(0, 1);
+    cout << tsp(0, 1) << '\n';
     
     
     return 0;
