@@ -27,5 +27,5 @@ ___
 [전체 문제 보기](https://www.acmicpc.net/problem/20444)
 
 ### 풀이
-- 풀이 작성 후, 링크를 연결해 주세요.  
+- [nmp9981의 풀이](https://blog.naver.com/tybnasgo/222844957255)
 ___
