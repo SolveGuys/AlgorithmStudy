@@ -1,7 +1,7 @@
 #include <bits/stdc++.h>
 
 int n;
-const int big = 0x3f3f3f3f;
+const int big = 1e9;
 
 using bitmask = int;
 
@@ -24,7 +24,7 @@ int TSP(int idx, bitmask visit_info)
 		weight = big;
 		for (int i = 0; i < n; i++) 
 		{
-            if(idx == i) continue;
+            if (idx == i) continue;
 			if (map[idx][i] == 0) continue;
 			if (visit_info & (1 << i))continue;
 			

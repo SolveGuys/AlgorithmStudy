@@ -21,7 +21,7 @@ ___
 [전체 문제 보기](https://www.acmicpc.net/problem/2098)
 
 ### 풀이
-- 풀이 작성 후, 링크를 연결해 주세요.  
+- [JohnNaksaing의 풀이](./JohnNaksaing/boj2098.md)  
 ___
 ## BOJ 9734 순환 소수  
 ### 문제
@@ -29,6 +29,7 @@ ___
 
 ### 풀이
 - [nmp9981의 풀이](https://blog.naver.com/tybnasgo/222847255207)  
+- [JohnNaksaing의 풀이](./JohnNaksaing/boj9734.md)  
 ___
 ## BOJ 20444 색종이와 가위  
 ### 문제
