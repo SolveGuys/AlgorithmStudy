@@ -7,7 +7,7 @@ ___
 ### 풀이
 - [nmp9981의 풀이](https://blog.naver.com/tybnasgo/222851588348)
 ___
-## BOJ 9527 서강그라운드
+## BOJ 14983 서강그라운드
 ### 문제
 [전체 문제 보기](https://www.acmicpc.net/problem/14938)
 
