@@ -22,7 +22,7 @@ ___
 
 ### 풀이
 - [nmp9981의 풀이](https://blog.naver.com/tybnasgo/222853500641)
-- [ktjs7252의 풀이](./ktjs7252/poj64062.md)
+- [ktjs7252의 풀이](./ktjs7252/pog64062.md)
 
 ___
 ## BOJ 2629 양팔저울
