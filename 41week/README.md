@@ -13,6 +13,7 @@ ___
 
 ### 풀이
 - [nmp9981의 풀이](https://blog.naver.com/tybnasgo/222852002511)
+- [JohnNaksaing의 풀이](./JohnNaksaing/boj14938.md)
 
 ___
 ## 프로그래머스 64062 징검다리 건너기
