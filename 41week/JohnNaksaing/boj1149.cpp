@@ -1,3 +1,5 @@
+//2020kb, 0ms
+
 #include <iostream>
 #include <vector>
 
@@ -6,6 +8,7 @@ struct RGB
 	int R, G, B;
 };
 
+// 1e9 is float type
 const int big = 1e9;
 
 int main()
