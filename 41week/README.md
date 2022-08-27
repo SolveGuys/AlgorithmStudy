@@ -32,6 +32,7 @@ ___
 ### 풀이
 - [nmp9981의 풀이](https://blog.naver.com/tybnasgo/222853444063)
 - [JohnNaksaing의 풀이](./JohnNaksaing/boj2629.md)
+- [Soyewon의 풀이](https://soyw96.tistory.com/17)
 ___
 ## BOJ 1149 RGB거리
 ### 문제
