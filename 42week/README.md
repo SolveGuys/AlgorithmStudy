@@ -26,7 +26,7 @@ ___
 ___
 ## BOJ 1461 도서관
 ### 문제
-[전체 문제 보기](https://www.acmicpc.net/problem/1461
+[전체 문제 보기](https://www.acmicpc.net/problem/1461)
 
 ### 풀이
 - 풀이 작성 후, 링크를 연결해 주세요.
