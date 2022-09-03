@@ -24,6 +24,7 @@ ___
 ### 풀이
 - [ktjs7252의 풀이](./ktjs7252/boj17142.cpp)
 - [nmp9981의 풀이](https://blog.naver.com/tybnasgo/222560460938)
+- [JohnNaksaing의 풀이](./JohnNaksaing/boj17142.cpp)
 ___
 ## BOJ 1461 도서관
 ### 문제
