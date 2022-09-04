@@ -9,7 +9,7 @@ struct node
 {
 	int x, y;
 
-	node& operator+=(node rht)
+	node& operator+=(const node& rht)
 	{
 		x += rht.x, y += rht.y;
 		return *this;
