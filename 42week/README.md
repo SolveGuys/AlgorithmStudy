@@ -14,7 +14,7 @@ ___
 [전체 문제 보기](https://school.programmers.co.kr/learn/courses/30/lessons/118669)
 
 ### 풀이
-- 풀이 작성 후, 링크를 연결해 주세요.
+- [ktjs7252의 풀이](./ktjs7252/poj118669.cpp)
 
 ___
 ## BOJ 17142 연구소 3
