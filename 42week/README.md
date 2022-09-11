@@ -40,3 +40,11 @@ ___
 
 ### 풀이
 - [dongsuu의 풀이](https://hyunn99.tistory.com/103)
+___
+## 프로그래머스 92334 신고결과받기
+### 문제
+[전체 문제 보기](https://school.programmers.co.kr/learn/courses/30/lessons/92334)
+
+### 풀이
+- [ktjs7252의 풀이](./ktjs7252/poj92334.cpp)
+
