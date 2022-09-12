@@ -46,5 +46,5 @@ ___
 [전체 문제 보기](https://school.programmers.co.kr/learn/courses/30/lessons/92334)
 
 ### 풀이
-- [ktjs7252의 풀이](./ktjs7252/poj92334.cpp)
+- [ktjs7252의 풀이](./ktjs7252/poj92334.md)
 
