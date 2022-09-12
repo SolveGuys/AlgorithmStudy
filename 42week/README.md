@@ -41,6 +41,7 @@ ___
 
 ### 풀이
 - [dongsuu의 풀이](https://hyunn99.tistory.com/103)
+- [JohnNaksaing의 풀이](./JohnNaksaing/boj6603.md)
 ___
 ## 프로그래머스 92334 신고결과받기
 ### 문제
