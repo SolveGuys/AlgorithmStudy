@@ -44,7 +44,7 @@ int find(vector<vector<int>> &board,int ax,int ay,int bx,int by,int idx)
             }
         }
         if(cant_go==0) return idx;
-        if(lose<1000) return lose;
+        if(lose!=1000) return lose;
         else{
             return win;
         }
@@ -73,7 +73,7 @@ int find(vector<vector<int>> &board,int ax,int ay,int bx,int by,int idx)
             }
         }
         if(cant_go==0) return idx;
-        if(lose<1000) return lose;
+        if(lose!=1000) return lose;
         else{
             return win;
         }
