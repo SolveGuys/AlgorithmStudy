@@ -6,6 +6,7 @@ ___
 
 ### 풀이
 - [nmp9981의 풀이](https://blog.naver.com/tybnasgo/222873457435)
+- [ktjs7252의 풀이](./ktjs7252/boj2352.cpp)
 
 ___
 ## BOJ 2583 영역 구하기
@@ -14,6 +15,7 @@ ___
 
 ### 풀이
 - [nmp9981의 풀이](https://blog.naver.com/tybnasgo/222874367981)
+- [ktjs7252의 풀이](./ktjs7252/boj2583.cpp)
 
 ___
 ## 프로그래머스 92345 사라지는 발판
@@ -21,7 +23,7 @@ ___
 [전체 문제 보기](https://school.programmers.co.kr/learn/courses/30/lessons/92345)
 
 ### 풀이
-- 풀이 작성 후, 링크를 연결해 주세요.
+- [ktjs7252의 풀이](./ktjs7252/poj92345.cpp)
 
 ___
 ## BOJ 2263 트리의 순회
@@ -37,4 +39,4 @@ ___
 [전체 문제 보기](https://www.acmicpc.net/problem/1912)
 
 ### 풀이
-- 풀이 작성 후, 링크를 연결해 주세요.
+- [ktjs7252의 풀이](./ktjs7252/boj1912.cpp)
