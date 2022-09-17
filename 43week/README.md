@@ -34,6 +34,7 @@ ___
 
 ### 풀이
 - [nmp9981의 풀이](https://blog.naver.com/tybnasgo/222524245701)
+- [JohnNaksaing의 풀이](./JohnNaksaing/boj2263.md)
 
 ___
 ## BOJ 1912 연속합
