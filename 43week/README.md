@@ -25,7 +25,7 @@ ___
 [전체 문제 보기](https://school.programmers.co.kr/learn/courses/30/lessons/92345)
 
 ### 풀이
-- [ktjs7252의 풀이](./ktjs7252/poj92345.cpp)
+- [ktjs7252의 풀이](./ktjs7252/poj92345.md)
 
 ___
 ## BOJ 2263 트리의 순회
