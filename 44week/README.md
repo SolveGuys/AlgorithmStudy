@@ -31,6 +31,7 @@ ___
 
 ### 풀이
 - [nmp9981의 풀이](https://blog.naver.com/tybnasgo/222881378740)
+- [JohnNaksaing의 풀이](./JohnNaksaing/boj5557.md)
 ___
 
 ## BOJ 2193 이친수
