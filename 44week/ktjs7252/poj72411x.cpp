@@ -1,3 +1,4 @@
+```c++
 #include <bits/stdc++.h>
 #include <string>
 #include <vector>
@@ -90,3 +91,4 @@ vector<string> solution(vector<string> orders, vector<int> course) {
     
     return answer;
 }
+```
