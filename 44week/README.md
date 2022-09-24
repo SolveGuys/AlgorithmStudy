@@ -39,5 +39,5 @@ ___
 [전체 문제 보기](https://www.acmicpc.net/problem/2193)
 
 ### 풀이
-- 풀이 작성 후, 링크를 연결해 주세요.
+- [dongsuu의 풀이](https://hyunn99.tistory.com/104)
 
