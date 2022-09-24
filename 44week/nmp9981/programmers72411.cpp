@@ -1,45 +1,43 @@
 #include <cstring>
 #include <vector>
-#include <algorithm>
 #include <map>
+#include <algorithm>
 using namespace std;
 
-const int maxi = 11;
-map<string,int> wordHouse;//단어 모음
-vector<string> menu[maxi][21];//자릿수별 단어 넣기
-int wordLength[maxi];//각 자릿수별 가장 많이 주문한 메뉴
+const int maxi = 11;const int maxiOrders = 21;
+int maxiCount[maxi];//각 자릿수별 최대 등장 횟수
+map<string,int> wordHouse;//각 단어가 몇번 등장했는지
+vector<string> menu[maxi][maxiOrders];//단어 string이 몇자리수이고 몇개인가?
 
-//문자열 조합구하기
-void StringComb(int idx,string order,string word){
-    //2개 이상이면
+//조합 구하기
+void WordComb(int idx,string order,string word){
+    //조합이 만들어졌다면(길이 2 이상)
     if(word.size()>=2){
-        //메뉴 개수
-        wordHouse[word]++;//개수 증가
-        wordLength[word.size()] = max(wordLength[word.size()],wordHouse[word]);//더 큰값
-        menu[word.size()][wordHouse[word]].push_back(word);
+        wordHouse[word]++;//단어의 등장횟수 추가
+        //각 자릿수별 최대 등장횟수 갱신
+        maxiCount[word.size()] = max(maxiCount[word.size()],wordHouse[word]);
+        menu[word.size()][wordHouse[word]].push_back(word);//word는 몇자리수이고 몇개인가?
     }
-    //다음 조합
+    //다음 지점
     for(int i=idx;i<order.size();i++){
-        word.push_back(order[i]);
-        StringComb(i+1,order,word);//재귀
-        word.pop_back();
+        word.push_back(order[i]);//글자 추가
+        WordComb(i+1,order,word);//재귀
+        word.pop_back();//글자 제거
     }
 }
 
 vector<string> solution(vector<string> orders, vector<int> course) {
-    vector<string> answer;
-    //각 문자열에 대해 조합구하기
-    for(string order : orders){//각 문자열
-        sort(order.begin(),order.end());//각 문자열 정렬
-        StringComb(0,order,"");//조합 구하기
+    vector<string> answer;//정답 벡터
+    //조합구하기
+    for(string order:orders){
+        sort(order.begin(),order.end());//정렬
+        WordComb(0,order,"");//order에 대한 조합구하기
     }
-    //각 코스별 최대 메뉴 구하기
+    //가장 많이 주문한 메뉴 구하기
     for(int i:course){
-        if(wordLength[i]<2) continue;
-        for(string s:menu[i][wordLength[i]]){
-            answer.push_back(s);
-        }
+        if(maxiCount[i]<2) continue;//길이가 2미만인 것은 제외
+        for(string j:menu[i][maxiCount[i]]) answer.push_back(j);//단어 넣기
     }
-    sort(answer.begin(),answer.end());
+    sort(answer.begin(),answer.end());//오름차순 출력
     return answer;
 }
