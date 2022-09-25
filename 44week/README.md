@@ -6,7 +6,7 @@ ___
 
 ### 풀이
 - [nmp9981의 풀이](https://blog.naver.com/tybnasgo/222883077436)  
-
+- [ktjs7252의 풀이](./ktjs7252/poj72411.md)
 ___
 ## BOJ 11054 가장 긴 바이토닉 부분 수열
 ### 문제
@@ -15,6 +15,7 @@ ___
 ### 풀이
 - [nmp9981의 풀이](https://blog.naver.com/tybnasgo/222880499607)
 - [JohnNaksaing의 풀이](./JohnNaksaing/boj11054.md)
+- [ktjs7252의 풀이](./ktjs7252/boj11054.md)
 ___
 
 ## BOJ 2533 사회망 서비스(SNS)
