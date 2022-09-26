@@ -5,7 +5,7 @@ ___
 [전체 문제 보기](https://school.programmers.co.kr/learn/courses/30/lessons/42578)
 
 ### 풀이
-- 풀이 작성 후, 링크를 연결해 주세요.
+- [nmp9981의 풀이](https://blog.naver.com/tybnasgo/222884239764)
 ___
 ## 프로그래머스 118667 두 큐 합 같게 만들기
 ### 문제
