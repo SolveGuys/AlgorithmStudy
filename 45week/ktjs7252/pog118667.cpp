@@ -1,3 +1,58 @@
+
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+46
+47
+48
+49
+50
+51
+52
+53
+54
+55
 #include <bits/stdc++.h>
 #include <string>
 #include <vector>
@@ -10,7 +65,7 @@ int solution(vector<int> queue1, vector<int> queue2) {
     queue<int> q2;
     long long sum1=0;
     long long  sum2=0;
-    
+
     for(int i=0;i<queue1.size();i++)
     {
         sum1+=queue1[i];
@@ -27,7 +82,7 @@ int solution(vector<int> queue1, vector<int> queue2) {
         if(sum1==sum2){
             break;
         }
-        if(counting>29000){
+        if(counting>290000){
             return -1;
         }
         if(sum1>sum2){
@@ -47,8 +102,8 @@ int solution(vector<int> queue1, vector<int> queue2) {
             counting++;
         }
     }
-    
+
     answer=counting;
-    
+
     return answer;
 }
