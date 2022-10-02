@@ -16,7 +16,7 @@ ___
 ### 풀이
 - [nmp9981의 풀이](https://blog.naver.com/tybnasgo/222889173199)
 - [JohnNaksaing의 풀이](./JohnNaksaing/prog118677.md)
-- [ktjs7252의 풀이](./ktjs7252/pro118667.md)
+- [ktjs7252의 풀이](./ktjs7252/poj118667.md)
 ___
 
 ## BOJ 2963 무한 이진 트리 탐색
