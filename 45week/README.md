@@ -7,7 +7,7 @@ ___
 ### 풀이
 - [nmp9981의 풀이](https://blog.naver.com/tybnasgo/222884239764)
 - [JohnNaksaing의 풀이](./JohnNaksaing/prog42758.md)
-- [ktjs7252의 풀이](./ktjs7252/pog42758.cpp)
+- [ktjs7252의 풀이](./ktjs7252/pog42578.cpp)
 ___
 ## 프로그래머스 118667 두 큐 합 같게 만들기
 ### 문제
@@ -16,7 +16,7 @@ ___
 ### 풀이
 - [nmp9981의 풀이](https://blog.naver.com/tybnasgo/222889173199)
 - [JohnNaksaing의 풀이](./JohnNaksaing/prog118677.md)
-- [ktjs7252의 풀이](./ktjs7252/pro11877.md)
+- [ktjs7252의 풀이](./ktjs7252/pro118667.md)
 ___
 
 ## BOJ 2963 무한 이진 트리 탐색
