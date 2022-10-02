@@ -40,3 +40,4 @@ ___
 
 ### 풀이
 - [nmp9981의 풀이](https://blog.naver.com/tybnasgo/222705368677)
+- [JohnNaksaing의 풀이](../Problems_Archives/24week/JohnNaksaing/boj1062.md)
