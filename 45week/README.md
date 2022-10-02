@@ -45,3 +45,4 @@ ___
 - [nmp9981의 풀이](https://blog.naver.com/tybnasgo/222705368677)
 - [JohnNaksaing의 풀이](../Problems_Archives/24week/JohnNaksaing/boj1062.md)
 - [ktjs7252의 풀이](./ktjs7252/boj1062.cpp)
+- [Soyewon의 풀이](https://soyw96.tistory.com/20)
