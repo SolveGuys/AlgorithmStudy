@@ -35,6 +35,7 @@ ___
 - [nmp9981의 풀이](https://blog.naver.com/tybnasgo/222886686130)
 - [JohnNaksaing의 풀이](./JohnNaksaing/boj11057.md)
 - [ktjs7252의 풀이](./ktjs7252/boj11057.cpp)
+- [dongsuu의 풀이](https://hyunn99.tistory.com/105)
 ___
 
 ## BOJ 1062 가르침
