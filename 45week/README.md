@@ -6,6 +6,7 @@ ___
 
 ### 풀이
 - [nmp9981의 풀이](https://blog.naver.com/tybnasgo/222884239764)
+- [JohnNaksaing의 풀이](./JohnNaksaing/prog42758.md)
 ___
 ## 프로그래머스 118667 두 큐 합 같게 만들기
 ### 문제
@@ -13,6 +14,7 @@ ___
 
 ### 풀이
 - [nmp9981의 풀이](https://blog.naver.com/tybnasgo/222889173199)
+- [JohnNaksaing의 풀이](./JohnNaksaing/prog118677.md)
 ___
 
 ## BOJ 2963 무한 이진 트리 탐색
@@ -20,7 +22,7 @@ ___
 [전체 문제 보기](https://www.acmicpc.net/problem/2963)
 
 ### 풀이
-- 풀이 작성 후, 링크를 연결해 주세요.
+- [JohnNaksaing의 풀이](./JohnNaksaing/boj2963.md)
 ___
 
 ## BOJ 11057 오르막수
@@ -29,6 +31,7 @@ ___
 
 ### 풀이
 - [nmp9981의 풀이](https://blog.naver.com/tybnasgo/222886686130)
+- [JohnNaksaing의 풀이](./JohnNaksaing/boj11057.md)
 ___
 
 ## BOJ 1062 가르침
