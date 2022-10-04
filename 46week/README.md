@@ -23,14 +23,7 @@ ___
 - 풀이 작성 후, 링크를 연결해 주세요.
 ___
 
-## BOJ 14890 경사로
-### 문제
-[전체 문제 보기](https://www.acmicpc.net/problem/14890)
-
-### 풀이
-- 풀이 작성 후, 링크를 연결해 주세요.
-___
-## POJ 92343 양과 늑대
+## 프로그래머스 92343 양과 늑대
 ### 문제
 [전체 문제 보기](https://school.programmers.co.kr/learn/courses/30/lessons/92343)
 
