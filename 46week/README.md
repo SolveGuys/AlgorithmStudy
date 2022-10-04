@@ -5,14 +5,14 @@ ___
 [전체 문제 보기](https://school.programmers.co.kr/learn/courses/30/lessons/42579)
 
 ### 풀이
-- 풀이 작성 후, 링크를 연결해 주세요.
+- [nmp9981의 풀이](https://blog.naver.com/tybnasgo/222890713167)
 ___
 ## BOJ 2156 포도주 시식
 ### 문제
 [전체 문제 보기](https://www.acmicpc.net/problem/2156)
 
 ### 풀이
-- 풀이 작성 후, 링크를 연결해 주세요.
+- [nmp9981의 풀이](https://blog.naver.com/tybnasgo/222644223527)
 ___
 
 ## BOJ 7570 줄 세우기
