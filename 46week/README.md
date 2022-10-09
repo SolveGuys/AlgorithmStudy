@@ -30,7 +30,7 @@ ___
 [전체 문제 보기](https://school.programmers.co.kr/learn/courses/30/lessons/92343)
 
 ### 풀이
-- 풀이 작성 후, 링크를 연결해 주세요.
+- [nmp9981의 풀이](https://blog.naver.com/tybnasgo/222895910819)
 ___
 
 ## BOJ 11265 끝나지 않는 파티
