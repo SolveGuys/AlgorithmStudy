@@ -34,7 +34,7 @@ ___
 
 ### 풀이
 - [nmp9981의 풀이](https://blog.naver.com/tybnasgo/222895910819)
-- [ktjs7252의 풀이](./ktjs7252/poj92343.cpp)
+- [ktjs7252의 풀이](./ktjs7252/pog92343.cpp)
 ___
 
 ## BOJ 11265 끝나지 않는 파티
