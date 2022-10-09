@@ -13,6 +13,7 @@ ___
 
 ### 풀이
 - [nmp9981의 풀이](https://blog.naver.com/tybnasgo/222644223527)
+= [JohnNaksaing의 풀이](./JohnNaksaing/boj2156.md)
 ___
 
 ## BOJ 7570 줄 세우기
@@ -21,6 +22,7 @@ ___
 
 ### 풀이
 - [nmp9981의 풀이](https://blog.naver.com/tybnasgo/222894412723)
+- [JohnNaksaing의 풀이](./JohnNaksaing/boj7570.md)
 ___
 
 ## 프로그래머스 92343 양과 늑대
