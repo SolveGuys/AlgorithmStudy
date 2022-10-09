@@ -13,7 +13,7 @@ ___
 
 ### 풀이
 - [nmp9981의 풀이](https://blog.naver.com/tybnasgo/222644223527)
-= [JohnNaksaing의 풀이](./JohnNaksaing/boj2156.md)
+- [JohnNaksaing의 풀이](./JohnNaksaing/boj2156.md)
 ___
 
 ## BOJ 7570 줄 세우기
