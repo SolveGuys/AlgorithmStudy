@@ -5,7 +5,7 @@ ___
 [전체 문제 보기](https://www.acmicpc.net/problem/4811)
 
 ### 풀이
-- 풀이 작성 후, 링크를 연결해 주세요.
+- [nmp9981의 풀이](https://blog.naver.com/tybnasgo/222658514269)
 ___
 
 ## BOJ 1744 수 묶기
@@ -13,5 +13,5 @@ ___
 [전체 문제 보기](https://www.acmicpc.net/problem/1744)
 
 ### 풀이
-- 풀이 작성 후, 링크를 연결해 주세요.
+- [nmp9981의 풀이](https://blog.naver.com/tybnasgo/222897476518)
 ___
