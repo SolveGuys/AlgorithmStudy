@@ -6,6 +6,7 @@ ___
 
 ### 풀이
 - [nmp9981의 풀이](https://blog.naver.com/tybnasgo/222658514269)
+- [JohnNaksaing의 풀이](./JohnNaksaing/boj4811.md)
 ___
 
 ## BOJ 1744 수 묶기
@@ -14,6 +15,7 @@ ___
 
 ### 풀이
 - [nmp9981의 풀이](https://blog.naver.com/tybnasgo/222897476518)
+- [JohnNaksaing의 풀이](./JohnNaksaing/boj1744.md)
 ___
 
 ## BOJ 2667 단지번호붙이기
@@ -21,7 +23,7 @@ ___
 [전체 문제 보기](https://www.acmicpc.net/problem/2667)
 
 ### 풀이
-- 풀이 작성 후, 링크를 연결해 주세요.
+- [JohnNaksaing의 풀이](./JohnNaksaing/boj2667.md)
 ___
 
 ## BOJ 7569 토마토

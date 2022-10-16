@@ -5,7 +5,6 @@ int main()
 	std::cin >> n;
 
 	std::vector<int> poss;
-
 	std::vector<int> negs;
 
 	int num;
