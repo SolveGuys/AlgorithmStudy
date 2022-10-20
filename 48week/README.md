@@ -17,7 +17,7 @@ ___
 ___
 ## BOJ 724132 합승택시요금
 ### 문제
-[전체 문제 보기](https://school.programmers.co.kr/learn/courses/30/lessons/724132)
+[전체 문제 보기](https://school.programmers.co.kr/learn/courses/30/lessons/72413)
 
 ### 풀이
 - 풀이 작성 후, 링크를 연결해 주세요.
