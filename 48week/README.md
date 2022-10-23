@@ -5,7 +5,7 @@ ___
 [전체 문제 보기](https://www.acmicpc.net/problem/12102)
 
 ### 풀이
-- 풀이 작성 후, 링크를 연결해 주세요.
+- [JohnNaksaing의 코드](./JohnNaksaing/boj12102.cpp)
 ___
 
 ## 프로그래머스 12902 3 x n 타일링
@@ -14,6 +14,7 @@ ___
 
 ### 풀이
 - [nmp9981의 풀이](https://blog.naver.com/tybnasgo/222650596031)
+- [JohnNaksaing의 풀이](./JohnNaksaing/boj2133.md)
 ___
 ## 프로그래머스 724132 합승택시요금
 ### 문제
@@ -29,4 +30,4 @@ ___
 
 ### 풀이
 - [nmp9981의 풀이](https://blog.naver.com/tybnasgo/222551499182)
-
+- [JohnNaksaing의 풀이](./JohnNaksaing/boj1261.md)

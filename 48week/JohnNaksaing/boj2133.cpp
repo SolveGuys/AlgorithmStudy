@@ -20,7 +20,6 @@ int solution(int n)
             vec[i] += 2 * vec[i-j];
         
         vec[i] %= by_mod;
-        //vec[i] += 2;
     }
     answer = (int)vec[n];
     
