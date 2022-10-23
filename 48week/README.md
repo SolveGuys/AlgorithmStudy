@@ -23,6 +23,7 @@ ___
 ### 풀이
 - [nmp9981의 풀이](https://blog.naver.com/tybnasgo/222637340476)
 - [JohnNaksaing의 풀이](https://github.com/SolveGuys/AlgorithmStudy/blob/master/Problems_Archives/15week/JohnNaksaing/prog72413.md)
+- [ktjs7252의 풀이](./ktjs7252/poj72414.cpp)
 ___
 ## BOJ 1261 알고스팟
 ### 문제
