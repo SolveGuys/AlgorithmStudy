@@ -31,7 +31,7 @@ ___
 [전체 문제 보기](https://www.acmicpc.net/problem/7569)
 
 ### 풀이
-- 풀이 작성 후, 링크를 연결해 주세요.
+- [JohnNaksaing의 풀이](./JohnNaksaing/boj7569.md)
 ___
 ## 프로그래머스 67259 경주로 확인하기
 ### 문제
