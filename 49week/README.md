@@ -1,8 +1,8 @@
 # 49주차 문제 목록 📝
 ___
-## BOJ 12102 종이 접기 2
+## BOJ 1987 알파벳
 ### 문제
-[전체 문제 보기](https://www.acmicpc.net/problem/12102)
+[전체 문제 보기](https://www.acmicpc.net/problem/1987)
 
 ### 풀이
 - 풀이 작성 후, 링크를 연결해 주세요.
