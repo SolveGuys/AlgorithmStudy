@@ -5,7 +5,7 @@ ___
 [전체 문제 보기](https://www.acmicpc.net/problem/1987)
 
 ### 풀이
-- 풀이 작성 후, 링크를 연결해 주세요.
+- [nmp9981의 풀이](https://blog.naver.com/tybnasgo/222909111034)
 
 ___
 ## BOJ 14628 입 챌린저
@@ -20,7 +20,7 @@ ___
 [전체 문제 보기](https://www.acmicpc.net/problem/13913)
 
 ### 풀이
-- 풀이 작성 후, 링크를 연결해 주세요.
+- [nmp9981의 풀이](https://blog.naver.com/tybnasgo/222638118598)
 ___
 ## POJ 43163 단어변환
 ### 문제
