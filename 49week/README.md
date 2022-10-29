@@ -21,6 +21,7 @@ ___
 
 ### 풀이
 - [nmp9981의 풀이](https://blog.naver.com/tybnasgo/222638118598)
+- [dongsuu의 풀이](https://hyunn99.tistory.com/106)
 ___
 ## POJ 43163 단어변환
 ### 문제
