@@ -13,7 +13,7 @@ ___
 [전체 문제 보기](https://www.acmicpc.net/problem/14628)
 
 ### 풀이
-- 풀이 작성 후, 링크를 연결해 주세요.
+- [JohnNaksaing의 코드](./JohnNaksaing/boj14628.cpp)
 ___
 ## BOJ 13913 숨바꼭질 4
 ### 문제
