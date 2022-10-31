@@ -23,7 +23,7 @@ ___
 - [nmp9981의 풀이](https://blog.naver.com/tybnasgo/222638118598)
 - [dongsuu의 풀이](https://hyunn99.tistory.com/106)
 ___
-## Pro Grammers 43163 단어변환
+## 프로그래머스 43163 단어변환
 ### 문제
 [전체 문제 보기](https://school.programmers.co.kr/learn/courses/30/lessons/43163)
 
