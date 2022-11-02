@@ -6,6 +6,7 @@ ___
 
 ### 풀이
 - [nmp9981의 풀이](https://blog.naver.com/tybnasgo/222909111034)
+- [ddongsuu의 풀이](https://hyunn99.tistory.com/107)
 
 ___
 ## BOJ 14628 입 챌린저
