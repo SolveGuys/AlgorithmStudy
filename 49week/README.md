@@ -30,3 +30,10 @@ ___
 
 ### 풀이
 - [nmp9981의 풀이](https://blog.naver.com/tybnasgo/222914941181)
+___
+## BOJ 1092 배
+### 문제
+[전체 문제 보기](https://www.acmicpc.net/problem/1092)
+
+### 풀이
+- 
