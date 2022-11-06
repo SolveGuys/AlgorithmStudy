@@ -14,7 +14,7 @@ ___
 [전체 문제 보기](https://www.acmicpc.net/problem/14628)
 
 ### 풀이
-- [JohnNaksaing의 코드](./JohnNaksaing/boj14628.cpp)
+- [JohnNaksaing의 풀이](./JohnNaksaing/boj14628.md)
 - [nmp9981의 풀이](https://blog.naver.com/tybnasgo/222921395764)
 ___
 ## BOJ 13913 숨바꼭질 4
