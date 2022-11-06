@@ -36,4 +36,4 @@ ___
 [전체 문제 보기](https://www.acmicpc.net/problem/1092)
 
 ### 풀이
-- 
+- [Soyewon의 풀이](https://soyw96.tistory.com/22)
