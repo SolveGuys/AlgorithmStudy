@@ -7,7 +7,7 @@ ___
 ### 풀이
 - [nmp9981의 풀이](https://blog.naver.com/tybnasgo/222909111034)
 - [ddongsuu의 풀이](https://hyunn99.tistory.com/107)
-
+- [JohnNaksaing의 풀이](./JohnNaksaing/boj1987.md)
 ___
 ## BOJ 14628 입 챌린저
 ### 문제
@@ -23,6 +23,7 @@ ___
 ### 풀이
 - [nmp9981의 풀이](https://blog.naver.com/tybnasgo/222638118598)
 - [dongsuu의 풀이](https://hyunn99.tistory.com/106)
+- [JohnNaksaing의 풀이](./JohnNaksaing/boj13913.md)
 ___
 ## 프로그래머스 43163 단어변환
 ### 문제
