@@ -32,6 +32,7 @@ ___
 
 ### 풀이
 - [nmp9981의 풀이](https://blog.naver.com/tybnasgo/222914941181)
+- [ktjs7252의 풀이](./ktjs7252/poj43163.cpp)
 ___
 ## BOJ 1092 배
 ### 문제
