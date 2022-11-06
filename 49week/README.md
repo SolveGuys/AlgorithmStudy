@@ -15,6 +15,7 @@ ___
 
 ### 풀이
 - [JohnNaksaing의 코드](./JohnNaksaing/boj14628.cpp)
+- [nmp9981의 풀이](https://blog.naver.com/tybnasgo/222921395764)
 ___
 ## BOJ 13913 숨바꼭질 4
 ### 문제
@@ -38,3 +39,4 @@ ___
 
 ### 풀이
 - [Soyewon의 풀이](https://soyw96.tistory.com/22)
+- [nmp9981의 풀이](https://blog.naver.com/tybnasgo/222917742810)
