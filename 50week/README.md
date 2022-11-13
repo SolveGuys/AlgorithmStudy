@@ -6,6 +6,7 @@ ___
 
 ### 풀이
 - [nmp9981의 풀이](https://blog.naver.com/tybnasgo/222922471871)
+- [JohnNaksaing의 풀이](./JohnNaksaing/prog43162.md)
 ___
 
 
@@ -15,6 +16,7 @@ ___
 
 ### 풀이
 - [nmp9981의 풀이](https://blog.naver.com/tybnasgo/222692862720)
+- [JohnNaksaing의 풀이](./JohnNaksaing/boj12865.md)
 ___
 
 ## BOJ 11725 트리의 부모 찾기
@@ -22,7 +24,7 @@ ___
 [전체 문제 보기](https://www.acmicpc.net/problem/11725)
 
 ### 풀이
-- 풀이 작성 후, 링크를 연결해 주세요.
+- [JohnNaksaing의 풀이](./JohnNaksaing/boj11725.md)
 ___
 
 
@@ -33,4 +35,5 @@ ___
 ### 풀이
 - [Soyewon의 풀이](https://soyw96.tistory.com/23)
 - [nmp9981의 풀이](https://blog.naver.com/tybnasgo/222524314522)
+- [JohnNaksaing의 풀이](./JohnNaksaing/boj1976.md)
 ___
