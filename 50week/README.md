@@ -25,6 +25,7 @@ ___
 
 ### 풀이
 - [JohnNaksaing의 풀이](./JohnNaksaing/boj11725.md)
+- [dongsuu의 풀이](https://hyunn99.tistory.com/108)
 ___
 
 
