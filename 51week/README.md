@@ -21,6 +21,7 @@ ___
 
 ### 풀이
 - [nmp9981의 풀이](https://blog.naver.com/tybnasgo/222932036407)
+- [JohnNaksaing의 풀이](./../Problems_Archives/41week/JohnNaksaing/boj1149.md)
 
 ___
 ## BOJ 16929 Two Dots
