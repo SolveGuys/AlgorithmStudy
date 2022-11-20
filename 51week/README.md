@@ -6,6 +6,7 @@ ___
 
 ### 풀이
 - [nmp9981의 풀이](https://blog.naver.com/tybnasgo/222928676697)
+- [JohnNaksaing의 풀이](./JohnNaksaing/boj1043.md)
 ___
 
 ## BOJ 20303 할로윈의 양아치
@@ -14,6 +15,7 @@ ___
 
 ### 풀이
 - [nmp9981의 풀이](https://blog.naver.com/tybnasgo/222930346329)
+- [JohnNaksaing의 풀이](./JohnNaksaing/boj20303.md)
 ___
 ## BOJ 1149 RGB거리
 ### 문제
