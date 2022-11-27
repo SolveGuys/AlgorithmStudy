@@ -6,6 +6,7 @@ ___
 
 ### 풀이
 - [nmp9981의 풀이](https://blog.naver.com/tybnasgo/222684314909)
+- [JohnNaksaing의 풀이](../Problems_Archives/22week/JohnNaksaing/boj1806.md)
 ___
 
 ## BOJ 2170 선 긋기
@@ -34,4 +35,5 @@ ___
 ### 풀이
 - [nmp9981의 풀이](https://blog.naver.com/tybnasgo/222937941431)
 - [dongsuu의 풀이](https://hyunn99.tistory.com/109)
+- [JohnNaksaing의 풀이](./JohnNaksaing/boj9465.md)
 ___
