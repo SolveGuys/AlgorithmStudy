@@ -6,6 +6,7 @@ ___
 
 ### 풀이
 - [nmp9981의 풀이](https://blog.naver.com/tybnasgo/222540897512)
+- [dongsuu의 풀이](https://hyunn99.tistory.com/111)
 ___
 
 ## BOJ 1932 정수 삼각형  
