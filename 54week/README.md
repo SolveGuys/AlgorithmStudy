@@ -14,6 +14,7 @@ ___
 
 ### 풀이
 - [nmp9981의 풀이](https://blog.naver.com/tybnasgo/222949088607)
+- [JohnNaksaing의 풀이](./JohnNaksaing/boj1727.md)
 ___
 
 ## BOJ 6064 카잉 달력  
