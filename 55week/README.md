@@ -21,4 +21,5 @@ ___
 ### 풀이
 - 풀이 작성 후, 링크를 연결해 주세요.  
 - [dongsuu의 풀이](https://hyunn99.tistory.com/113)
+- [nmp9981의 풀이](https://blog.naver.com/tybnasgo/222956453387)
 ___ 
