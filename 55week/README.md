@@ -14,7 +14,7 @@ ___
 
 ### 풀이
 - [nmp9981의 풀이](https://blog.naver.com/tybnasgo/222957641495)
-
+- [JohnNaksaing의 풀이](./JohnNaksaing/prog92342.md)
 ___ 
 ## BOJ 2644 촌수계산  
 ### 문제
