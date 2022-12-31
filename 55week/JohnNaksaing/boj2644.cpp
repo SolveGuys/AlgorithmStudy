@@ -1,6 +1,8 @@
 #include <bits/stdc++.h>
+
 std::vector<std::vector<bool>> map;
 std::vector<bool> visit;
+
 int chon(int from, int to, int num) 
 {
 	static int n = map.size();
