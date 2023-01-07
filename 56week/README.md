@@ -14,6 +14,7 @@ ___
 
 ### 풀이
 - [nmp9981의 풀이](https://blog.naver.com/tybnasgo/222590250464)
+- [JohnNaksaing의 풀이](./JohnNaksaing/boj2342.md)
 ___ 
 ## BOJ 2573 빙산  
 ### 문제
