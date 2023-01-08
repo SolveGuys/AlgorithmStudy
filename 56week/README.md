@@ -7,6 +7,7 @@ ___
 ### 풀이
 - [nmp9981의 풀이](https://blog.naver.com/tybnasgo/222971985392)
 - [JohnNaksaing의 풀이](./JohnNaksaing/prog12905.md)
+- [dongsuu의 풀이](https://hyunn99.tistory.com/115)
 ___ 
 ## BOJ 2342 Dance Dance Revolution  
 ### 문제
