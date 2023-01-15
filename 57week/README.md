@@ -13,6 +13,7 @@ ___
 
 ### 풀이
 - [nmp9981의 풀이](https://blog.naver.com/tybnasgo/222982156215)
+- [JohnNaksaing의 풀이](./JohnNaksaing/boj2248.md)
 ___ 
 ## BOJ 2447 별 찍기 - 10
 ### 문제
