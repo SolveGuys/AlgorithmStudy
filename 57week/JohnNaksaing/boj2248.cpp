@@ -1,4 +1,5 @@
 #include <bits/stdc++.h>
+
 const int NOT_BUILD = -1;
 long dp[33][33];
 std::string str;
