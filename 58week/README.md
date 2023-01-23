@@ -22,4 +22,5 @@ ___
 
 ### 풀이
 - [nmp9981의 풀이](https://blog.naver.com/tybnasgo/222988774962)
+- [dongsuu의 풀이](https://hyunn99.tistory.com/117)
 ___
