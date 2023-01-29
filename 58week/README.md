@@ -33,4 +33,5 @@ ___
 
 ### 풀이
 - [nmp9981의 풀이](https://blog.naver.com/tybnasgo/222517222572)
+- [Soyewon의 풀이](https://soyw96.tistory.com/25)
 ___
