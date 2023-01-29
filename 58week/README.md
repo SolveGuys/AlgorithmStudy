@@ -14,6 +14,7 @@ ___
 
 ### 풀이
 - [nmp9981의 풀이](https://blog.naver.com/tybnasgo/222989488281)
+- [JohnNaksaing의 풀이](./JohnNaksaing/boj16500.md)
 ___
 
 ## BOJ 16987 계란으로 계란치기
