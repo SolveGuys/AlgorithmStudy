@@ -15,6 +15,7 @@ ___
 
 ### 풀이
 - [nmp9981의 풀이](https://blog.naver.com/tybnasgo/223003038299)
+- [JohnNaksaing의 풀이](./JohnNaksaing/boj14698.md)
 
 ___ 
 
