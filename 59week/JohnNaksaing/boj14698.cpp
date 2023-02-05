@@ -1,6 +1,6 @@
 #include <bits/stdc++.h>
 
-using ty = unsigned long long;
+using ty = int64_t;
 
 int main()
 {
