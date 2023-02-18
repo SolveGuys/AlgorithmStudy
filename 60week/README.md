@@ -22,3 +22,11 @@ ___
 
 ### 풀이
 - [dongsuu의 풀이](https://hyunn99.tistory.com/118)
+
+___
+## BOJ 22856 트리 순회
+### 문제
+[전체 문제 보기](https://www.acmicpc.net/problem/22856)
+
+### 풀이
+- [Soyewon의 풀이]()
