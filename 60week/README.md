@@ -14,6 +14,7 @@ ___
 
 ### 풀이
 - [nmp9981의 풀이](https://blog.naver.com/tybnasgo/223009058916)
+- [JohnNaksaing의 풀이](./JohnNaksaing/boj16938.md)
 
 ___
 ## BOJ 18808 스티커 붙이기
