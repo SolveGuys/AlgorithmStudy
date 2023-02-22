@@ -6,3 +6,11 @@ ___
 
 ### 풀이
 - [nmp9981의 풀이](https://blog.naver.com/tybnasgo/222788298138)
+
+___
+## BOJ 20414 MVP 다이아몬드 (Normal)  
+### 문제
+[전체 문제 보기](https://www.acmicpc.net/problem/20414)
+
+### 풀이
+- 풀이 작성 후, 링크를 연결해 주세요.
