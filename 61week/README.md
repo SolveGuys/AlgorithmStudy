@@ -6,6 +6,7 @@ ___
 
 ### 풀이
 - [nmp9981의 풀이](https://blog.naver.com/tybnasgo/222788298138)
+- [dongsuu의 풀이](https://hyunn99.tistory.com/120)
 
 ___
 ## BOJ 20414 MVP 다이아몬드 (Normal)  
