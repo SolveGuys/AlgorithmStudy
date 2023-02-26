@@ -24,3 +24,11 @@ ___
 ### 풀이
 - [dongsuu의 풀이](https://hyunn99.tistory.com/119)
 - [nmp9981의 풀이](https://blog.naver.com/tybnasgo/222557873607)
+
+___
+## BOJ 2141 우체국
+### 문제
+[전체 문제 보기](https://www.acmicpc.net/problem/2141)
+
+### 풀이
+- [Soyewon의 풀이](https://soyw96.tistory.com/27)
