@@ -27,3 +27,4 @@ ___
 ### 풀이
 - [dongsuu의 풀이](https://hyunn99.tistory.com/123)
 - [nmp9981의 풀이](https://blog.naver.com/tybnasgo/223035529369)
+- [Soyewon의 풀이](https://soyw96.tistory.com/28)
