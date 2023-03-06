@@ -2,7 +2,7 @@
 
 ![image](./Readme_Images/solveguys.png)
  
-> "대충 말따옴표에 아무말이나 쓰면 멋있어보인다" - John Naksaing
+> "여러분의 일주일에 추가하는 알고리즘 몇 문제"
 
 ### Links
 [Discord Link](https://discord.gg/TQGDWj7R)
