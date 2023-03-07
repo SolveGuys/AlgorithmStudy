@@ -37,5 +37,5 @@ ___
 [전체 문제 보기](https://www.acmicpc.net/problem/2573)
 
 ### 풀이
-- 
+- [nmp9981의 풀이](https://blog.naver.com/tybnasgo/222658053963)
 ___
