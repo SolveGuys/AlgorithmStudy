@@ -15,3 +15,27 @@ ___
 ### 풀이
 - [dongsuu의 풀이](https://hyunn99.tistory.com/124)
 ___
+
+## BOJ 1253 좋다
+### 문제
+[전체 문제 보기](https://www.acmicpc.net/problem/1253)
+
+### 풀이
+-
+___
+
+## BOJ 1937 욕심쟁이 판다
+### 문제
+[전체 문제 보기](https://www.acmicpc.net/problem/1937)
+
+### 풀이
+- 
+___
+
+## BOJ 2573 빙산
+### 문제
+[전체 문제 보기](https://www.acmicpc.net/problem/2573)
+
+### 풀이
+- 
+___
