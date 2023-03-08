@@ -6,6 +6,7 @@
 
 ### 풀이
 - [nmp9981의 풀이](https://blog.naver.com/tybnasgo/222645761834)
+- [dongsuu의 풀이](https://hyunn99.tistory.com/125)
 ___
 
 ## BOJ 13335 트럭
