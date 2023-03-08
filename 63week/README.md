@@ -14,6 +14,7 @@ ___
 
 ### 풀이
 - [dongsuu의 풀이](https://hyunn99.tistory.com/124)
+- [nmp9981의 풀이](https://blog.naver.com/tybnasgo/223038317468)
 ___
 
 ## BOJ 1253 좋다
@@ -21,7 +22,7 @@ ___
 [전체 문제 보기](https://www.acmicpc.net/problem/1253)
 
 ### 풀이
--
+- 
 ___
 
 ## BOJ 1937 욕심쟁이 판다
