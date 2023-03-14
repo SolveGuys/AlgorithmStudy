@@ -2,7 +2,7 @@
 
 ![image](./Readme_Images/solveguys.png)
  
-> "여러분의 일주일에 추가하는 알고리즘 몇 문제"
+> "매주 일요일 24시 스터디 발표"
 
 ### Links
 [Discord Link](https://discord.gg/TQGDWj7R)  
@@ -10,6 +10,6 @@
 ### Archives
 [문제 기록보관소로 가기](./Problems_Archives)
 
-## 이번 주 : 63주차
-[이번주 문제 모음](./63week)
+## 이번 주 : 64주차
+[이번주 문제 모음](./64week)
 
