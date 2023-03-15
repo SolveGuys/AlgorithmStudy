@@ -6,6 +6,7 @@
 
 ### 풀이
 - [nmp9981의 풀이](https://blog.naver.com/tybnasgo/223043046670)
+- [dongsuu의 풀이](https://hyunn99.tistory.com/129)
 ___
 
 ## LeetCode 815 Bus Routes
