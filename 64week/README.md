@@ -23,6 +23,7 @@ ___
 
 ### 풀이
 - [nmp9981의 풀이](https://blog.naver.com/tybnasgo/223044016565)
+- [dongsuu의 풀이](https://hyunn99.tistory.com/128)
 ___
 
 ## BOJ 11657 타임머신
