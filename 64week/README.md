@@ -40,6 +40,6 @@ ___
 [전체 문제 보기](https://www.acmicpc.net/problem/14002)
 
 ### 풀이
-- 
+- [nmp9981의 풀이](https://blog.naver.com/tybnasgo/223046134155)
 - 
 ___
