@@ -14,7 +14,7 @@ ___
 [전체 문제 보기](https://leetcode.com/problems/bus-routes/)
 
 ### 풀이
-- 
+- [dongsuu의 풀이](https://hyunn99.tistory.com/130)
 ___
 
 ## BOJ 14503 로봇 청소기
