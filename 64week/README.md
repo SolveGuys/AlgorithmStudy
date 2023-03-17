@@ -32,7 +32,7 @@ ___
 
 ### 풀이
 - [nmp9981의 풀이](https://blog.naver.com/tybnasgo/223045017180)
-- 
+- [dongsuu의 풀이](https://hyunn99.tistory.com/131)
 ___
 
 ## BOJ 14002 가장 긴 증가하는 부분 수열 4
