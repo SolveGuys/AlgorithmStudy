@@ -15,6 +15,7 @@ ___
 
 ### 풀이
 - [dongsuu의 풀이](https://hyunn99.tistory.com/130)
+- [dpjungmin의 풀이](dpjungmin/leetcode-815.cpp)
 ___
 
 ## BOJ 14503 로봇 청소기
