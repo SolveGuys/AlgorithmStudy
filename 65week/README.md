@@ -31,5 +31,6 @@ ___
 
 ### 풀이
 - [nmp9981의 풀이](https://blog.naver.com/tybnasgo/222626298228)
+- [dpjungmin의 풀이](dpjungmin/2580.cpp)
 ___
 
