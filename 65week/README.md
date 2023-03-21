@@ -22,7 +22,7 @@ ___
 [전체 문제 보기](https://www.acmicpc.net/problem/17831)
 
 ### 풀이
-- 
+- [dpjungmin의 풀이](dpjungmin/17831.cpp)
 ___
 
 ## 백준 2580 스도쿠    
