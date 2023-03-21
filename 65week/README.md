@@ -17,3 +17,19 @@ ___
 - 
 ___
 
+## 백준 17831 대기업 승범이네  
+### 문제
+[전체 문제 보기](https://www.acmicpc.net/problem/17831)
+
+### 풀이
+- 
+___
+
+## 백준 2580 스도쿠    
+### 문제
+[전체 문제 보기](https://www.acmicpc.net/problem/2580)
+
+### 풀이
+- [nmp9981의 풀이](https://blog.naver.com/tybnasgo/222626298228)
+___
+
