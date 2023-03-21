@@ -6,7 +6,7 @@
 
 ### 풀이
 - [nmp9981의 풀이](https://blog.naver.com/tybnasgo/222672190425)
-- 
+- [dpjungmin의 풀이](dpjungmin/14500.cpp)
 ___
 
 ## 백준 16985 Maaaaaaaaaze  
