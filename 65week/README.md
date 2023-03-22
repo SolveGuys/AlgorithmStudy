@@ -14,7 +14,7 @@ ___
 [전체 문제 보기](https://www.acmicpc.net/problem/16985)
 
 ### 풀이
-- 
+- [dongsuu의 풀이](https://hyunn99.tistory.com/132)
 ___
 
 ## 백준 17831 대기업 승범이네  
