@@ -40,5 +40,6 @@ ___
 
 ### 풀이
 - [dpjungmin의 풀이](dpjungmin/9205.cpp)
+- [nmp9981의 풀이](https://blog.naver.com/tybnasgo/223053242698)
 ___
 
