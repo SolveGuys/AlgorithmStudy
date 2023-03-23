@@ -39,6 +39,6 @@ ___
 [전체 문제 보기](https://www.acmicpc.net/problem/9205)
 
 ### 풀이
-- 
+- [dpjungmin의 풀이](dpjungmin/9205.cpp)
 ___
 
