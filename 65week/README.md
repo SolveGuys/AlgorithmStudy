@@ -23,6 +23,7 @@ ___
 
 ### 풀이
 - [dpjungmin의 풀이](dpjungmin/17831.cpp)
+- [nmp9981의 풀이](https://blog.naver.com/tybnasgo/223055529105)
 ___
 
 ## 백준 2580 스도쿠    
