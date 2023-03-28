@@ -16,6 +16,7 @@ ___
 ### 풀이
 - [nmp9981의 풀이](https://blog.naver.com/tybnasgo/222842847212)
 - [dpjungmin의 풀이](dpjungmin/보행자-천국.cpp)
+- [dongsuu의 풀이](https://hyunn99.tistory.com/134)
 ___
 
 ## 백준 2011 암호코드    
