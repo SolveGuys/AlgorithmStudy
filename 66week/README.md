@@ -6,6 +6,7 @@
 
 ### 풀이
 - [dpjungmin의 풀이](dpjungmin/7511.cpp)
+- [nmp9981의 풀이](https://blog.naver.com/tybnasgo/223057733560)
 ___
 
 ## 프로그래머스 1832 보행자 천국  
