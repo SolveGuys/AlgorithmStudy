@@ -5,7 +5,7 @@
 [전체 문제 보기](https://www.acmicpc.net/problem/7511)
 
 ### 풀이
-- 
+- [dpjungmin의 풀이](dpjungmin/7511.cpp)
 ___
 
 ## 프로그래머스 1832 보행자 천국  
