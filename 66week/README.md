@@ -23,7 +23,7 @@ ___
 [전체 문제 보기](https://www.acmicpc.net/problem/2011)
 
 ### 풀이
-- 
+- [dongsuu의 풀이](https://hyunn99.tistory.com/136)
 ___
 
 ## 백준 7576 토마토      
