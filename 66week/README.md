@@ -35,4 +35,5 @@ ___
 ### 풀이
 - [nmp9981의 풀이](https://blog.naver.com/tybnasgo/222652146569)
 - [dpjungmin의 풀이](dpjungmin/7576.cpp)
+- [Soyewon의 풀이](https://soyw96.tistory.com/33)
 ___
