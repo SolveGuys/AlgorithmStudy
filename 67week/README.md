@@ -6,6 +6,7 @@
 
 ### 풀이
 - [nmp9981의 풀이](https://blog.naver.com/tybnasgo/222914941181)
+- [dpjungmin의 풀이](dpjungmin/45163.cpp)
 ___
 
 ## 백준 1374 강의실   
@@ -13,7 +14,7 @@ ___
 [전체 문제 보기](https://www.acmicpc.net/problem/1374)
 
 ### 풀이
-- 
+- [dpjungmin의 풀이](dpjungmin/1374.cpp)
 ___
 
 ## 백준 9251 LCS   
@@ -22,6 +23,7 @@ ___
 
 ### 풀이
 - [nmp9981의 풀이](https://blog.naver.com/tybnasgo/223064297700)
+- [dpjungmin의 풀이](dpjungmin/9251.cpp)
 ___
 
 ## 백준 20164 홀수 홀릭 호석   
