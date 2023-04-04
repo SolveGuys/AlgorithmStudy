@@ -23,3 +23,11 @@ ___
 ### 풀이
 - [nmp9981의 풀이](https://blog.naver.com/tybnasgo/223064297700)
 ___
+
+## 백준 20164 홀수 홀릭 호석   
+### 문제
+[전체 문제 보기](https://www.acmicpc.net/problem/20164)
+
+### 풀이
+- 
+___
