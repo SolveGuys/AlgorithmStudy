@@ -15,6 +15,7 @@ ___
 
 ### 풀이
 - [dpjungmin의 풀이](dpjungmin/1374.cpp)
+- [nmp9981의 풀이](https://blog.naver.com/tybnasgo/223066161384)
 ___
 
 ## 백준 9251 LCS   
