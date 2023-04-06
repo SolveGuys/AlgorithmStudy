@@ -7,6 +7,7 @@
 ### 풀이
 - [nmp9981의 풀이](https://blog.naver.com/tybnasgo/222914941181)
 - [dpjungmin의 풀이](dpjungmin/43163.cpp)
+- [dongsuu의 풀이](https://hyunn99.tistory.com/140)
 ___
 
 ## 백준 1374 강의실   
