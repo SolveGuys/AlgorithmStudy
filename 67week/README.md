@@ -25,6 +25,7 @@ ___
 ### 풀이
 - [nmp9981의 풀이](https://blog.naver.com/tybnasgo/223064297700)
 - [dpjungmin의 풀이](dpjungmin/9251.cpp)
+- [dongsuu의 풀이](https://hyunn99.tistory.com/139)
 ___
 
 ## 백준 20164 홀수 홀릭 호석   
