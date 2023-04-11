@@ -11,9 +11,10 @@ ___
 
 ## 백준 1590 캠프가는 영식    
 ### 문제
-[전체 문제 보기](https://www.acmicpc.net/problem/1490)
+[전체 문제 보기](https://www.acmicpc.net/problem/1590)
 
 ### 풀이
+- [nmp9981의 풀이](https://blog.naver.com/tybnasgo/223071157938)
 - 
 ___
 
