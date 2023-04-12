@@ -18,3 +18,11 @@ ___
 - 
 ___
 
+## 백준 2170 선 긋기    
+### 문제
+[전체 문제 보기](https://www.acmicpc.net/problem/2170)
+
+### 풀이
+- [nmp9981의 풀이](https://blog.naver.com/tybnasgo/222938744280)
+- 
+___
