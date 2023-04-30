@@ -16,6 +16,7 @@ ___
 ### 풀이
 - [nmp9981의 풀이](https://blog.naver.com/tybnasgo/223071157938)
 - [dpjungmin의 풀이](dpjungmin/1590.cpp)
+- [dongsuu의 풀이](https://hyunn99.tistory.com/154)
 ___
 
 ## 백준 2170 선 긋기    
