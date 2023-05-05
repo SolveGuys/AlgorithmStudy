@@ -30,5 +30,5 @@ ___
 [전체 문제 보기](https://www.acmicpc.net/problem/1584)
 
 ### 풀이
-- 
+- [nmp9981의 풀이](https://blog.naver.com/tybnasgo/223094137606)
 ___
