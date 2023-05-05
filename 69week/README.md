@@ -5,13 +5,13 @@
 [전체 문제 보기](https://school.programmers.co.kr/learn/courses/30/lessons/87694)
 
 ### 풀이
-- [nmp9981의 풀이](https://blog.naver.com/tybnasgo/223094059951)
+- [nmp9981의 풀이] (https://blog.naver.com/tybnasgo/223094059951)
 - 
 ___
 
 ## 백준 11501 주식      
 ### 문제
-[전체 문제 보기](https://www.acmicpc.net/problem/11501)
+[전체 문제 보기] (https://www.acmicpc.net/problem/11501)
 
 ### 풀이
 - 
@@ -19,7 +19,7 @@ ___
 
 ## 리트 코드 lswrc  
 ### 문제
-[전체 문제 보기](https://leetcode.com/problems/longest-substring-without-repeating-characters/)
+[전체 문제 보기] (https://leetcode.com/problems/longest-substring-without-repeating-characters/)
 
 ### 풀이
 -
@@ -27,7 +27,7 @@ ___
 
 ## 백준 1584 게임      
 ### 문제
-[전체 문제 보기](https://www.acmicpc.net/problem/1584)
+[전체 문제 보기] (https://www.acmicpc.net/problem/1584)
 
 ### 풀이
 - 
