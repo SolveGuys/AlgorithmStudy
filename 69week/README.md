@@ -31,4 +31,5 @@ ___
 
 ### 풀이
 - [nmp9981의 풀이](https://blog.naver.com/tybnasgo/223094137606)
+- [Soyewon의 풀이](https://github.com/SolveGuys/AlgorithmStudy/blob/master/69week/Soyewon/BOJ1584.cpp)
 ___
