@@ -23,7 +23,7 @@ ___
 [전체 문제 보기](https://leetcode.com/problems/longest-substring-without-repeating-characters/)
 
 ### 풀이
--
+- [dpjungmin의 풀이](dpjungmin/lc_3.cpp)
 ___
 
 ## 백준 1584 게임      
