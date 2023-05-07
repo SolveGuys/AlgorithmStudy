@@ -15,6 +15,7 @@ ___
 
 ### 풀이
 - [nmp9981의 풀이](https://blog.naver.com/tybnasgo/223095400808)
+- [dongsuu의 풀이](https://hyunn99.tistory.com/155)
 
 ___
 
@@ -24,6 +25,7 @@ ___
 
 ### 풀이
 - [dpjungmin의 풀이](dpjungmin/lc_3.cpp)
+- [dongsuu의 풀이](https://hyunn99.tistory.com/156)
 ___
 
 ## 백준 1584 게임      
