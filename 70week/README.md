@@ -15,6 +15,7 @@ ___
 
 ### 풀이
 - [nmp9981의 풀이](https://blog.naver.com/tybnasgo/223097192653)
+- [dongsuu의 풀이](https://hyunn99.tistory.com/158)
 
 ___
 
@@ -24,6 +25,7 @@ ___
 
 ### 풀이
 - [nmp9981의 풀이](https://blog.naver.com/tybnasgo/222553582055)
+- [dongsuu의 풀이](https://hyunn99.tistory.com/157)
 -
 ___
 
@@ -33,5 +35,6 @@ ___
 
 ### 풀이
 - [nmp9981의 풀이](https://blog.naver.com/tybnasgo/223099177690)
+- [dongsuu의 풀이](https://hyunn99.tistory.com/159)
 -
 ___
