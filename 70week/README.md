@@ -36,5 +36,5 @@ ___
 ### 풀이
 - [nmp9981의 풀이](https://blog.naver.com/tybnasgo/223099177690)
 - [dongsuu의 풀이](https://hyunn99.tistory.com/159)
--
+- [dpjungmin의 풀이](dpjungmin/5549.cpp)
 ___
