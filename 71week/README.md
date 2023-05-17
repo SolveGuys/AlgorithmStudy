@@ -14,7 +14,7 @@ ___
 [전체 문제 보기](https://leetcode.com/problems/maximum-number-of-events-that-can-be-attended/)
 
 ### 풀이
-- 
+- [dpjungmin의 풀이](dpjungmin/lc_1353.cpp)
 
 ___
 
