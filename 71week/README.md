@@ -6,7 +6,7 @@
 
 ### 풀이
 - [nmp9981의 풀이](https://blog.naver.com/tybnasgo/222652726841)
-- 
+- [dpjungmin의 풀이](dpjungmin/1655.cpp)
 ___
 
 ## 리트 코드 1353 Maximum Number of Events That Can Be Attended  
