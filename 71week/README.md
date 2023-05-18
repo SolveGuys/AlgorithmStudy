@@ -25,3 +25,11 @@ ___
 ### 풀이
 - [nmp9981의 풀이](https://blog.naver.com/tybnasgo/223103562727)
 ___
+
+## 백준 14502 연구소    
+### 문제
+[전체 문제 보기](https://www.acmicpc.net/problem/14502)
+
+### 풀이
+- [nmp9981의 풀이](https://blog.naver.com/tybnasgo/222654984967)
+___
