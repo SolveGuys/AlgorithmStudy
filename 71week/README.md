@@ -16,6 +16,7 @@ ___
 
 ### 풀이
 - [dpjungmin의 풀이](dpjungmin/lc_1353.cpp)
+- [dongsuu의 풀이](https://hyunn99.tistory.com/162)
 
 ___
 
@@ -25,6 +26,7 @@ ___
 
 ### 풀이
 - [nmp9981의 풀이](https://blog.naver.com/tybnasgo/223103562727)
+- [dongsuu의 풀이](https://hyunn99.tistory.com/163)
 ___
 
 ## 백준 14502 연구소    
