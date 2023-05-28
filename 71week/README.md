@@ -27,6 +27,7 @@ ___
 ### 풀이
 - [nmp9981의 풀이](https://blog.naver.com/tybnasgo/223103562727)
 - [dongsuu의 풀이](https://hyunn99.tistory.com/163)
+- [Soyewon의 풀이](https://github.com/SolveGuys/AlgorithmStudy/blob/master/71week/Yewon/14653.cpp)
 ___
 
 ## 백준 14502 연구소    
