@@ -15,7 +15,7 @@ ___
 
 ### 풀이
 - [nmp9981의 풀이](https://blog.naver.com/tybnasgo/222516453691)
-
+- 
 ___
 
 ## 백준 2667 단지번호붙이기  
@@ -32,5 +32,6 @@ ___
 [전체 문제 보기](https://www.acmicpc.net/problem/1600)
 
 ### 풀이
+- [nmp9981의 풀이](https://blog.naver.com/tybnasgo/222745901663)
 - 
 ___
