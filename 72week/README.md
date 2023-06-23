@@ -6,7 +6,7 @@
 
 ### 풀이
 - [nmp9981의 풀이](https://blog.naver.com/tybnasgo/223125960350)
-- 
+- [dongsuu의 풀이](https://hyunn99.tistory.com/173)
 ___
 
 ## 백준 1644 소수의 연속합  
@@ -15,7 +15,7 @@ ___
 
 ### 풀이
 - [nmp9981의 풀이](https://blog.naver.com/tybnasgo/222516453691)
-- 
+- [dongsuu의 풀이](https://hyunn99.tistory.com/172)
 ___
 
 ## 백준 2667 단지번호붙이기  
