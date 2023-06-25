@@ -24,7 +24,7 @@ ___
 
 ### 풀이
 - [nmp9981의 풀이](https://blog.naver.com/tybnasgo/223133643375)
-- 
+- [Soyewon의 풀이](https://soyw96.tistory.com/35)
 ___
 
 ## 백준 1600 말이 되고픈 원숭이  
