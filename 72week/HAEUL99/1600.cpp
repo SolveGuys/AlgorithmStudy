@@ -69,7 +69,7 @@ int main(void)
         }
 
 
-        if(horse + 1 <= k)
+        if(horse + 1 <= k) // 말처럼 이동할 수 있는 기회가 남았다면
         {
             for(int dir = 0; dir < 8; dir++)
             {
