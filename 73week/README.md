@@ -33,5 +33,5 @@ ___
 
 ### 풀이
 - [nmp9981의 풀이](https://blog.naver.com/tybnasgo/223140086075)
-- 
+- [dongsuu의 풀이](https://hyunn99.tistory.com/174)
 ___
