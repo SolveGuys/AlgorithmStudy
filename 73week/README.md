@@ -7,7 +7,7 @@
 ### 풀이
 - [nmp9981의 풀이](https://blog.naver.com/tybnasgo/222518664033)
 - [dongsuu의 풀이](https://github.com/SolveGuys/AlgorithmStudy/blob/master/73week/dongsuu/2531.cpp)
-___
+- [haeul99의 풀이](https://todaywithhaeul.tistory.com/134)
 
 ## 백준 6198 옥상 정원 꾸미기  
 ### 문제
