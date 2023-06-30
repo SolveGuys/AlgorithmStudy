@@ -24,7 +24,7 @@ ___
 
 ### 풀이
 - [nmp9981의 풀이](https://blog.naver.com/tybnasgo/222672190425)
-- 
+- [haeul99의 풀이](https://todaywithhaeul.tistory.com/141)
 ___
 
 ## 백준 20166 문자열 지옥에 빠진 호석  
@@ -34,4 +34,4 @@ ___
 ### 풀이
 - [nmp9981의 풀이](https://blog.naver.com/tybnasgo/223140086075)
 - [dongsuu의 풀이](https://hyunn99.tistory.com/174)
-___
+- [haeul99의 풀이](https://todaywithhaeul.tistory.com/142)
