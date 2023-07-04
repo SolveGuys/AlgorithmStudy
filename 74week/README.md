@@ -5,6 +5,7 @@
 [전체 문제 보기](https://www.acmicpc.net/problem/18428)    
 
 ### 풀이
+- [nmp9981의 풀이](https://blog.naver.com/tybnasgo/223147104918)
 - 
 
 ## 프로그래머스 12904 가장 긴 팰린드롬   
