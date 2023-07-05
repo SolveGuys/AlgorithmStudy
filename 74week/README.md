@@ -13,8 +13,8 @@
 [전체 문제 보기](https://school.programmers.co.kr/learn/courses/30/lessons/12904)
 
 ### 풀이
+- [nmp9981의 풀이](https://blog.naver.com/tybnasgo/223147312692)
 - 
-
 ___
 
 ## 프로그래머스 77485 행렬 테두리 회전하기    
