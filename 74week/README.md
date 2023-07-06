@@ -22,6 +22,7 @@ ___
 [전체 문제 보기](https://school.programmers.co.kr/learn/courses/30/lessons/77485)
 
 ### 풀이
+- [nmp9981의 풀이](https://blog.naver.com/tybnasgo/223148309461)
 - 
 ___
 
