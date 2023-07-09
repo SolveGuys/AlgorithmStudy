@@ -17,6 +17,7 @@
 ### 풀이
 - [nmp9981의 풀이](https://blog.naver.com/tybnasgo/223147312692)
 - [haeul99의 풀이](https://todaywithhaeul.tistory.com/154)
+- [dongsuu의 풀이](https://github.com/SolveGuys/AlgorithmStudy/blob/master/74week/dongsuu/palindrome.cpp)
 ___
 
 ## 프로그래머스 77485 행렬 테두리 회전하기    
