@@ -24,6 +24,7 @@ ___
 ### 풀이
 - [nmp9981의 풀이](https://blog.naver.com/tybnasgo/223148309461)
 - [haeul99의 풀이](https://todaywithhaeul.tistory.com/153)
+- [dongsuu의 풀이](https://hyunn99.tistory.com/175)
 ___
 
 ## 백준 16987 계란으로 계란치기    
