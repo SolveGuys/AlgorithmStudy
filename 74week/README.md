@@ -7,6 +7,7 @@
 ### 풀이
 - [nmp9981의 풀이](https://blog.naver.com/tybnasgo/223147104918)
 - [haeul99의 풀이](https://todaywithhaeul.tistory.com/144)
+- [dongsuu의 풀이](https://hyunn99.tistory.com/176)
 
 ## 프로그래머스 12904 가장 긴 팰린드롬   
 ### 문제
