@@ -5,7 +5,7 @@
 [전체 문제 보기](https://www.acmicpc.net/problem/1106)    
 
 ### 풀이
-- 
+- [Soyewon의 풀이](https://github.com/SolveGuys/AlgorithmStudy/blob/master/75week/Soyewon/BOJ1106.cpp)
 
 ___
 
