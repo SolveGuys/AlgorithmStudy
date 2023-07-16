@@ -23,6 +23,6 @@ ___
 [전체 문제 보기](https://www.acmicpc.net/problem/13144)
 
 ### 풀이
-- 
+- [dongsuu의 풀이](https://hyunn99.tistory.com/177)
 
 ___
