@@ -14,6 +14,7 @@ ___
 
 ### 풀이
 - [JongWoo 풀이](https://www.notion.so/jinlaove17/22862-large-9ab5040f251443588541177dfe209403)
+- [dongsuu의 풀이](https://hyunn99.tistory.com/178)
 ___
 
 ## 백준 2240 자두나무
