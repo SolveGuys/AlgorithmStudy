@@ -6,6 +6,7 @@
 
 ### 풀이
 - [JongWoo 풀이](https://www.notion.so/jinlaove17/5427-8dd38adb030f4367af2f736d096f3132)
+- [HAEUL 풀이](https://todaywithhaeul.tistory.com/166)
 ___
 
 ## 백준 22862 가장 긴 짝수 연속한 부분 수열 (large)
@@ -24,6 +25,7 @@ ___
 ### 풀이
 - [JongWoo 풀이](https://www.notion.so/jinlaove17/2240-629acef6692c4ef7baf10f804ef853b6)
 - [dongsuu의 풀이](https://github.com/SolveGuys/AlgorithmStudy/blob/master/76week/dongsuu/2240.cpp)
+- [HAEUL의 풀이](https://todaywithhaeul.tistory.com/161)
 ___
 
 ## 백준 22869 징검다리 건너기 (small)
