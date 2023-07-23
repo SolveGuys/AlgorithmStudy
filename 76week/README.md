@@ -35,4 +35,5 @@ ___
 ### 풀이
 - [JongWoo 풀이](https://www.notion.so/jinlaove17/22869-small-43b74ec6f82a47a18920743c0cf2b0f5)
 - [dongsuu의 풀이](https://github.com/SolveGuys/AlgorithmStudy/blob/master/76week/dongsuu/22869.cpp)
+- [Soyewon의 풀이](https://github.com/SolveGuys/AlgorithmStudy/blob/master/76week/Soyewon/BOJ22869.cpp)
 ___
