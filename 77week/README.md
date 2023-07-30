@@ -23,6 +23,7 @@ ___
 
 ### 풀이
 - [JongWoo 풀이](https://www.notion.so/jinlaove17/1806-6e7d2eb3557f4019b50b3bd59c401040)
+- [Soyewon의 풀이](https://github.com/SolveGuys/AlgorithmStudy/blob/master/77week/Soyewon/BOJ1806.cpp)
 ___
 
 ## 백준 2617 구슬 찾기
