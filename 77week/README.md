@@ -30,4 +30,5 @@ ___
 
 ### 풀이
 - [JongWoo 풀이](https://www.notion.so/jinlaove17/2617-9ddf6f5743934d028f4a9c1d2bbc0f7d)
+- [dongsuu의 풀이](https://hyunn99.tistory.com/186)
 ___
