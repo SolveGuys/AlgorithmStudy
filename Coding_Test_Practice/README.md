@@ -8,6 +8,6 @@
 [문제 모음](./1st/)
 
 
-### Links
-[Discord Link](https://discord.gg/TQGDWj7R)  
+### Archives
+[1st](./1st/)
 

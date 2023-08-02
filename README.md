@@ -15,4 +15,5 @@
 
 ## :trophy: 코딩 테스트 연습
 [최근 연습 문제 모음](./Coding_Test_Practice/1st/)
+[전체 문제 모음](./Coding_Test_Practice/)
 
