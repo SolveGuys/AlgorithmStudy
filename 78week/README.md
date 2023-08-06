@@ -6,6 +6,7 @@
 
 ### 풀이
 - [JongWoo 풀이](https://www.notion.so/jinlaove17/1707-2c992fb7eaba4c34813a296976140c64)
+- [dongsuu의 풀이](https://hyunn99.tistory.com/190)
 ___
 
 ## 백준 1759 암호 만들기
@@ -30,4 +31,5 @@ ___
 
 ### 풀이
 - [JongWoo 풀이](https://www.notion.so/jinlaove17/1043-0b540e99a01848289ac3c5ba9c031a23)
+- [dongsuu의 풀이](https://hyunn99.tistory.com/189)
 ___
