@@ -25,6 +25,7 @@ ___
 ### 풀이
 - [JongWoo 풀이](https://www.notion.so/jinlaove17/1484-73ebf44218a1411c84ee0f1be4f6a070)
 - [dongsuu의 풀이](https://hyunn99.tistory.com/191)
+- [Soyewon의 풀이](https://github.com/SolveGuys/AlgorithmStudy/blob/master/78week/Soyewon/BOJ1484.cpp)
 ___
 
 ## 백준 1043 거짓말
