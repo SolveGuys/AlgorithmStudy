@@ -16,6 +16,7 @@ ___
 ### 풀이
 - [JongWoo의 풀이](https://www.notion.so/jinlaove17/3107-IPv6-9bd2726f9a1a46a0881796da248adff5)
 - [HAEUL의 풀이](https://todaywithhaeul.tistory.com/177)
+- [dongsuu의 풀이](./dongsuu/3107.java)
 ___
 
 ## 백준 20955 민서의 응급 수술
