@@ -29,5 +29,5 @@ ___
 [전체 문제 보기](https://www.acmicpc.net/problem/17779)
 
 ### 풀이
-- 
+- [Soyewon의 풀이](https://github.com/SolveGuys/AlgorithmStudy/blob/master/79week/Yewon/BOJ17779.cpp)
 ___
