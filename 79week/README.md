@@ -5,7 +5,7 @@
 [전체 문제 보기](https://www.acmicpc.net/problem/2302)    
 
 ### 풀이
-- 
+- [dongsuu의 풀이](./dongsuu/2302.cpp)
 ___
 
 ## 백준 3107번 IPv6
@@ -21,7 +21,7 @@ ___
 [전체 문제 보기](https://www.acmicpc.net/problem/20955)
 
 ### 풀이
-- 
+- [dongsuu의 풀이](https://hyunn99.tistory.com/192)
 ___
 
 ## 백준 17779 게리맨더링 2
