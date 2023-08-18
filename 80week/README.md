@@ -6,6 +6,7 @@
 
 ### 풀이
 - [JongWoo의 풀이](https://www.notion.so/jinlaove17/1916-184db510d85049d4bd79f0c164097a20)
+- [HAEUL의 풀이](https://todaywithhaeul.tistory.com/182)
 ___
 
 ## 백준 10026번 적록색약
