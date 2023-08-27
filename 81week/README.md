@@ -32,4 +32,5 @@ ___
 ### 풀이
 - [JongWoo의 풀이](https://www.notion.so/jinlaove17/2206-882e94dcb10c441bb7d42c81c1e4eede)
 - [Yewon의 풀이](https://github.com/SolveGuys/AlgorithmStudy/blob/master/81week/Yewon/BOJ2206.cpp)
+- [dongsuu의 풀이](./dongsuu/2206.cpp)
 ___
