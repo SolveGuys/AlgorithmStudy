@@ -6,6 +6,7 @@
 
 ### 풀이
 - [JongWoo의 풀이](https://www.notion.so/jinlaove17/16113-89e256dd2f5244628e808a0870d36a0f)
+- [dongsuu의 풀이](https://hyunn99.tistory.com/194)
 ___
 
 ## 프로그래머스 과제 진행하기
