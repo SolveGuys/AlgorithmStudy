@@ -6,6 +6,7 @@
 
 ### 풀이
 - [JongWoo의 풀이](https://www.notion.so/jinlaove17/2011-a38da94feffc424b8f1a3c19c250e93c)
+- [HAEUL의 풀이](https://todaywithhaeul.tistory.com/189)
 ___
 
 ## 프로그래머스 순위 검색
@@ -14,6 +15,7 @@ ___
 
 ### 풀이
 - [JongWoo의 풀이](https://www.notion.so/jinlaove17/2fb1d9dc4d2948868b29be201b0ef08b)
+- [HAEUL의 풀이](https://todaywithhaeul.tistory.com/187)
 ___
 
 ## 백준 무한 수열
