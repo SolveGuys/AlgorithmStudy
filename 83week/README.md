@@ -5,7 +5,7 @@
 [전체 문제 보기](https://school.programmers.co.kr/learn/courses/30/lessons/160585)    
 
 ### 풀이
-- 
+- [dongsuu의 풀이](https://hyunn99.tistory.com/195)
 ___
 
 ## 백준 1766 문제집
@@ -13,7 +13,7 @@ ___
 [전체 문제 보기](https://www.acmicpc.net/problem/1766)
 
 ### 풀이
-- 
+- [dongsuu의 풀이](https://hyunn99.tistory.com/196)
 ___
 
 ## 프로그래머스 입국심사
@@ -29,5 +29,5 @@ ___
 [전체 문제 보기](https://www.acmicpc.net/problem/12851)
 
 ### 풀이
-- 
+- [dongsuu의 풀이](https://hyunn99.tistory.com/197)
 ___
