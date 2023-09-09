@@ -16,6 +16,7 @@ ___
 ### 풀이
 - [dongsuu의 풀이](https://hyunn99.tistory.com/196)
 - [JongWoo의 풀이](https://www.notion.so/jinlaove17/1766-243d3517345f41b1b2c06f222d75dd1c)
+- [HAEUL읠 풀이](https://todaywithhaeul.tistory.com/196)
 ___
 
 ## 프로그래머스 입국심사
@@ -24,6 +25,7 @@ ___
 
 ### 풀이
 - [JongWoo의 풀이](https://www.notion.so/jinlaove17/0a68105dbb9841c68f05d65dd5649c04)
+- [HAEUL의 풀이](https://todaywithhaeul.tistory.com/193)
 ___
 
 ## 백준 12851 숨바꼭질 2
@@ -33,4 +35,5 @@ ___
 ### 풀이
 - [dongsuu의 풀이](https://hyunn99.tistory.com/197)
 - [JongWoo의 풀이](https://www.notion.so/jinlaove17/12851-2-8b59657be21d42a49b045e67be331834)
+- [HAEUL의 풀이](https://todaywithhaeul.tistory.com/195)
 ___
