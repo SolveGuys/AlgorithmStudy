@@ -36,4 +36,5 @@ ___
 - [dongsuu의 풀이](https://hyunn99.tistory.com/197)
 - [JongWoo의 풀이](https://www.notion.so/jinlaove17/12851-2-8b59657be21d42a49b045e67be331834)
 - [HAEUL의 풀이](https://todaywithhaeul.tistory.com/195)
+- [Yewon의 풀이](https://github.com/Soyewon/Coding_Test/blob/main/%EB%B0%B1%EC%A4%80/Gold/12851.%E2%80%85%EC%88%A8%EB%B0%94%EA%BC%AD%EC%A7%88%E2%80%852/%EC%88%A8%EB%B0%94%EA%BC%AD%EC%A7%88%E2%80%852.cc)
 ___
