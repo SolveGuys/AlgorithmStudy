@@ -6,6 +6,7 @@
 
 ### 풀이
 - [JongWoo의 풀이](https://www.notion.so/jinlaove17/1af47942ee214b6fb6bb0cb43b160df2)
+- [dongsuu의 풀이](https://hyunn99.tistory.com/198)
 ___
 
 ## 백준 11967 불켜기
@@ -14,6 +15,7 @@ ___
 
 ### 풀이
 - [JongWoo의 풀이](https://www.notion.so/jinlaove17/11967-91280855ad19461ba7d1f10341d5ba49)
+- [dongsuu의 풀이](https://hyunn99.tistory.com/200)
 ___
 
 ## 프로그래머스 등산코스 정하기
@@ -22,6 +24,7 @@ ___
 
 ### 풀이
 - [JongWoo의 풀이](https://www.notion.so/jinlaove17/800c314810e74a33a26be404fcfbd25c)
+- [dongsuu의 풀이](https://hyunn99.tistory.com/199)
 ___
 
 ## 백준 13594 숨바꼭질 3
