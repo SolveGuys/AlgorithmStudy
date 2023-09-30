@@ -10,8 +10,8 @@
 ### Archives
 [문제 기록보관소로 가기](./Problems_Archives)
 
-## 이번 주 : 84주차
-[이번주 문제 모음](./84week/)
+## 이번 주 : 85주차
+[이번주 문제 모음](./85week/)
 
 ## :trophy: 코딩 테스트 연습
 [최근 연습 문제 모음](./Coding_Test_Practice/1st/) <br>
