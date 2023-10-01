@@ -15,6 +15,7 @@ ___
 ### 풀이
 - [Yewon의 풀이](https://github.com/SolveGuys/AlgorithmStudy/blob/master/85week/Yewon/BOJ2583.cpp)
 - [JongWoo의 풀이](https://www.notion.so/jinlaove17/2583-adccee8acebf440f9e233926c08143fa)
+- [dongsuu의 풀이](https://hyunn99.tistory.com/201)
 ___
 
 ## 백준 13418 학교 탐방하기
@@ -23,6 +24,7 @@ ___
 
 ### 풀이
 - [JongWoo의 풀이](https://www.notion.so/jinlaove17/13418-613d4787ad584cf581c7d7f5cec91f84)
+- [dongsuu의 풀이](https://hyunn99.tistory.com/202)
 ___
 
 ## 프로그래머스 메뉴 리뉴얼
