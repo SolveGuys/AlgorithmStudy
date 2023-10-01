@@ -13,7 +13,7 @@ ___
 [전체 문제 보기](https://www.acmicpc.net/problem/2583)
 
 ### 풀이
-- 
+- [Yewon의 풀이](https://github.com/SolveGuys/AlgorithmStudy/blob/master/85week/Yewon/BOJ2583.cpp)
 ___
 
 ## 백준 13418 학교 탐방하기
