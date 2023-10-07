@@ -6,6 +6,7 @@
 
 ### 풀이
 - [JongWoo의 풀이](https://www.notion.so/jinlaove17/N-eeb2f4bcd1114092a3489e29abca6e0b)
+- [dongsuu의 풀이](https://hyunn99.tistory.com/203)
 ___
 
 ## 프로그래머스 숫자 게임
