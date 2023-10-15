@@ -26,6 +26,7 @@ ___
 ### 풀이
 - [HAEUL99 풀이](https://github.com/SolveGuys/AlgorithmStudy/blob/master/87week/HAEUL99/13460.cpp)
 - [JongWoo의 풀이](https://www.notion.so/jinlaove17/13460-2-439d935cd2d84021a7812d76f1a7b9e9)
+- [dongsuu의 풀이](https://hyunn99.tistory.com/204)
 ___
 
 ## 
