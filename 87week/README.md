@@ -14,7 +14,7 @@ ___
 [전체 문제 보기](https://school.programmers.co.kr/learn/courses/30/lessons/132266)
 
 ### 풀이
-- 
+- [HAEUL99 풀이](https://github.com/SolveGuys/AlgorithmStudy/blob/master/87week/HAEUL99/%EB%B6%80%EB%8C%80%EB%B3%B5%EA%B7%80.cpp)
 ___
 
 ## 백준 13460 구슬 탈출2
@@ -22,7 +22,7 @@ ___
 [전체 문제 보기](https://www.acmicpc.net/problem/13460)
 
 ### 풀이
-- 
+- [HAEUL99 풀이](https://github.com/SolveGuys/AlgorithmStudy/blob/master/87week/HAEUL99/13460.cpp)
 ___
 
 ## 
