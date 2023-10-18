@@ -5,7 +5,7 @@
 [전체 문제 보기](https://www.acmicpc.net/problem/21758)    
 
 ### 풀이
-- 
+- [dongsuu의 풀이](https://hyunn99.tistory.com/205)
 ___
 
 ## 백준 20056 마법사 상어와 파이어볼
@@ -13,7 +13,7 @@ ___
 [전체 문제 보기](https://www.acmicpc.net/problem/20056)
 
 ### 풀이
-- 
+- [dongsuu의 풀이](https://hyunn99.tistory.com/206)
 ___
 
 ## 프로그래머스 거스름돈
