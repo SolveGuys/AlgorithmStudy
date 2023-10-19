@@ -24,6 +24,7 @@ ___
 
 ### 풀이
 - [nmp9981의 풀이](https://blog.naver.com/tybnasgo/223011284565)
+- [dongsuu의 풀이](https://github.com/SolveGuys/AlgorithmStudy/blob/master/88week/dongsuu/%EA%B1%B0%EC%8A%A4%EB%A6%84%EB%8F%88.cpp)
 ___
 
 ## 백준 16234 인구 이동
