@@ -33,6 +33,7 @@ ___
 
 ### 풀이
 - [nmp9981의 풀이](https://blog.naver.com/tybnasgo/222550416085)
+- [dongsuu의 풀이](https://hyunn99.tistory.com/207)
 ___
 
 ## 프로그래머스 - 섬 연결하기
@@ -41,4 +42,5 @@ ___
 
 ### 풀이
 - [nmp9981의 풀이](https://blog.naver.com/tybnasgo/222763269643)
+- [dongsuu의 풀이](https://hyunn99.tistory.com/208)
 ___
