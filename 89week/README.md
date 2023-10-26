@@ -5,7 +5,7 @@
 [전체 문제 보기](https://www.acmicpc.net/problem/17472)    
 
 ### 풀이
-- 
+- [nmp9981의 풀이](https://blog.naver.com/tybnasgo/223245411806)
 ___
 
 ## 프로그래머스 표 편집
@@ -21,7 +21,7 @@ ___
 [전체 문제 보기](https://www.acmicpc.net/problem/17144)
 
 ### 풀이
-- 
+- [nmp9981의 풀이](https://blog.naver.com/tybnasgo/223232959921)
 ___
 
 ## 백준 2174 로봇 시뮬레이션
@@ -32,10 +32,10 @@ ___
 - 
 ___
 
-## 공통 부분 문자열
+## 백준 5582 공통 부분 문자열
 ### 문제
 [전체 문제 보기](https://www.acmicpc.net/problem/5582)
 
 ### 풀이
-- 
+- [nmp9981의 풀이](https://blog.naver.com/tybnasgo/223246769376)
 ___
