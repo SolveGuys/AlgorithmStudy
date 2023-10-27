@@ -29,7 +29,7 @@ ___
 [전체 문제 보기](https://www.acmicpc.net/problem/2174)
 
 ### 풀이
-- 
+- [nmp9981의 풀이](https://blog.naver.com/tybnasgo/223247755856)
 ___
 
 ## 백준 5582 공통 부분 문자열
