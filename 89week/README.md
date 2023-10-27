@@ -13,7 +13,7 @@ ___
 [전체 문제 보기](https://school.programmers.co.kr/learn/courses/30/lessons/81303)
 
 ### 풀이
-- 
+- [nmp9981의 풀이](https://blog.naver.com/tybnasgo/222613893687)
 ___
 
 ## 백준 17144 미세먼지 안녕!
