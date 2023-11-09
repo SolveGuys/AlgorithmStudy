@@ -21,7 +21,7 @@ ___
 [전체 문제 보기](https://www.acmicpc.net/problem/5972)
 
 ### 풀이
-- 
+- [nmp9981의 풀이](https://blog.naver.com/tybnasgo/223260623350)
 ___
 
 ## 프로그래머스 더 맴게
@@ -29,7 +29,7 @@ ___
 [전체 문제 보기](https://school.programmers.co.kr/learn/courses/30/lessons/42626)
 
 ### 풀이
-- 
+- [nmp9981의풀이]()
 ___
 
 ## 여행경로
