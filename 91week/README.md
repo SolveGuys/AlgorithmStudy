@@ -21,7 +21,7 @@ ___
 [전체 문제 보기](https://www.acmicpc.net/problem/5972)
 
 ### 풀이
-- [nmp9981의 풀이](https://blog.naver.com/tybnasgo/223260623350)
+- [nmp9981의 풀이](https://blog.naver.com/tybnasgo/223261605658)
 ___
 
 ## 프로그래머스 더 맴게
