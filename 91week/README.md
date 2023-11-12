@@ -40,4 +40,5 @@ ___
 
 ### 풀이
 - [JongWoo의 풀이](https://www.notion.so/jinlaove17/13ddb342d56b4db7993adcfb5e864c77)
+- [HAEUL99 풀이](https://todaywithhaeul.tistory.com/208)
 ___
