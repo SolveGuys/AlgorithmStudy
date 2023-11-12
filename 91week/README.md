@@ -35,6 +35,7 @@ ___
 - [nmp9981의 풀이](https://blog.naver.com/tybnasgo/223260623350)
 - [JongWoo의 풀이](https://www.notion.so/jinlaove17/67d933d7e053454e9a8934028a527e72)
 - [HAEUL의 풀이](https://github.com/SolveGuys/AlgorithmStudy/blob/master/91week/%20HAEUL99/%EB%8D%94%EB%A7%B5%EA%B2%8C.cpp)
+- [dongsuu의 풀이](https://hyunn99.tistory.com/213)
 ___
 
 ## 프로그래머스 여행경로
