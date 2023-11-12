@@ -45,4 +45,5 @@ ___
 ### 풀이
 - [JongWoo의 풀이](https://www.notion.so/jinlaove17/13ddb342d56b4db7993adcfb5e864c77)
 - [HAEUL의 풀이](https://todaywithhaeul.tistory.com/208)
+- [nmp9981의 풀이](https://blog.naver.com/tybnasgo/223262940813)
 ___
