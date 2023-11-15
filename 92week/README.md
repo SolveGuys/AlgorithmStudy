@@ -6,6 +6,7 @@
 
 ### 풀이
 - [dongsuu의 풀이](https://hyunn99.tistory.com/214)
+- [nmp9981의 풀이](https://blog.naver.com/tybnasgo/222922471871)
 ___
 
 ## 백준 14891 톱니바퀴
@@ -29,7 +30,7 @@ ___
 [전체 문제 보기](https://www.acmicpc.net/problem/2229)
 
 ### 풀이
-- 
+- [nmp9981의 풀이](https://blog.naver.com/tybnasgo/222549242531)
 ___
 
 ## 백준 17070 파이프 옮기기 1
