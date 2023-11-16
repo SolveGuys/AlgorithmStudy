@@ -14,7 +14,7 @@ ___
 [전체 문제 보기](https://www.acmicpc.net/problem/14891)
 
 ### 풀이
-- 
+- [dongsuu의 풀이](https://hyunn99.tistory.com/216)
 ___
 
 ## 백준 9082 지뢰찾기
