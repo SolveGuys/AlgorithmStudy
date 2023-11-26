@@ -10,6 +10,7 @@
 
 - [JongWoo의 풀이](https://www.notion.so/jinlaove17/27172-aaed9c0775d24e5ab4c8479ada499bc3)
 - [dongsuu의 풀이](https://hyunn99.tistory.com/219)
+- [nmp9981의 풀이](https://blog.naver.com/tybnasgo/223271233924)
 
 ___
 
@@ -23,8 +24,7 @@ ___
 
 - [JongWoo의 풀이](https://www.notion.so/jinlaove17/14719-3921fe35ddc0413da3e66e9f85f4c85d)
 - [dongsuu의 풀이](https://hyunn99.tistory.com/218)
-
-___
+- [nmp9981의 풀이](https://blog.naver.com/tybnasgo/222555603512)
 
 ## 백준 14226 이모티콘
 
@@ -35,7 +35,7 @@ ___
 ### 풀이
 
 - [JongWoo의 풀이](https://www.notion.so/jinlaove17/14226-164f637d02134557920ee5495939f266)
-
+- [nmp9981의 풀이](https://blog.naver.com/tybnasgo/222711034394)
 ___
 
 ## 프로그래머스 가장 먼 노드
