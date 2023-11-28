@@ -42,5 +42,5 @@ ___
 ### 풀이
 
 - [dongsuu의 풀이](https://hyunn99.tistory.com/222)
-
+- [nmp9981의 풀이](https://blog.naver.com/tybnasgo/223276544230)
 ___
