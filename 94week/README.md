@@ -41,6 +41,6 @@ ___
 
 ### 풀이
 
-- 
+- [dongsuu의 풀이](https://hyunn99.tistory.com/222)
 
 ___
