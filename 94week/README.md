@@ -32,6 +32,7 @@ ___
 ### 풀이
 
 - [nmp9981의 풀이](https://blog.naver.com/tybnasgo/222532110367)
+- [dongsuu의 풀이](https://hyunn99.tistory.com/224)
 ___
 
 ## 프로그래머스 석유 시추
