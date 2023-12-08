@@ -34,6 +34,7 @@ ___
 ### 풀이
 
 - [nmp9981의 풀이](https://blog.naver.com/tybnasgo/222623232538)
+- [dongsuu의 풀이](https://github.com/SolveGuys/AlgorithmStudy/blob/master/95week/dongsuu/3687.cpp)
 
 ___
 
