@@ -9,6 +9,7 @@
 ### 풀이
 
 - [dongsuu의 풀이](https://hyunn99.tistory.com/225)
+- [mina3215의 풀이](https://mina3215.tistory.com/33)
 
 ___
 
