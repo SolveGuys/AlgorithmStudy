@@ -46,4 +46,5 @@ ___
 
 - [dongsuu의 풀이](https://hyunn99.tistory.com/229)
 - [JongWoo의 풀이](https://www.notion.so/jinlaove17/2623-3d47892208654bcc810a7aaa06be2d37)
+- [nmp9981의 풀이](https://blog.naver.com/tybnasgo/222531246274)
 ___
