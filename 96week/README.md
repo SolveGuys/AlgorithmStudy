@@ -20,6 +20,7 @@ ___
 ### 풀이
 
 - [nmp9981의 풀이](https://blog.naver.com/tybnasgo/222650596031)
+- [dongsuu의 풀이](https://hyunn99.tistory.com/228)
 ___
 
 ## 백준 3649 로봇 프로젝트
@@ -41,5 +42,5 @@ ___
 
 ### 풀이
 
-- 
+- [dongsuu의 풀이](https://hyunn99.tistory.com/229)
 ___
