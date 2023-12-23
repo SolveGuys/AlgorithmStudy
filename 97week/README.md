@@ -9,6 +9,7 @@
 ### 풀이
 
 - [dongsuu의 풀이](https://hyunn99.tistory.com/230)
+- [JongWoo의 풀이](https://www.notion.so/jinlaove17/20437-2-d28a39fe0b994a21955d9d2f83b09be9)
 ___
 
 ## 백준 22251 빌런 호석
@@ -19,7 +20,7 @@ ___
 
 ### 풀이
 
-- 
+- [JongWoo의 풀이](https://www.notion.so/jinlaove17/22251-8de6971b66ed48c2abac3039da996e74)
 ___
 
 ## 백준 1202 보석 도둑
@@ -30,7 +31,7 @@ ___
 
 ### 풀이
 
-- 
+- [JongWoo의 풀이](https://www.notion.so/jinlaove17/1202-69ca81371527472181afa843adb25813) 
 ___
 
 ## 프로그래머스 다리를 지나는 트럭
@@ -42,4 +43,5 @@ ___
 ### 풀이
 
 - [nmp9981의 풀이](https://blog.naver.com/tybnasgo/223299899905)
+- [JongWoo의 풀이](https://www.notion.so/jinlaove17/0d91997e20414d7293314d570c1a432b)
 ___
