@@ -10,6 +10,7 @@
 
 - [dongsuu의 풀이](https://hyunn99.tistory.com/230)
 - [JongWoo의 풀이](https://www.notion.so/jinlaove17/20437-2-d28a39fe0b994a21955d9d2f83b09be9)
+- [nmp9981의 풀이](https://blog.naver.com/tybnasgo/223302155849)
 ___
 
 ## 백준 22251 빌런 호석
