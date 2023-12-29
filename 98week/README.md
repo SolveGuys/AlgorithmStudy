@@ -18,8 +18,7 @@ ___
 [전체 문제 보기](https://school.programmers.co.kr/learn/courses/30/lessons/138476)
 
 ### 풀이
-
-- 
+- [nmp9981의 풀이](https://blog.naver.com/tybnasgo/223306234292)
 ___
 
 ## 백준 2143 두 배열의 합
