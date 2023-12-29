@@ -8,7 +8,7 @@
 
 ### 풀이
 
-- 
+- [dongsuu의 풀이](https://hyunn99.tistory.com/233)
 ___
 
 ## 프로그래머스 귤 고르기
@@ -40,5 +40,5 @@ ___
 
 ### 풀이
 
-- 
+- [dongsuu의 풀이](https://hyunn99.tistory.com/232)
 ___
