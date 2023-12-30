@@ -19,6 +19,7 @@ ___
 
 ### 풀이
 - [nmp9981의 풀이](https://blog.naver.com/tybnasgo/223306234292)
+- [dongsuu의 풀이](https://hyunn99.tistory.com/234)
 ___
 
 ## 백준 2143 두 배열의 합
