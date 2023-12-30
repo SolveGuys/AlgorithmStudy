@@ -9,7 +9,7 @@
 ### 풀이
 
 - [dongsuu의 풀이](https://hyunn99.tistory.com/233)
-
+-[nmp9981의 풀이](https://blog.naver.com/tybnasgo/223307937336)
 ___
 
 ## 프로그래머스 귤 고르기
