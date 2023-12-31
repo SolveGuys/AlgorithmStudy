@@ -36,6 +36,7 @@ ___
 
 - [mina3215의 풀이](https://mina3215.tistory.com/36)
 - [JongWoo의 풀이](https://www.notion.so/jinlaove17/2141-5bc73b17d6b543fbb6cbd3bdc824ed81)
+- [dongsuu의 풀이](https://hyunn99.tistory.com/235)
 
 ## 백준 2468 안전 영역
 
