@@ -8,7 +8,6 @@ const int maxi = 101;
 int A[maxi];//두번째 수열
 bool visit[maxi];//방문 여부
 vector<int> answer;//정답
-
 //입력
 void Input() {
     cin >>n;
