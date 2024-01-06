@@ -9,7 +9,7 @@
 ### 풀이
 
 - [dongsuu의 풀이](https://hyunn99.tistory.com/236)
--[nmp9981의 풀이](https://blog.naver.com/tybnasgo/223314630759)
+- [nmp9981의 풀이](https://blog.naver.com/tybnasgo/223314630759)
 ___
 
 ## 백준 1956 운동
