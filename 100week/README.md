@@ -22,6 +22,7 @@ ___
 ### 풀이
 
 - [dongsuu의 풀이](https://hyunn99.tistory.com/241)
+- [nmp9981의 풀이](https://blog.naver.com/tybnasgo/222726801147)
 
 ___
 
