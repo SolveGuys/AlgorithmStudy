@@ -10,6 +10,7 @@
 
 - [dongsuu의 풀이](https://hyunn99.tistory.com/240)
 - [nmp9981의 풀이](https://blog.naver.com/tybnasgo/223318705329)
+- [JongWoo의 풀이](https://www.notion.so/jinlaove17/6c6c8f05c43b4c63b0299240ea5cb46d)
 
 ___
 
@@ -23,6 +24,7 @@ ___
 
 - [dongsuu의 풀이](https://hyunn99.tistory.com/241)
 - [nmp9981의 풀이](https://blog.naver.com/tybnasgo/222726801147)
+- [JongWoo의 풀이](https://www.notion.so/jinlaove17/1027-ea77705978dc4383a14675c273e862fc)
 
 ___
 
@@ -34,17 +36,19 @@ ___
 
 ### 풀이
 
-- 
+- [JongWoo의 풀이](https://www.notion.so/jinlaove17/1563-a27e7dd0eaec42769376a9ecc133c272)
 
 ___
 
-## 사이클 게임
+## 백준 20040 사이클 게임
 
 ### 문제
 
 [전체 문제 보기](https://www.acmicpc.net/problem/20040)
 
 ### 풀이
+
 - [nmp9981의 풀이](https://blog.naver.com/tybnasgo/222525368861)
+- [JongWoo의 풀이](https://www.notion.so/jinlaove17/20040-2d0f1552d90849f69e87696a5f375b23)
 
 ___
