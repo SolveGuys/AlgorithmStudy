@@ -8,7 +8,7 @@
 
 ### 풀이
 
-- 
+- [mina3215의 풀이](https://mina3215.tistory.com/42)
 
 ___
 
