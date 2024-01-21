@@ -22,6 +22,7 @@ ___
 ### 풀이
 
 - [JongWoo의 풀이](https://www.notion.so/jinlaove17/15661-9def524bc696482e9ba4bf524176b3b9)
+- [nmp9981의 풀이](https://blog.naver.com/tybnasgo/223328879246)
 
 ___
 
@@ -45,6 +46,6 @@ ___
 
 ### 풀이
 
-- 
+- [nmp9981의 풀이](https://blog.naver.com/tybnasgo/222578739532)
 
 ___
