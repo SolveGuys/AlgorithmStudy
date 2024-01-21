@@ -9,6 +9,7 @@
 ### 풀이
 
 - [mina3215의 풀이](https://mina3215.tistory.com/42)
+- [JongWoo의 풀이](https://www.notion.so/jinlaove17/3130126ab7a6487ab4aba207c522d111)
 
 ___
 
@@ -20,7 +21,7 @@ ___
 
 ### 풀이
 
-- 
+- [JongWoo의 풀이](https://www.notion.so/jinlaove17/15661-9def524bc696482e9ba4bf524176b3b9)
 
 ___
 
@@ -32,7 +33,7 @@ ___
 
 ### 풀이
 
-- 
+- [JongWoo의 풀이](https://www.notion.so/jinlaove17/1863-59841f0c41f44291ac60cb507420cce0)
 
 ___
 
