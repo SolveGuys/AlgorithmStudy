@@ -10,6 +10,7 @@
 
 - [dongsuu의 풀이](https://hyunn99.tistory.com/242)
 - [nmp9981의 풀이](https://blog.naver.com/tybnasgo/222955835283)
+- [JongWoo의 풀이](https://www.notion.so/jinlaove17/1890-17329b51f2014264867c321c3c85cb7a)
 
 ___
 
@@ -21,7 +22,7 @@ ___
 
 ### 풀이
 
-- 
+- [JongWoo의 풀이](https://www.notion.so/jinlaove17/16724-9406975b8b6a4fe8bf660863cffa1480)
 
 ___
 
@@ -33,7 +34,7 @@ ___
 
 ### 풀이
 
-- 
+- [JongWoo의 풀이](https://www.notion.so/jinlaove17/1796-7a62e3b15c2b4f67b07b57a64f96285e)
 
 ___
 
@@ -46,5 +47,6 @@ ___
 ### 풀이
 
 - [nmp9981의 풀이](https://blog.naver.com/tybnasgo/223335874311)
+- [JongWoo의 풀이](https://www.notion.so/jinlaove17/18ef42595e5441419d33cef5d5c5d632)
 
 ___
