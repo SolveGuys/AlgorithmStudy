@@ -36,6 +36,7 @@ ___
 ### 풀이
 
 - [JongWoo의 풀이](https://www.notion.so/jinlaove17/1796-7a62e3b15c2b4f67b07b57a64f96285e)
+- [mina3215의 풀이](https://mina3215.tistory.com/46)
 
 ___
 
