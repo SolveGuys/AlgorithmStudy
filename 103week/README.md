@@ -32,7 +32,7 @@ ___
 
 ### 풀이
 
-- 
+- [keastmin의 풀이](https://github.com/keastmin/AlgorithmStudy/blob/master/103week/keastmin/11054.cpp)
 
 ___
 
