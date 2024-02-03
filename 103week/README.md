@@ -36,14 +36,14 @@ ___
 
 ___
 
-## 
+## 백준 16938 캠프 준비
 
 ### 문제
 
-[전체 문제 보기]()
+[전체 문제 보기](https://www.acmicpc.net/problem/16938)
 
 ### 풀이
 
-- 
+- [nmp9981의 풀이](https://blog.naver.com/tybnasgo/223009058916)
 
 ___
