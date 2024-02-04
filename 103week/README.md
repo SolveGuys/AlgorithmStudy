@@ -8,7 +8,7 @@
 
 ### 풀이
 
-- [choiwongang의 풀이] (https://github.com/SolveGuys/AlgorithmStudy/blob/master/103week/choiwongang/robotcleaner.cpp)
+- [choiwongang의 풀이](https://github.com/SolveGuys/AlgorithmStudy/blob/master/103week/choiwongang/robotcleaner.cpp)
 
 ___
 
