@@ -47,3 +47,14 @@ ___
 - [nmp9981의 풀이](https://blog.naver.com/tybnasgo/223009058916)
 
 ___
+## 백준 2002 추월
+
+### 문제
+
+[전체 문제 보기](https://www.acmicpc.net/problem/2002)
+
+### 풀이
+
+- 
+
+___
