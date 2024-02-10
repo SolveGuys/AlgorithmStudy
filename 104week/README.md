@@ -18,6 +18,8 @@ ___
 
 ### 풀이
 
+[keastmin`s 풀이](https://github.com/keastmin/AlgorithmStudy/blob/master/104week/keastmin/2357.cpp)
+
 ___
 
 ## 백준 14889 스타트와 링크
