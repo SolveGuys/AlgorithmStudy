@@ -1,0 +1,51 @@
+#include <stdio.h>
+#include <algorithm>
+using namespace std;
+int n, ret;
+int table[20][20];
+int team1[10], team2[10];
+int pick[20];
+void update() {
+int team1_size = 0, team2_size = 0;
+for (int i = 0; i < n; ++i) {
+if (pick[i] == 0) {
+  team1[team1_size++] = i;
+  }
+else {
+  team2[team2_size++] = i;
+}
+}
+  int sum_1 = 0, sum_2 = 0;
+  for (int i = 0; i < n / 2; ++i) {
+    for (int j = i + 1; j < n / 2; ++j) {
+      sum_1 += (table[team1[i]][team1[j]] + table[team1[j]][team1[i]]);
+      sum_2 += (table[team2[i]][team2[j]] + table[team2[j]][team2[i]]);
+    }
+    }
+  if (ret > abs(sum_1 - sum_2)) {
+    ret = abs(sum_1 - sum_2);
+  }
+}
+void dfs(int cur, int pick_count) {
+  if (pick_count == (n / 2)) {
+    update();
+    return;
+  }
+  for (int i = cur; i < n; ++i) {
+    pick[i] = 1;
+    dfs(i + 1, pick_count + 1);
+    pick[i] = 0;
+  }
+}
+int main(){
+  scanf("%d", &n);
+  for (int y = 0; y < n; ++y) {
+    for (int x = 0; x < n; ++x) {
+      scanf("%d", &table[y][x]);
+    }
+  }
+  ret = 9999999;
+  dfs(0, 0);
+  printf("%d\n", ret);
+  return 0;
+}
