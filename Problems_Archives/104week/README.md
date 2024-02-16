@@ -39,5 +39,7 @@ ___
 [전체 문제 보기](https://www.acmicpc.net/problem/7576)
 
 ### 풀이
+
 [kang9366 풀이](https://github.com/SolveGuys/AlgorithmStudy/blob/master/104week/kang9366/7576.cpp)
+
 ___
