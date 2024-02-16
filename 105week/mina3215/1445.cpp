@@ -81,12 +81,6 @@ int main() {
 
 		}
 	}
-	for (int i = 0; i < N; i++) {
-		for (int j = 0; j < M; j++) {
-			cout << check[i][j]<<' ';
-		}
-		cout << '\n';
-	}
 	BFS();
 	cout << ans0<<' '<< ans1;
 }
