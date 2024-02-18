@@ -8,6 +8,8 @@
 
 ### 풀이
 
+[keastmin`s 풀이](https://github.com/keastmin/AlgorithmStudy/blob/master/105week/keastmin/14502)
+
 ___
 
 ## 백준 1445 일요일 아침의 데이트
