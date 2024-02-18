@@ -1,0 +1,63 @@
+#include<iostream>
+#include<vector>
+#include <string>
+#include <queue>
+
+using namespace std;
+
+int nx[4] = { -1, 0, 1, 0 };
+int ny[4] = { 0, -1, 0, 1 };
+
+bool check(int x, int y, int n, int m, vector<vector<bool>>& v) {
+	if (x < 0 || x >= m || y < 0 || y >= n) {
+		return false;
+	}
+	else if (v[y][x]) {
+		return false;
+	}
+	return true;
+}
+
+int bfs(vector<string>& map, int n, int m) {
+	vector<vector<bool>> visited(n, vector<bool>(m, false));
+	vector<vector<int>> dist(n, vector<int>(m));
+	queue<pair<int, int>> q;
+	q.push({ 0, 0 });
+	dist[0][0] = 1;
+	visited[0][0] = true;
+
+	while (!q.empty()) {
+		int x = q.front().second;
+		int y = q.front().first;
+		q.pop();
+
+		for (int i = 0; i < 4; i++) {
+			int dx = x + nx[i];
+			int dy = y + ny[i];
+
+			if (check(dx, dy, n, m, visited)) {
+				if (map[dy][dx] == '1') {
+					q.push({ dy, dx });
+					dist[dy][dx] = dist[y][x] + 1;
+					//cout << dy << ' ' << dx << ' ' << dist[dy][dx] << '\n';
+					visited[dy][dx] = true;
+				}
+			}
+		}
+	}
+
+	return dist[n - 1][m - 1];
+}
+
+int main() {
+	int N, M;
+	cin >> N >> M;
+	vector<string> map(N);
+	for (int i = 0; i < N; i++) {
+		cin >> map[i];
+	}
+
+	cout << bfs(map, N, M) << '\n';
+
+	return 0;
+}
