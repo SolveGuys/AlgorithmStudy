@@ -30,6 +30,8 @@ ___
 
 ### 풀이
 
+[choiwongang's 풀이](https://github.com/choiwongang/AlgorithmStudy/blob/master/105week/choiwongang/14890)
+
 ___
 
 ## 백준 2178 미로 탐색
