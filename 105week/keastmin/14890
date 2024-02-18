@@ -1,0 +1,97 @@
+#include <iostream>
+#include <vector>
+using namespace std;
+
+vector<vector<int>> map;
+
+bool check(int N, int L, int s, int t) {
+	int upL = L;
+	bool downB = false;
+	vector<bool> state(N, false);
+
+	if (t == 0) {
+		for (int i = 0; i < N - 1; i++) {
+			int h = map[s][i] - map[s][i + 1];
+			if (h < -1 || h > 1) return false;
+			if (upL > 0) upL--;
+			if (upL > 0 && h == -1) return false;
+			if (upL == 0 && h == -1) {
+				upL = L;
+				for (int j = 0; j < L; j++) {
+					state[i - j] = true;
+				}
+			}
+		}
+
+		upL = L;
+		for (int i = N - 1; i > 0; i--) {
+			int h = map[s][i] - map[s][i - 1];
+			if (upL > 0) upL--;
+			if (upL > 0 && h == -1) return false;
+			if (upL == 0 && h == -1) {
+				upL = L;
+				for (int j = 0; j < L; j++) {
+					if (state[i + j]) {
+						return false;
+					}
+				}
+			}
+		}
+	}
+	else if (t == 1) {
+		for (int i = 0; i < N - 1; i++) {
+			int h = map[i][s] - map[i + 1][s];
+			if (h < -1 || h > 1) return false;
+			if (upL > 0) upL--;
+			if (upL > 0 && h == -1) return false;
+			if (upL == 0 && h == -1) {
+				upL = L;
+				for (int j = 0; j < L; j++) {
+					state[i - j] = true;
+				}
+			}
+		}
+
+		upL = L;
+		for (int i = N - 1; i > 0; i--) {
+			int h = map[i][s] - map[i - 1][s];
+			if (upL > 0) upL--;
+			if (upL > 0 && h == -1) return false;
+			if (upL == 0 && h == -1) {
+				upL = L;
+				for (int j = 0; j < L; j++) {
+					if (state[i + j]) {
+						return false;
+					}
+				}
+			}
+		}
+	}
+
+	return true;
+}
+
+int main() {
+	cin.tie(nullptr);
+	ios::sync_with_stdio(false);
+
+	int N, L;
+	cin >> N >> L;
+	map.resize(N, vector<int>(N));
+	for (int i = 0; i < N; i++) {
+		for (int j = 0; j < N; j++) {
+			cin >> map[i][j];
+		}
+	}
+
+	int c = 0;
+	for (int i = 0; i < N * 2; i++) {
+		int t = (i < N) ? 0 : 1;
+		if (check(N, L, i % N, t))
+			c++;
+	}
+
+	cout << c << '\n';
+
+	return 0;
+}

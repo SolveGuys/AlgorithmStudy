@@ -1,4 +1,4 @@
-# 104주차 문제 목록 📝
+# 105주차 문제 목록 📝
 
 ## 백준 14502 연구소
 
@@ -7,6 +7,8 @@
 [전체 문제 보기](https://www.acmicpc.net/problem/14502)    
 
 ### 풀이
+
+[keastmin`s 풀이](https://github.com/keastmin/AlgorithmStudy/blob/master/105week/keastmin/14502)
 
 ___
 
