@@ -30,7 +30,7 @@ ___
 
 ### 풀이
 
-[choiwongang's 풀이](https://github.com/choiwongang/AlgorithmStudy/blob/master/105week/choiwongang/14890)
+[choiwongang's 풀이](https://github.com/choiwongang/AlgorithmStudy/blob/master/105week/winterobust/runaway)
 
 ___
 
