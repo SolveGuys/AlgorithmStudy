@@ -8,6 +8,8 @@
 
 ### 풀이
 
+[keastmin`s 풀이](https://github.com/keastmin/AlgorithmStudy/blob/master/106week/keastmin/1167)
+
 ___
 
 ## 백준 14891 톱니바퀴
