@@ -1,0 +1,28 @@
+#include <iostream>
+#include <vector>
+#include <queue>
+using namespace std;
+
+int main() {
+	cin.tie(nullptr);
+	ios::sync_with_stdio(false);
+
+	int N;
+	cin >> N;
+
+	vector<vector<int>> stt(N + 1, vector<int>(3, 0));
+	for (int i = 1; i <= N; i++) {
+		for (int j = 0; j < 3; j++) {
+			cin >> stt[i][j];
+		}
+
+		stt[i][0] = min(stt[i - 1][1], stt[i - 1][2]) + stt[i][0];
+		stt[i][1] = min(stt[i - 1][0], stt[i - 1][2]) + stt[i][1];
+		stt[i][2] = min(stt[i - 1][0], stt[i - 1][1]) + stt[i][2];
+	}
+
+	int res = min(min(stt[N][0], stt[N][1]), stt[N][2]);
+	cout << res << '\n';
+
+	return 0;
+}
