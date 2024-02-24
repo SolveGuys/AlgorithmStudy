@@ -1,0 +1,71 @@
+/**********************************************************
+2024-02-23
+https://github.com/keastmin
+백준/1167/트리의 지름
+난이도: 골드2
+유형: 트리, 그래프
+**********************************************************/
+
+#include <iostream>
+#include <vector>
+using namespace std;
+
+typedef long long ll;
+
+vector<pair<int, ll>> graph[100001];	// 트리를 구성할 벡터
+vector<bool> visited(100001, false);	// 방문 여부 확인
+int farth;		// 트리의 지름을 이루는 가장 긴 노드 중 하나 저장
+ll maxDist;		// 트리의 지름 = 가장 길이가 긴 두 노드 사이의 거리
+
+// DFS로 가장 먼 노드 찾기
+void dfs(int s, ll dist) {
+	visited[s] = true;
+	if (dist > maxDist) {
+		maxDist = dist;
+		farth = s;
+	}
+
+	for (const auto g : graph[s]) {
+		if (!visited[g.first]) {
+			dfs(g.first, dist + g.second);
+		}
+	}
+}
+
+int main() {
+	cin.tie(nullptr);
+	ios::sync_with_stdio(false);
+
+	int V;
+	cin >> V;
+
+	// 트리 구조 입력 받기
+	for (int i = 0; i < V; i++) {
+		int curr;
+		cin >> curr;
+
+		while (true) {
+			int n, d;
+			cin >> n;
+			if (n == -1) break;
+			cin >> d;
+
+			graph[curr].push_back({ n, d });
+		}
+	}
+
+	// 임의의 노드로부터 가장 멀리 있는 노드 찾기
+	// = 트리의 지름을 이루는 두 노드 중 하나 발견
+	maxDist = 0;
+	dfs(1, 0);
+
+	// 방문 여부 초기화 및 가장 긴 길이 초기화
+	// 트리의 지름을 이루는 두 노드 중 하나로 가장 멀리 있는 노드 찾기
+	fill(begin(visited), end(visited), false);
+	maxDist = 0;
+	dfs(farth, 0);
+
+	cout << maxDist;
+
+	return 0;
+}

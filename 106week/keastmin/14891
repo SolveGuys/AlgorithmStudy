@@ -1,0 +1,81 @@
+#include <iostream>
+#include <vector>
+#include <string>
+using namespace std;
+
+string clockS(string s) {
+	string tmp = s.substr(7, 1);
+	s.erase(7, 1);
+	s = tmp + s;
+	//cout << s << '\n';
+
+	return s;
+}
+
+string revClockS(string s) {
+	string tmp = s.substr(0, 1);
+	s.erase(0, 1);
+	s = s + tmp;
+	//cout << s << '\n';
+
+	return s;
+}
+
+void GoLeft(vector<string>& s, int n, int dir, int org) {
+	if (n > 0) {
+		if (s[n][6] != s[n - 1][2]) {
+			int nd = (dir == -1) ? 1 : -1;
+			GoLeft(s, n - 1, nd, org);
+		}
+	}
+
+	if (n != org) {
+		if (dir == 1) s[n] = clockS(s[n]);
+		else if (dir == -1) s[n] = revClockS(s[n]);
+	}
+}
+
+void GoRight(vector<string>& s, int n, int dir) {
+	if (n < 3) {
+		if (s[n][2] != s[n + 1][6]) {
+			int nd = (dir == -1) ? 1 : -1;
+			GoRight(s, n + 1, nd);
+		}
+	}
+
+	if (dir == 1) s[n] = clockS(s[n]);
+	else if (dir == -1) s[n] = revClockS(s[n]);
+}
+
+int main() {
+	vector<string> ton(4);
+	int K;
+
+	cin >> ton[0] >> ton[1] >> ton[2] >> ton[3];
+	cin >> K;
+
+	int a, b;
+	for (int i = 0; i < K; i++) {
+		cin >> a >> b;
+		a--;
+		
+		GoLeft(ton, a, b, a);
+		GoRight(ton, a, b);
+
+		//for (const auto t : ton) {
+		//	cout << t << '\n';
+		//}
+		//cout << '\n';
+	}
+
+	int sum = 0;
+	int score = 1;
+	for (int i = 0; i < 4; i++) {
+		sum += (ton[i][0] == '1') ? score : 0;
+		score <<= 1;
+	}
+
+	cout << sum << '\n';
+
+	return 0;
+}
