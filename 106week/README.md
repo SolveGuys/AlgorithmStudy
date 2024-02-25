@@ -8,7 +8,7 @@
 
 ### 풀이
 
-[keastmin`s 풀이](https://github.com/keastmin/AlgorithmStudy/blob/master/106week/keastmin/1167)
+[mina3215의 풀이](./mina3215/1167.cpp)
 
 ___
 
@@ -30,14 +30,10 @@ ___
 
 ### 풀이
 
+[mina3215의 풀이](./mina3215/1149.cpp)
+
 ___
 
-## 백준 4811 알약
 
-
-### 문제
-[전체 문제 보기](https://www.acmicpc.net/problem/4811)
-
-### 풀이
 
 ___
