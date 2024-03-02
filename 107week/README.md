@@ -28,6 +28,8 @@ ___
 
 ### 풀이
 
+[keastmin`s 풀이](https://github.com/keastmin/AlgorithmStudy/blob/master/107week/keastmin/2156)
+
 ___
 
 ---
