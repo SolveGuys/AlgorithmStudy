@@ -1,0 +1,30 @@
+#include <iostream>
+#include <vector>
+#include <algorithm>
+
+using namespace std;
+
+int main() {
+	cin.tie(nullptr);
+	ios::sync_with_stdio(false);
+
+	int N;
+	cin >> N;
+	vector<int> arr(N + 1, 0);
+	vector<int> dp(N + 1, 0);
+
+	for (int i = 1; i <= N; i++) {
+		cin >> arr[i];
+	}
+
+	if (N >= 1) dp[1] = arr[1];
+	if (N >= 2) dp[2] = arr[2] + dp[1];
+
+	for (int i = 3; i <= N; i++) {
+		dp[i] = max({ dp[i - 3] + arr[i - 1] + arr[i], dp[i - 1], dp[i - 2] + arr[i] });
+	}
+
+	std::cout << dp[N] << '\n';
+
+	return 0;
+}
