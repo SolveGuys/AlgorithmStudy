@@ -8,6 +8,8 @@
 
 ### 풀이
 
+[mina3215의 풀이](https://mina3215.tistory.com/53)
+
 ___
 
 ## 백준 15683 감시
@@ -17,6 +19,8 @@ ___
 [전체 문제 보기](https://www.acmicpc.net/problem/15683)
 
 ### 풀이
+
+[mina3215의 풀이](./mina3215/15683.cpp)
 
 ___
 
@@ -29,6 +33,8 @@ ___
 ### 풀이
 
 [keastmin`s 풀이](https://github.com/keastmin/AlgorithmStudy/blob/master/107week/keastmin/2156)
+
+[mina3215의 풀이](./mina3215/2156.cpp)
 
 ___
 
