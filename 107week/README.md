@@ -38,4 +38,9 @@ ___
 
 ___
 
+## 백준 1111 IQ TEST
+[전체 문제 보기](https://www.acmicpc.net/problem/1111)
+
+[kang9366의 풀이](./kang9366/1111.cpp)
+
 ---
