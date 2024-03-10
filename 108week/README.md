@@ -17,7 +17,9 @@ ___
 [전체 문제 보기](https://www.acmicpc.net/problem/1937)
 
 ### 풀이
+
 [kang9366의 풀이](https://github.com/SolveGuys/AlgorithmStudy/tree/master/108week/kang9366)
+
 ___
 
 ## 백준 15684 사다리 조작
@@ -38,7 +40,10 @@ ___
 
 ### 풀이
 
+[mina3215의 풀이](https://mina3215.tistory.com/58)
+
 ---
+
 ## 백준 2206 벽부수고이동하기
 
 ### 문제
