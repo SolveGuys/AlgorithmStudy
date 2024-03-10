@@ -17,7 +17,7 @@ ___
 [전체 문제 보기](https://www.acmicpc.net/problem/1937)
 
 ### 풀이
-
+[kang9366의 풀이](https://github.com/SolveGuys/AlgorithmStudy/tree/master/108week/kang9366)
 ___
 
 ## 백준 15684 사다리 조작
