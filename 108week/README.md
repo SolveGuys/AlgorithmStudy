@@ -8,6 +8,7 @@
 
 ### 풀이
 
+[keastmin`s 풀이](https://github.com/keastmin/AlgorithmStudy/blob/master/108week/keastmin/1509.cpp)
 ___
 
 ## 백준 1937 욕심쟁이 판다
