@@ -52,3 +52,5 @@ ___
 [전체 문제 보기](https://www.acmicpc.net/problem/2206)
 
 ### 풀이
+
+[keastmin`s 풀이](https://github.com/keastmin/AlgorithmStudy/blob/master/108week/keastmin/2206.cpp)
