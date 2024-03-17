@@ -23,12 +23,12 @@ bool check() {
 
 // dfs를 사용하여 사다리를 놓는 함수
 void dfs(int count, int y, int x) {
-    if (count >= ret) return;
-    if (check()) {
+    if (count >= ret) return; // 이미 최적해보다 더 많은 사다리를 놓으려는 상황이므로 종료
+    if (check()) { //사다리 게임 결과가 올바른 경우 ret 값을 count로 받고 종료
         ret = count;
         return;
     }
-    if (count == 3) return;
+    if (count == 3) return; //사다리가 3회 놓아진 경우 종료
 
     for (int i = y; i <= h; ++i) {
         for (int j = x; j < n; ++j) {
