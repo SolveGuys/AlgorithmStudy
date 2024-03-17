@@ -39,3 +39,4 @@ ___
 [전체 문제 보기](https://www.acmicpc.net/problem/2623)
 
 ### 풀이
+[kang9366's 풀이](https://github.com/SolveGuys/AlgorithmStudy/blob/master/109week/kang9366/11679.cpp)
