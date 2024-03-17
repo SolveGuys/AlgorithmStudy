@@ -18,7 +18,7 @@ ___
 
 ### 풀이
 
-[kang9366의 풀이](https://github.com/SolveGuys/AlgorithmStudy/tree/master/108week/kang9366)
+[keastmin`s 풀이](https://github.com/keastmin/AlgorithmStudy/blob/master/109week/keastmin/17070)
 
 ___
 
