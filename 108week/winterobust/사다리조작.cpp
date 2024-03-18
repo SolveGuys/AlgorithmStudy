@@ -28,7 +28,7 @@ void dfs(int count, int y, int x) {
         ret = count;
         return;
     }
-    if (count == 3) return; //사다리가 3회 놓아진 경우 종료
+    if (count == 3) return; //사다리가 3회 놓아진 경우 종료 -> 케이스 return  (3회 초과 놓아진 경우 케이스)
 
     for (int i = y; i <= h; ++i) {
         for (int j = x; j < n; ++j) {
