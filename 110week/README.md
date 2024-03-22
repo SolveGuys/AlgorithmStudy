@@ -30,12 +30,10 @@ ___
 
 ___
 
-## 백준 16974 레벨 햄버거
+## 백준 15685 드래곤 커브
 
 ### 문제
 
-[전체 문제 보기](https://www.acmicpc.net/problem/2623)
+[전체 문제 보기](https://www.acmicpc.net/problem/15685)
 
 ### 풀이
-
-[kang9366's 풀이](https://github.com/SolveGuys/AlgorithmStudy/blob/master/109week/kang9366/11679.cpp)
