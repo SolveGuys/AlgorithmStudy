@@ -28,6 +28,7 @@ ___
 
 ### 풀이
 [kang9366의 풀이](https://github.com/SolveGuys/AlgorithmStudy/blob/master/110week/kang9366/2133.cpp)
+
 [mina3215의 풀이](https://mina3215.tistory.com/63)
 
 
