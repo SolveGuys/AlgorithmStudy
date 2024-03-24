@@ -1,6 +1,6 @@
 #include <stdio.h>
 #include <stdbool.h>
-
+// 총 동작 횟수 1+ 2+ 4+ ... + 1024 = 2047
 int N;
 bool grid[101][101];
 int dx[4] = {1, 0, -1, 0};  
