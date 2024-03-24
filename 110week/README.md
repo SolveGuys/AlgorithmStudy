@@ -8,6 +8,8 @@
 
 ### 풀이
 
+[mina3215의 풀이](https://mina3215.tistory.com/65)
+
 ___
 
 ## 백준 16236 아기 상어
@@ -27,11 +29,10 @@ ___
 [전체 문제 보기](https://www.acmicpc.net/problem/2133)
 
 ### 풀이
+
 [kang9366의 풀이](https://github.com/SolveGuys/AlgorithmStudy/blob/master/110week/kang9366/2133.cpp)
 
 [mina3215의 풀이](https://mina3215.tistory.com/63)
-
-
 
 ___
 
