@@ -28,6 +28,8 @@ ___
 
 ### 풀이
 
+[keastmin`s 풀이](https://github.com/keastmin/AlgorithmStudy/blob/master/111week/keastmin/1937.cpp)
+
 ___
 
 ## 백준 6593 상범 빌딩
