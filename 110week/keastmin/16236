@@ -1,0 +1,125 @@
+#include <iostream>
+#include <vector>
+#include <queue>
+#include <limits>
+using namespace std;
+
+int N;
+vector<vector<int>> map;
+int dx[4] = { 0, -1, 0, 1 };
+int dy[4] = { 1, 0, -1, 0 };
+
+int sX, sY;         // 상어의 시작 지점
+int sSize = 2;      // 상어의 크기
+int sEatCnt = 0;    // 먹은 횟수
+int res;            // 결과
+
+// 범위 초과, 방문 여부, 물고기의 크기 검사
+bool check(int x, int y, vector<vector<bool>>& v) {
+    if (x < 0 || x >= N || y < 0 || y >= N) return false;
+    else if (v[y][x]) return false;
+    else if (map[y][x] > sSize) return false;
+    return true;
+}
+
+// bfs를 통해 다음 물고기까지의 최단 거리 도출
+int bfs() {
+    // 결과가 될 거리를 우선 최대값으로 저장
+    int d = numeric_limits<int>::max();
+
+    // x, y, dist
+    queue<pair<pair<int, int>, int>> q;
+    vector<vector<bool>> visited(N, vector<bool>(N, false));
+    q.push({ {sX, sY}, 0 });
+    visited[sY][sX] = true;
+
+    while (!q.empty()) {
+        int x = q.front().first.first;
+        int y = q.front().first.second;
+        int dist = q.front().second;
+        q.pop();
+
+        // 상어가 물고기를 먹는 조건 분기
+        // 자신보다 작은 물고기라면
+        if (map[y][x] < sSize && map[y][x] != 0) {
+            // 거리가 더 가깝다면
+            if (d > dist) {
+                d = dist;
+                sX = x; sY = y;
+            }
+            // 거리가 같다면
+            else if (d == dist) {
+                // 더 위쪽
+                if (sY > y) {
+                    sX = x; sY = y;
+                }
+                // 높이가 같다면
+                else if (sY == y) {
+                    // 더 왼쪽
+                    if (sX > x) {
+                        sX = x; sY = y;
+                    }
+                }
+            }
+            // 거리가 최소값보다 커졌다면 종료
+            else {
+                break;
+            }
+        }
+
+        // 전형적인 bfs 양식
+        for (int i = 0; i < 4; i++) {
+            int nx = x + dx[i];
+            int ny = y + dy[i];
+
+            if (check(nx, ny, visited)) {
+                q.push({ {nx, ny}, dist + 1 });
+                visited[ny][nx] = true;
+            }
+        }
+    }
+
+    return d;
+}
+
+int main() {
+    cin >> N;
+    map.resize(N, vector<int>(N));
+    for (int i = 0; i < N; i++) {
+        for (int j = 0; j < N; j++) {
+            cin >> map[i][j];
+
+            // 상어 위치 초기화
+            if (map[i][j] == 9) {
+                map[i][j] = 0;
+                sX = j; sY = i;
+            }
+        }
+    }
+
+    // 종료 조건에 부합할 때까지 반복
+    while (true) {
+        // 물고기를 먹은 최소 거리 저장
+        int d = bfs();
+
+        // 만약 먹을 수 있는 물고기가 없다면 최대값이 저장됨
+        if (d == numeric_limits<int>::max()) break;
+
+        // 물고기를 먹고나면 그 위치를 0으로 저장
+        map[sY][sX] = 0;
+
+        // 거리 누적
+        res += d;
+
+        // 물고기 먹은 수 증가
+        sEatCnt++;
+        if (sEatCnt == sSize) {
+            sSize++;
+            sEatCnt = 0;
+        }
+    }
+
+    cout << res << '\n';
+
+    return 0;
+}
