@@ -30,11 +30,11 @@ ___
 
 ___
 
-## 백준
+## 백준 9466 텀 프로젝트
 
 ### 문제
 
-[전체 문제 보기](https://www.acmicpc.net/problem/6953)
+[전체 문제 보기](https://www.acmicpc.net/problem/9466)
 
 ### 풀이
 
