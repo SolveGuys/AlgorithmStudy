@@ -23,10 +23,10 @@ int main() {
 	}
 	sort(v.begin(), v.end());
 
-	// ÀÌÀü DP¸¦ ´ãÀ» q -> ¸Ş¸ğ¸® ÃÊ°ú ¶ä;
+	// ì´ì „ DPë¥¼ ë‹´ì„ q -> ë©”ëª¨ë¦¬ ì´ˆê³¼ ëœ¸;
 	queue<vector<int>> q;
 
-	// Ã³À½ ´õ¹Ì »ı¼º.
+	// ì²˜ìŒ ë”ë¯¸ ìƒì„±.
 	vector<int> dp(D + 1,0);
 	q.push(dp);
 
@@ -35,9 +35,9 @@ int main() {
 		int d = v[idx].first;
 		int p = v[idx].second;
 
-		// ÀÌÀü ±â·Ï ºÒ·¯¿À±â
+		// ì´ì „ ê¸°ë¡ ë¶ˆëŸ¬ì˜¤ê¸°
 		vector<int> prev = q.front();
-		// ÇöÀç ÃÖ´ë °ªÀ» ±â·ÏÇÒ DP
+		// í˜„ì¬ ìµœëŒ€ ê°’ì„ ê¸°ë¡í•  DP
 		vector<int> DP(D + 1,0);
 		
 		q.pop();
@@ -50,9 +50,6 @@ int main() {
 			DP[j] = DP[j - 1];
 		}
 
-		for (auto i : DP)
-			cout << i << ' ';
-		cout << '\n';
 		q.push(DP);
 	}
 
