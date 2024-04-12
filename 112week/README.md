@@ -8,6 +8,8 @@
 
 ### 풀이
 
+[keastmin`s 풀이](https://github.com/keastmin/AlgorithmStudy/blob/master/112week/keastmin/11066.cpp)
+
 ___
 
 ## 백준 16987 계란으로 계란치기
@@ -19,6 +21,8 @@ ___
 ### 풀이
 
 [mina3215의 풀이](./mina3215/16987.cpp)
+
+[keastmin`s 풀이](https://github.com/keastmin/AlgorithmStudy/blob/master/112week/keastmin/16987.cpp)
 
 ___
 
@@ -32,6 +36,8 @@ ___
 
 [mina3215의 풀이](./mina3215/2109.cpp)
 
+[keastmin`s 풀이](https://github.com/keastmin/AlgorithmStudy/blob/master/112week/keastmin/2109.cpp)
+
 ___
 
 ## 백준 9466 텀 프로젝트
@@ -41,6 +47,8 @@ ___
 [전체 문제 보기](https://www.acmicpc.net/problem/9466)
 
 ### 풀이
+
+[keastmin`s 풀이](https://github.com/keastmin/AlgorithmStudy/blob/master/112week/keastmin/9466.cpp)
 
 ---
 
