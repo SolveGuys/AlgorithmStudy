@@ -62,5 +62,5 @@ ___
 
 ### 풀이
 
-[keastmin`s 풀이](https://github.com/keastmin/AlgorithmStudy/blob/master/112week/keastmin/14502.cpp)
+[keastmin`s 풀이](https://github.com/keastmin/AlgorithmStudy/blob/master/112week/keastmin/14502.cpp)  
 [mina3215의 풀이](./mina3215/14502.cpp)
