@@ -9,6 +9,7 @@
 ### 풀이
 
 [keastmin`s 풀이](https://github.com/keastmin/AlgorithmStudy/blob/master/112week/keastmin/11066.cpp)
+[mina3215의 풀이](https://mina3215.tistory.com/71)
 
 ___
 
