@@ -52,10 +52,12 @@ ___
 
 ---
 
-## 백준
+## 백준 14502 연구소
 
 ### 문제
 
-[전체 문제 보기](https://www.acmicpc.net/problem/12851)
+[전체 문제 보기](https://www.acmicpc.net/problem/14502)
 
 ### 풀이
+
+[keastmin`s 풀이](https://github.com/keastmin/AlgorithmStudy/blob/master/112week/keastmin/14502.cpp)
