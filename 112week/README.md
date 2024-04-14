@@ -50,6 +50,8 @@ ___
 
 [keastmin`s 풀이](https://github.com/keastmin/AlgorithmStudy/blob/master/112week/keastmin/9466.cpp)
 
+[mina3215의 풀이](./mina3215/9466.cpp)
+
 ---
 
 ## 백준 14502 연구소
@@ -61,3 +63,4 @@ ___
 ### 풀이
 
 [keastmin`s 풀이](https://github.com/keastmin/AlgorithmStudy/blob/master/112week/keastmin/14502.cpp)
+[mina3215의 풀이](./mina3215/14502.cpp)
