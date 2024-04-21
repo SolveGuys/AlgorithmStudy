@@ -8,6 +8,8 @@
 
 ### 풀이
 
+[keastmin`s 풀이](https://github.com/keastmin/AlgorithmStudy/blob/master/113week/keastmin/2234.cpp)
+
 ___
 
 ## 백준 1939 중량제한
@@ -17,6 +19,8 @@ ___
 [전체 문제 보기](https://www.acmicpc.net/problem/1939)
 
 ### 풀이
+
+[keastmin`s 풀이](https://github.com/keastmin/AlgorithmStudy/blob/master/113week/keastmin/1939.cpp)
 
 ___
 
@@ -28,6 +32,8 @@ ___
 
 ### 풀이
 
+[keastmin`s 풀이](https://github.com/keastmin/AlgorithmStudy/blob/master/113week/keastmin/14923.cpp)
+
 ___
 
 ## 백준 7579 앱
@@ -37,5 +43,7 @@ ___
 [전체 문제 보기](https://www.acmicpc.net/problem/7579)
 
 ### 풀이
+
+[keastmin`s 풀이](https://github.com/keastmin/AlgorithmStudy/blob/master/113week/keastmin/7579.cpp)
 
 ---
