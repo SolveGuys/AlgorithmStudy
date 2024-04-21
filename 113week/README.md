@@ -22,6 +22,8 @@ ___
 
 [keastmin`s 풀이](https://github.com/keastmin/AlgorithmStudy/blob/master/113week/keastmin/1939.cpp)
 
+[mina3215의 풀이](./mina3215/1939.cpp)
+
 ___
 
 ## 백준 14923 미로탈출
