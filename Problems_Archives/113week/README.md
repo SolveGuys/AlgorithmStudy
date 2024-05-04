@@ -36,8 +36,6 @@ ___
 
 [keastmin`s 풀이](https://github.com/keastmin/AlgorithmStudy/blob/master/113week/keastmin/14923.cpp)
 
-[kknyapple의 풀이](./kknyapple/14923.cpp)
-
 ___
 
 ## 백준 7579 앱
