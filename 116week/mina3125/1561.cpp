@@ -9,22 +9,31 @@ int ride[10001];
 
 pair<int, long long> bin_search(int min_t) {
 	long long s = 1;
+
+	// 최대 시간 : N * 놀이 기구 중 최소 소요 시간 
+	// 무조건 이거 보다 적게 걸림. 
 	long long e = N * min_t;
 	long long mid;
 
 	long long cnt;
 	long long plus;
 
+	// 시간을 기준으로 이분탐색
 	while (s <= e) {
 		mid = (s + e) / 2;
 
 		cnt = 0;
 		plus = 0;
 		for (int i = 1; i <= M; i++) {
+			// cnt : 현재 탑승하고 있는 인원 수 
+			// plus : 다음으로 탑승 가능한 인원 수 -> 나머지 0일 경우,
 			cnt += mid % ride[i] ? mid / ride[i] + 1 : mid / ride[i];
 			plus += mid % ride[i] ? 0 : 1;
 		}
 
+		// 2가지 조건이 가능해야 한다.
+		// 1. cnt + plus >= N 이어야 함 
+		// 2. cnt < N 이어야 함. 
 		if (cnt + plus < N)
 			s = mid + 1;
 		else {
