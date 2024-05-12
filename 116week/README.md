@@ -8,6 +8,8 @@
 
 ### 풀이
 
+[keastmin`s 풀이](https://github.com/keastmin/AlgorithmStudy/blob/master/116week/keastmin/15486.cpp)
+
 ___
 
 ## 백준 1561 놀이 공원
