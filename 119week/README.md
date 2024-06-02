@@ -38,4 +38,6 @@ ___
 
 ### 풀이
 
+[keastmin`s 풀이](https://github.com/keastmin/AlgorithmStudy/blob/master/119week/keastmin/14226.cpp)
+
 ---
