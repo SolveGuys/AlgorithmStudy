@@ -8,6 +8,8 @@
 
 ### 풀이
 
+[keastmin`s 풀이](https://github.com/keastmin/AlgorithmStudy/blob/master/118week/keastmin/2631.cpp)
+
 ___
 
 ## 백준 2143 두 배열의 합
@@ -18,7 +20,7 @@ ___
 
 ### 풀이
 
-[keastmin`s 풀이](https://github.com/keastmin/AlgorithmStudy/blob/master/117week/keastmin/14863.cpp)
+[keastmin`s 풀이](https://github.com/keastmin/AlgorithmStudy/blob/master/118week/keastmin/2143.cpp)
 
 ___
 
@@ -30,6 +32,8 @@ ___
 
 ### 풀이
 
+[keastmin`s 풀이](https://github.com/keastmin/AlgorithmStudy/blob/master/118week/keastmin/2636.cpp)
+
 ___
 
 ## 백준 2042 구간 합 구하기
@@ -39,5 +43,7 @@ ___
 [전체 문제 보기](https://www.acmicpc.net/problem/5557)
 
 ### 풀이
+
+[keastmin`s 풀이](https://github.com/keastmin/AlgorithmStudy/blob/master/118week/keastmin/2042.cpp)
 
 ---
