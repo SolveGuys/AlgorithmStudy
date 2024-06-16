@@ -31,7 +31,7 @@ int main() {
         cin >> a >> b;
         v.push_back({ a, b });
     }
-    cout << "====================================================";
+    //cout << "====================================================";
     sort(v.begin(), v.end());
     for (int i = 0; i < v.size(); i++) {
         auto it = lower_bound(lis, lis + len, v[i].second);
