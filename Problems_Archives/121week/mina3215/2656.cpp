@@ -6,6 +6,7 @@ vector<pair<int, int>> v;
 void solution() {
     int DP[504];
     int max_V = 0;
+   
     for (int i = 0; i < n; i++) {
         DP[i] = 1;
         for (int j = 1; j < i; j++) {
@@ -17,7 +18,7 @@ void solution() {
 
 }
 
-//증가하는 가장 긴 부분 수열
+// 증가하는 가장 긴 부분 수열
 // first 기준 정렬, second로 가장 긴 부분 수열 찾기. 
 
 // 1. DP => O(n^2)
@@ -31,18 +32,17 @@ int main() {
         cin >> a >> b;
         v.push_back({ a, b });
     }
-    //cout << "====================================================";
+    
     sort(v.begin(), v.end());
+    
     for (int i = 0; i < v.size(); i++) {
         auto it = lower_bound(lis, lis + len, v[i].second);
         if (*it == 0) len++;
         *it = v[i].second;
-        /*
         for (auto iter = lis; iter != lis + len; iter++) {
             cout << *iter << ' ';
         }
         cout << '\n';
-        */
     }
     cout << n - len << "\n";
     return 0;
