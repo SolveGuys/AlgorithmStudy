@@ -14,7 +14,7 @@ ___
 
 ### 문제
 
-[전체 문제 보기](https://school.programmers.co.kr/learn/courses/30/lessons/1339)
+[전체 문제 보기](https://www.acmicpc.net/problem/1339)
 
 ### 풀이
 
@@ -24,7 +24,7 @@ ___
 
 ### 문제
 
-[전체 문제 보기](https://school.programmers.co.kr/learn/courses/30/lessons/2141)
+[전체 문제 보기](https://www.acmicpc.net/problem/2141)
 
 ### 풀이
 
