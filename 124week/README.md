@@ -28,6 +28,8 @@ ___
 
 ### 풀이
 
+[mina3215의 풀이](https://mina3215.tistory.com/84)
+
 ___
 
 ## 백준 3067 Coins
