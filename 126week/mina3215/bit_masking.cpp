@@ -1,7 +1,10 @@
 #include <iostream>
 #include <cstdio>
+
 using namespace std;
+
 int a[4][4], n, m, ret;
+
 int main() {
     // 입력
     scanf("%d %d", &n, &m);
@@ -12,6 +15,7 @@ int main() {
     }
     // 2*2 라고 했을 때 
     // s < 10000 (2진수)
+    // 00000
     for (int s = 0; s < (1 << (n * m)); s++) {
         // 0을 체크 : 0은 가로
         int sum = 0;
@@ -20,6 +24,7 @@ int main() {
             for (int j = 0; j < m; j++) {
                 // k는 번호, 0~3까지 
                 int k = i * m + j;
+                // 0 0 0 0 0 
                 if ((s & (1 << k)) == 0) {
                     cur = cur * 10 + a[i][j];
                 }
